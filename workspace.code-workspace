@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"./hegel.css"
+			"./kant.css"
+			"./simple.css"
+			"./plato.css"
+			"./color1.css"
+			"./color2.css"
+		]
+	}
+}
