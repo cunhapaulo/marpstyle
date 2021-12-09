@@ -9,3 +9,7 @@ This set of styles were designed bearing simplicity and beaty in mind as first c
 More styles are due to come. Stay tuned!
 
 
+## Screenshots
+
+![](img/plato01.png)
+
