@@ -1,4 +1,4 @@
-# Marp Styles (marpstyle)
+# Marp Themes (marpstyle)
 
 Repository for Marp Themes created out of the desired for beauty and simplicity.
 
