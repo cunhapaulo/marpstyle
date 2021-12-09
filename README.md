@@ -1,8 +1,11 @@
-# Marp Styles (marpstyle)
+# Marp Themes - `marpstyle`
 
 Repository for Marp Themes created out of the desired for beauty and simplicity.
 
-This set of styles were designed bearing simplicity and beauty in mind as first class requirements. As the first style (plato.css) got ready I decided to share.  Hope sincerely you enjoy it and that it comes to be useful to as many as possible.
+
+
+![](img/plow_man.gif) | This set of styles were designed bearing simplicity and beauty in mind as first class requirements. As the first style (plato.css) got ready I decided to share.  Hope sincerely you enjoy it and that it comes to be useful to as many as possible.  
+---------|----------
 
 More styles are due to come. Stay tuned!
 
