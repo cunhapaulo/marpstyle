@@ -27,3 +27,7 @@ Some of the fonts used in the available styles are listed below:
 ### Metropolis
 - https://github.com/njugunagathere/Metropolis
 
+# Credits
+
+- **Plato** theme was inspired by **Metropolis Beamer Theme** for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
+- Used some parts of [Juan Vera del Campo](https://github.com/Juanvvc) CSS styles. Gracias!
