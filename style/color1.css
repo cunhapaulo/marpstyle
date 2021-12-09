@@ -7,7 +7,6 @@
 :root {
     
     --bold-color                : rgb(255, 68, 0);
-    --font-family               : 'Fira Sans Light';
     --border-color              : #e99211;
     --h1-color                  : black;
 
@@ -23,9 +22,6 @@
     --darker-color              : #246;
     --lighter-color             : #080a0a;
     --extra-back-color          : rgb(175, 172, 173);
-
-    font-family: var(--font-family);
-    font-weight: initial;
 }
 
 /* -------------------- TRANSITION ---------------------------------*/

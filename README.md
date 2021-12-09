@@ -9,7 +9,12 @@ More styles are due to come. Stay tuned!
 
 # Screenshots
 
-![](img/plato01.png)
+![Style: Plato](img/plato01.png)<br>
+Plato style
+
+![Style: Hegel](img/hegel01.png)<br>
+Hegel style
+
 
 
 # Typefaces

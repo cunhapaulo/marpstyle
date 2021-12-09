@@ -31,6 +31,12 @@
 
 /***************** COMMON STRUCTURE **********************/
 
+:root {
+  font-family: 'Fira Sans Light';
+  font-weight: initial;
+}
+
+
 h1 {
   color: var(--h1-color);
   border-bottom: 1px solid var(--border-color);
@@ -79,13 +85,25 @@ section::after {
     attr(data-marpit-pagination-total) " ";
 }
 
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.small {
+  font-size: 24px;
+}
+
 /* 
    Tables are always centered.
    Credits: Juan Vera del Campo 
    Locus:   https://github.com/Juanvvc
    
 */
-
 section table {
   margin-right: auto;
   margin-left: auto;
@@ -108,6 +126,11 @@ section table tr:nth-child(2) {
 section table tr:last-child {
   border-bottom: black solid 2px;
 }
+
+
+tr:nth-child(even) {background-color: #e8edf1 !important;}
+tr:hover {color: darkorange; background-color: rgb(17, 17, 16);}
+
 
 /* Block quote: used for footnote substitution. Use as the last element of a slide. */
 section blockquote {
