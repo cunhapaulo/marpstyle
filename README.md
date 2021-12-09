@@ -16,9 +16,9 @@ More styles are due to come. Stay tuned!
 
 Some of the fonts used in the available styles are listed below:
 
-## Fira:  
+### Fira:  
 - https://github.com/bBoxType/FiraSans
 
-## Metropolis
+### Metropolis
 - https://github.com/njugunagathere/Metropolis
 
