@@ -36,10 +36,10 @@ theme       : plato
 
 <!-- _class: titlepage -->
 
-![bg left:33%](https://images.unsplash.com/photo-1436891620584-47fd0e565afb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+![bg left:33%](https://helihub-wp.s3.amazonaws.com/wp-content/uploads/2021/07/20210705gw-Helionix.jpg)
 
-<div class="title">Graph Algebra Formally Defined in Z Notation</div>
-<div class="subtitle">Using Haskell to Reason about Programs </div>
+<div class="title">Graph Algebra and Formally Defined Programs in Z</div>
+<div class="subtitle">Using Haskell to Reason and Verify Programs</div>
 <div class="author">Leonard Kleinrock</div>
 <div class="date">01.jan.2022</div>
 <div class="organization">Formal Methods International Congress</div>
@@ -50,8 +50,8 @@ theme       : plato
 
 ![bg left:33%](https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80)
 
-# Graph Algebra Formally Defined in Z Notation
-## Using Haskell to Reason about Programs
+# Graph Algebra and Formally Defined Programs in Z
+## Using Haskell to Reason and Verify Programs
 ### Leonard Kleinrock
 #### 01.jan.2022
 ##### Formal Methods International Congress
@@ -65,16 +65,16 @@ theme       : plato
 
 <!-- _class: cool-list -->
 
-1. *Uno*
-1. *Dos*
-1. *Cinco*
+1. *Dasein*
+1. *Prolegomena*
+1. *Phenomenology*
 
 </div>
 <div>
 
-4. *Uno*
-1. *Dos*
-1. *Cinco*
+4. *Noumena*
+1. *Gnosis*
+1. *Metanoia*
 
 </div>
 </div>
@@ -83,15 +83,13 @@ theme       : plato
 
 # Is Algebraic Graph Knowledge possible?
 
-O Espiritismo é uma ciência que trata da natureza, origem e destino dos Espíritos, bem como de suas relações com o mundo corporal. 
+Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.
 
-- Existe apenas uma Doutrina Espírita com tríplice aspecto!
+- Model Cheking and theorem prooving are viable paths.
 
-Texto realçado ficará assim:
-- Realce tipo 1 é assim: **texto realçado**!
-- Realce tipo 2 é assim: _texto realçado_!
-- Texto sem realce algum.
-
+When the neet to  make strong assertions becomes inevitable:
+- This is the first way: **outstanding assertion**!
+- Even greater impact comes from: _hilight text_!
 
 > **Footenote**: This is a footnote.
 ---
@@ -199,22 +197,22 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <!-- _class: cite -->
 
-"O Espiritismo é uma ciência cujo fim é a **demonstração** experimental da **existência** da alma e sua imortalidade, por meio de comunicações com aqueles aos quais impropriamente têm sido chamados mortos."
+"There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 ---
 
 <!-- _class: cite -->
 
-<div class="cite-author" data-text="Allan Kardec">
+<div class="cite-author" data-text="Mona Batra">
 
-   "O Espiritismo é uma ciência cujo fim é a **demonstração** experimental da **existência** da alma e sua imortalidade, por meio de comunicações com aqueles aos quais impropriamente têm sido chamados mortos."
+   "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 </div>
 
 ---
 <!-- _class: transition -->
 
-# Slide de Transição
+# Transition Slide
 
 ---
 
@@ -226,11 +224,13 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-# Referências Bibliográficas
+# References
 
-1. KARDEC, Allan. [O Evangelho segundo o Espiritismo](https://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf). Tradução: Guillon Ribeiro. 131. ed. 1. imp. Brasília: FEB, 2013. 
+1. Boehm B. W.: **Software Engineering Economics**. Prentice Hall, 1981.
 
-2. Imagens livres usadas dos sites [Unsplash](https://unsplash.com/) e [Picsum](https://picsum.photos/).
+2. Pressman Roger S: **Software Engineering - A Practitioner’s Approach**, McGraw Hill, 5th edition. 2000.
+
+3. Rushby John: **Formal Methods and the Certication of Critical Systems**. Tech. Rep. SRI-CSL-93-7, Computer Science Laboratory, SRI International, Menlo Park, CA, Dec. 1993.
 
 ---
 <!-- 
@@ -241,11 +241,13 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 ![bg opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-# Referências Bibliográficas
+# References
 
-1. KARDEC, Allan. [O Evangelho segundo o Espiritismo](https://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Espiritos.pdf). Tradução: Guillon Ribeiro. 131. ed. 1. imp. Brasília: FEB, 2013. 
+1. Boehm B. W.: **Software Engineering Economics**. Prentice Hall, 1981.
 
-2. Imagens livres usadas dos sites [Unsplash](https://unsplash.com/) e [Picsum](https://picsum.photos/).
+2. Pressman Roger S: **Software Engineering - A Practitioner’s Approach**, McGraw Hill, 5th edition. 2000.
+
+3. Rushby John: **Formal Methods and the Certication of Critical Systems**. Tech. Rep. SRI-CSL-93-7, Computer Science Laboratory, SRI International, Menlo Park, CA, Dec. 1993.
 
 
 ---

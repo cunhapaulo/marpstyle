@@ -32,5 +32,5 @@ Some of the fonts used in the available styles are listed below:
 
 # Credits
 
-- **Plato Theme** was inspired by [Metropolis Beamer Theme](https://github.com/matze/mtheme) for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
+- **Plato** theme was inspired by [Metropolis Beamer Theme](https://github.com/matze/mtheme) for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
 - Used some parts of [Juan Vera del Campo](https://github.com/Juanvvc) CSS styles. Gracias!
