@@ -1,0 +1,122 @@
+/* @theme hegel */
+
+@import "default";
+
+section {
+  font-family: ;
+}
+
+/* Add "Page" prefix and total page number */
+section::after {
+  content: "Pág. " attr(data-marpit-pagination) " / " attr(data-marpit-pagination-total);
+}
+
+blockquote {
+  border-top: 0.1em dashed #555;
+  font-size: 65%;
+  margin-top: auto;
+}
+
+h1 {
+  /* font-family: "Lato"; */
+  font-size: 150%;
+  color: rgb(25, 26, 180);
+  /* color: rgb(42, 119, 233); */
+  color: crimson;
+  border-bottom: 1px solid #8aa6da;
+}
+
+h2 {
+  color: rgb(25, 26, 100);
+  font-size: 120%;
+}
+
+h5 {
+   margin-left: 150px;
+}
+
+table {
+  font-size: 13px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 15px;
+	padding-top: 10px;
+}
+
+th, td {
+  padding: 4px !important;
+}
+
+th {
+  background-color: #0575a1;
+  color: white;
+}
+
+tr:nth-child(even) {background-color: #e8edf1 !important;}
+tr:hover {background-color: rgb(252, 126, 8);}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  justify-content: center !important;
+}
+
+.container {
+  display: table;
+}
+
+.row {
+  display: table-row;
+}
+
+.col {
+  display: table-cell;
+  vertical-align: middle !important;
+  horizontal-align: middle !important;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.small {
+  font-size: 24px;
+}
+
+.transition {
+  color: white !important;
+  font-size: 72px;
+  font-weight: bold;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.1) url() no-repeat scroll 10px 10px;
+}
+
+.transition2 {
+  font-family: "Flama Light";
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  background-color: white;
+  background: rgba(255, 255, 255, 0.65)
+    url("https://img.icons8.com/windows/120/000000/idea--v1.png") no-repeat
+    scroll 10px 10px;
+  padding: 0.55em;
+  -webkit-box-shadow: 6px 5px 23px 0px rgba(48, 48, 48, 0.83);
+  box-shadow: 6px 5px 23px 0px rgba(48, 48, 48, 0.83);
+}
+
+.transition3 {
+  color: black !important;
+  font-size: 62px;
+  font-weight: bold;
+  text-align: center;
+  /* background: rgba(0, 0, 0, 0.1) url() no-repeat scroll 10px 10px; */
+}
