@@ -273,6 +273,7 @@ section.titlepage:after {
 section.transition {
   background-color: var(--transitionpage-color);
   text-align: center !important;
+  font-weight: bold !important;
   color: white;
   padding-top: auto;
   padding-buttom: auto;
