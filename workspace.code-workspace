@@ -6,12 +6,15 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./style/hegel.css"
-			"./style/kant.css"
 			"./style/simple.css"
 			"./style/plato.css"
+			"./style/kant.css"
+			"./style/hegel.css"
 			"./style/color1.css"
 			"./style/color2.css"
+			"./style/color3.css"
+			"./style/structure.css"
+
 		]
 	}
 }

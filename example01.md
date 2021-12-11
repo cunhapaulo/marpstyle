@@ -39,7 +39,7 @@ theme       : plato
 ![bg left:33%](https://helihub-wp.s3.amazonaws.com/wp-content/uploads/2021/07/20210705gw-Helionix.jpg)
 
 <div class="title">Graph Algebra and Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and Verify Programs</div>
+<div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
 <div class="author">Leonard Kleinrock</div>
 <div class="date">01.jan.2022</div>
 <div class="organization">Formal Methods International Congress</div>
@@ -51,7 +51,7 @@ theme       : plato
 ![bg left:33%](https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80)
 
 # Graph Algebra and Formally Defined Programs in Z
-## Using Haskell to Reason and Verify Programs
+## Using Haskell to Reason and  Verify Programs
 ### Leonard Kleinrock
 #### 01.jan.2022
 ##### Formal Methods International Congress
@@ -226,7 +226,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 # References
 
-1. Boehm B. W.: **Software Engineering Economics**. Prentice Hall, 1981.
+1. Boehm B. W.: **Software  Engineering Economics**. Prentice Hall, 1981.
 
 2. Pressman Roger S: **Software Engineering - A Practitioner’s Approach**, McGraw Hill, 5th edition. 2000.
 
