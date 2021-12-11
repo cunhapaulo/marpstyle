@@ -65,15 +65,17 @@ theme       : plato
 <!-- _class: cool-list -->
 
 1. *Dasein*
-1. *Prolegomena*
-1. *Phenomenology*
+2. *Prolegomena*
+3. *Phenomenology*
+3. *Kantism*
 
 </div>
-<div>
+<div> 
 
 4. *Noumena*
-1. *Gnosis*
-1. *Metanoia*
+5. *Gnosis*
+6. *Metanoia*
+6. *Ascese*
 
 </div>
 </div>
