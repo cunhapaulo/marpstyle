@@ -23,7 +23,7 @@ Remeber to include the path to the style files (CSS files) in your `workspace.co
 
 It might look similar to:
 
-```yaml
+```json
 {
 	"folders": [
 		{
