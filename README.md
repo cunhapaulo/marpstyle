@@ -18,10 +18,35 @@ Plato style
 ![Style: Hegel](img/hegel01.png)<br>
 Hegel style
 
+# Install
+Remeber to include the path to the style files (CSS files) in your `workspace.code-workspace` file in order to make them available to your slide deck.
 
+It might look similar to:
+
+```
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"./style/simple.css"
+			"./style/plato.css"
+			"./style/kant.css"
+			"./style/hegel.css"
+			"./style/color1.css"
+			"./style/color2.css"
+			"./style/color3.css"
+			"./style/structure.css"
+
+		]
+	}
+}
+```
 
 # Typefaces
-
 Some of the fonts used in the available styles are listed below:
 
 ### Fira:  
