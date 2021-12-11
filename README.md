@@ -4,10 +4,13 @@ Repository for Marp Themes created out of the desired for beauty and simplicity.
 
 
 
-![](img/plow_man.gif) | This set of styles were designed bearing simplicity and beauty in mind as first class requirements. As the first style (plato.css) got ready I decided to share.  Hope sincerely you enjoy it and that it comes to be useful to as many as possible.  
----------|----------
+![](img/plow_man.gif) | This set of styles were designed bearing simplicity and beauty in mind as first class requirements. As the first style (plato.css) got ready I decided to share.  Hope sincerely you enjoy it and that it comes to be useful to as many as possible.
 
 More styles are due to come. Stay tuned!
+
+---------|----------
+
+![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
 
 # Screenshots
