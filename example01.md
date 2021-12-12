@@ -1,8 +1,8 @@
 ---
-title       : Slide de Teste dos Styles
+title       : Example Slides for Themes
 author      : Paulo Cunha
-description : Slides para teste dos Styles disponíveis.
-keywords    : Marp, Slides, Teste.
+description : This is an example of how to use my themes.
+keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
 theme       : plato
@@ -64,18 +64,18 @@ theme       : plato
 
 <!-- _class: cool-list -->
 
-1. *Dasein*
-2. *Prolegomena*
-3. *Phenomenology*
-3. *Kantism*
+1. *Berlin*
+2. *Hannover*
+3. *Freiburg*
+3. *Heidelberg*
 
 </div>
 <div> 
 
-4. *Noumena*
-5. *Gnosis*
-6. *Metanoia*
-6. *Ascese*
+4. *Leipzig*
+5. *Dresden*
+6. *Aachen*
+6. *München*
 
 </div>
 </div>
@@ -92,7 +92,8 @@ When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!
 - Even greater impact comes from: _hilight text_!
 
-> **Footenote**: This is a footnote.
+> \***Note**: This is a very long footnote line intended to test the layout of two lines.
+
 ---
 
 <div class="columns">

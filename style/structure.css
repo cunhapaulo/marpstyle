@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 09.dez.2021
+    last update: 11.dez.2021
   ============================================
 
     You may use freely (MIT license) provided  
@@ -12,22 +12,19 @@
 
     CLASSES:
         
-        <!-- _class: cool-list        -->
-        <!-- _class: cool-list2       -->
-
         <!-- _class: cite             -->
         <!-- _class: columns          -->
         <!-- _class: columns-center   -->
         <!-- _class: transition       -->
         <!-- _class: titlepage        -->
-        
+
+        <!-- _class: cool-list        -->
+        <!-- _class: cool-list2       -->
+
+
 */
 
-/* Importing COLOR SCHEMA */
-
 @import "default";
-
-
 
 /***************** COMMON STRUCTURE **********************/
 
@@ -67,18 +64,18 @@ section strong {
   color: var(--bold-color);
   padding-left: 5px;
   padding-right: 5px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 /* May append some string to page number     */
 /* Uses format "page-number / total pages" */
+
 section::after {
   color: rgb(111, 126, 158);
   font-size: 0.8em;
   content: " " attr(data-marpit-pagination) "/"
     attr(data-marpit-pagination-total) " ";
 }
-
 
 .center {
   text-align: center;
@@ -121,20 +118,38 @@ section table tr:last-child {
   border-bottom: black solid 2px;
 }
 
+tr:nth-child(even) {
+  background-color: #e8edf1 !important;
+}
+tr:hover {
+  color: darkorange;
+  background-color: rgb(17, 17, 16);
+}
 
-tr:nth-child(even) {background-color: #e8edf1 !important;}
-tr:hover {color: darkorange; background-color: rgb(17, 17, 16);}
-
-
-/* Block quote: used for footnote substitution. Use as the last element of a slide. */
+/* 
+  Block quote: used for footnote
+  substitution. Use as the last  
+  element of a slide.
+*/
 section blockquote {
   color: gray;
+  font-size: unset;
   border-top: 0.1em dashed var(--extra-back-color);
-  font-size: 40%;
   margin-top: auto;
 }
 
-/* Adds two-columns class */
+section blockquote strong {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  font-size: 1.0em;
+}
+
+section blockquote p {
+  font-size: 0.8em;
+}
+/* 
+  Adds two-columns class 
+*/
 .columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -142,7 +157,9 @@ section blockquote {
   /* justify-content: center !important; */
 }
 
-/* Adds two-columns with centered contens class */
+/* 
+  Adds two-columns with centered contens class 
+*/
 .columns-center {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -171,7 +188,9 @@ section.titlepage {
   background-color: var(--background-color);
 }
 
-/* Titlepage informations */
+/* 
+  Titlepage informations 
+*/
 section.titlepage .title {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
@@ -207,7 +226,6 @@ section.titlepage .organization {
   color: var(--titlepage-color);
   line-height: 1.5;
 }
-/* Titlepage definitions for h1,h2..h5 */
 section.titlepage h3,
 section.titlepage h4,
 section.titlepage h5 {
@@ -326,7 +344,7 @@ section.cite {
 section.cite footer,
 section.cite header,
 section.cite:after {
-/* hide header, footer and pagination */
+  /* hide header, footer and pagination */
   display: none;
 }
 
@@ -461,7 +479,6 @@ section.cool-list > ol > li > ul {
 section.cool-list > ol ol > li > em {
   background: #efefef;
 }
-
 
 /******************* cool-list2 *****************************/
 /* 
