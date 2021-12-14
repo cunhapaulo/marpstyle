@@ -1,13 +1,10 @@
-/* @theme color1 */
-
-@import "structure";
-
+/* @theme schema3 */
 
 /* -------------------- ROOT ----------------------------------*/
 :root {
     
-    --bold-color                : rgb(255, 68, 0);
-    --border-color              : #e99211;
+    --bold-color                : rgb(20, 73, 116);
+    --border-color              : #1167e9;
     --h1-color                  : black;
 
     --italic-color              : black;
@@ -22,6 +19,9 @@
     --darker-color              : #246;
     --lighter-color             : #080a0a;
     --extra-back-color          : rgb(175, 172, 173);
+
+    --letter-spacing            : 0.125px;
+
 }
 
 /* -------------------- TRANSITION ---------------------------------*/
@@ -44,9 +44,11 @@ section.titlepage {
     /* fonts sizes */
     --title-size            : 150%;
     --subtitle-size         : 110%;
-    --author-size           : 100%;
-    --date-size             : 100%;
-    --institute-size        : 85%;
+    --author-size           : 110%;
+    --date-size             : 110%;
+    --institute-size        : 90%;
+
+    --letter-spacing        : 0.125px;
 
     /* font weights */
     --title-font-weight     : 600;

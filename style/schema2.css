@@ -1,7 +1,4 @@
-/* @theme color2 */
-
-@import "structure";
-
+/* @theme schema2 */
 
 /* -------------------- ROOT ----------------------------------*/
 :root {
@@ -23,7 +20,8 @@
     --darker-color              : #246;
     --lighter-color             : #87ceeb;
     --extra-back-color          : rgb(175, 172, 172);
-    
+
+    --letter-spacing            : -0.1px;    
 }
 
 /* -------------------- LEAD ---------------------------------*/
@@ -49,6 +47,8 @@ section.titlepage {
     --author-size           : 100%;
     --date-size             : 100%;
     --institute-size        : 85%;
+    --letter-spacing        : -0.1px;
+    
 
     /* font weights */
     --title-font-weight     : 600;

@@ -25,12 +25,11 @@
 
 /* Importing COLOR SCHEMA */
 
-@import "color3";
-
-
+@import "default";
+@import "structure";
+@import "schema3";
 
 /***************** COMMON STRUCTURE **********************/
-
 
 :root {
   font-family: 'Fira Sans Light';

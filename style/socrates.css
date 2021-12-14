@@ -1,4 +1,4 @@
-/* @theme plato */
+/* @theme socrates */
 
 /*
   ============================================
@@ -26,12 +26,14 @@
 /* Importing COLOR SCHEMA */
 
 @import "default";
-@import "structure";
-@import "schema1";
+@import "schema3";
+@import "structure2";
+
+
 
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  font-family: 'Fira Sans Light';
+  font-family: 'Lato';
   font-weight: initial;
 }

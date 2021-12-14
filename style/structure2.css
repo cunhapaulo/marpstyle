@@ -1,4 +1,4 @@
-/* @theme structure */
+/* @theme structure2 */
 
 /*
   ============================================
@@ -193,7 +193,7 @@ section.titlepage .title {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
   color: var(--title-color);
-  border-bottom: 1px solid var(--border-color);
+  /* border-bottom: 1px solid var(--border-color); */
   line-height: 1.25;
   padding-bottom: 15px;
   padding-right: 20%;
@@ -205,7 +205,7 @@ section.titlepage .subtitle {
   color: var(--subtitle-color);
   padding-top: 10px;
   padding-bottom: 65pt;
-  letter-spacing: -0.125px;
+  letter-spacing: var(--letter-spacing);
 }
 section.titlepage .author {
   font-size: var(--author-size);
@@ -220,7 +220,7 @@ section.titlepage .author,
 section.titlepage .date,
 section.titlepage .organization {
   font-weight: 400;
-  text-align: right;
+  text-align: left;
   color: var(--titlepage-color);
   line-height: 1.5;
 }
@@ -228,10 +228,10 @@ section.titlepage h3,
 section.titlepage h4,
 section.titlepage h5 {
   font-weight: 400;
-  text-align: right;
+  /* text-align: right; */
   color: var(--titlepage-color);
   line-height: 0;
-  letter-spacing: -0.125px;
+  letter-spacing: var(--letter-spacing);
 }
 
 section.titlepage h1 {
@@ -239,7 +239,8 @@ section.titlepage h1 {
   font-weight: var(--title-font-weight);
   text-align: left;
   color: var(--title-color);
-  border-bottom: 1px solid var(--border-color);
+  /* border-bottom: 1px solid var(--border-color); */
+  border-bottom: 0px;
   line-height: 1.25;
   padding-right: 20%;
 }
@@ -248,7 +249,7 @@ section.titlepage h2 {
   font-weight: var(--subtitle-font-weight);
   text-align: left;
   color: var(--subtitle-color);
-  letter-spacing: -0.125px;
+  letter-spacing: var(--letter-spacing);
   line-height: 1.2;
   margin-top: -0.2em;
   padding-bottom: 95px;
@@ -257,7 +258,7 @@ section.titlepage h3 {
   font-size: var(--author-size);
 }
 section.titlepage h4 {
-  font-s-ize: var(--date-size);
+  font-size: var(--date-size);
 }
 section.titlepage h5 {
   font-size: var(--institute-size);
@@ -318,7 +319,7 @@ section.transition:after {
 section.cite p {
   color: black;
   background-color: ;
-  letter-spacing: -0.1px;
+  letter-spacing: var(--letter-spacing);
   font-size: 150%;
   text-align: center;
   line-height: 1.2em;
