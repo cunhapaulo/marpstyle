@@ -37,7 +37,6 @@ theme       : plato
 <!-- _class: titlepage -->
 ![bg left:33%](https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80)
 
-
 <div class="title">Graph Algebra and Formally Defined Programs in Z</div>
 <div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
 <div class="author">Leonard Kleinrock</div>
@@ -66,16 +65,18 @@ theme       : plato
 
 1. *Berlin*
 2. *Hannover*
-3. *Freiburg*
+3. *Freiburg im Breisgau*
 3. *Heidelberg*
+4. *Hamburg*
 
 </div>
 <div> 
 
 4. *Leipzig*
 5. *Dresden*
-6. *Aachen*
 6. *München*
+7. *Köln*
+8. *Köningsberg und Praga*
 
 </div>
 </div>
@@ -126,11 +127,11 @@ When the neet to  make strong assertions becomes inevitable:
 <div>
 
 1. One
-2. Two in italic
-3. Three is a bold number;
+2. Two 
+3. Three
    1. abc
    2. def
-4. End of list.
+4. End of list
    
 </div>
 <div>
@@ -166,7 +167,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 | A3       | B3       | C3       |    D3    |
 
 <center>
-<b>Table</b>: Exemple of table use.
+<caption><b>Table</b>: Exemple of use of tables.</caption>
 </center>
 
 ---
@@ -180,7 +181,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 ---
 
-# Imagens in Two Columns
+# Images in Two Columns
 
 <div class="columns-center">
 <div>
@@ -191,6 +192,38 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div>
 
 ![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+
+</div>
+</div>
+
+---
+
+# Image and text
+
+<div class="columns">
+<div>
+
+<center>
+
+![](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+<caption>
+<b>Figure</b>: Oxford edition (1979).
+</caption>
+
+</center>
+
+</div>
+<div>
+
+## Hegel's Phenomenology
+
+The book was originally entitled "Phänomenologie des Geistes" by its author, G.W.F. Hegel.
+
+* Published in 1807, marked a significant development in German idealism after Kant.
+
+* In this book Hegel develops his concepts of dialectic.
+
+[Price at Amazon](https://www.amazon.com/gp/product/0198245971/ref=ox_sc_act_image_2?smid=A1ZZFT5FULY4LN&psc=1): $ 17.83
 
 </div>
 </div>
