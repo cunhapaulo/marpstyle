@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 11.dez.2021
+    last update: 15.dez.2021
   ============================================
 
     You may use freely (MIT license) provided  
@@ -195,7 +195,7 @@ section.titlepage .title {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
   color: var(--title-color);
-  /* border-bottom: 1px solid var(--border-color); */
+  border-bottom: 1px solid var(--border-color);
   line-height: 1.25;
   padding-bottom: 15px;
   padding-right: 20%;

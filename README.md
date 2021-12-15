@@ -12,13 +12,17 @@ Repository for Marp Themes created out of the desired for beauty and simplicity.
 
 
 
-# Screenshots
+# Available Themes
 
+## Socrates Theme:
+![Style: Plato](img/socrates01.png)<br>
+
+## Plato Theme:
 ![Style: Plato](img/plato01.png)<br>
-Plato style
 
+## Hegel Theme:
 ![Style: Hegel](img/hegel01.png)<br>
-Hegel style
+
 
 # Install
 Remeber to include the path to the style files (CSS files) in your `workspace.code-workspace` file in order to make them available to your slide deck.
@@ -42,7 +46,7 @@ It might look similar to:
 			"./style/schema1.css"
 			"./style/schema2.css"
 			"./style/schema3.css"
-			"./style/structure.css"
+			"./style/structure1.css"
 			"./style/structure2.css"
 		]
 	}

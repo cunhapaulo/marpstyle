@@ -31,9 +31,8 @@ theme       : socrates
    }  
    
 </style> 
-  
-     
 
+![bg left:33%](https://images.unsplash.com/photo-1560914210-08431b749ff5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)
 <!-- _class: titlepage -->
 
 <div class="title">Graph Algebra Representation of Formally Defined Programs in Z</div>

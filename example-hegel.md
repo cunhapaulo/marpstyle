@@ -35,7 +35,8 @@ theme       : hegel
 
 
 <!-- _class: titlepage -->
-![bg left:33%](https://images.unsplash.com/photo-1502675135487-e971002a6adb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80)
+![bg left:33%](https://images.unsplash.com/photo-1558117735-790d8562fe92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
+
 
 <div class="title">Graph Algebra and Formally Defined Programs in Z</div>
 <div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
@@ -46,7 +47,6 @@ theme       : hegel
 ---
 
 <!-- _class: titlepage -->
-![bg left:33%](https://helihub-wp.s3.amazonaws.com/wp-content/uploads/2021/07/20210705gw-Helionix.jpg)
 
 # Graph Algebra and Formally Defined Programs in Z
 ## Using Haskell to Reason and  Verify Programs
