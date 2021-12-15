@@ -56,11 +56,14 @@ It might look similar to:
 # Typefaces
 Some of the fonts used in the available styles are listed below:
 
-### Fira:  
+### Fira (Plato Theme):  
 - https://github.com/bBoxType/FiraSans
 
 ### Metropolis
 - https://github.com/njugunagathere/Metropolis
+
+### Noto Sans (Socrates Theme):
+- https://fonts.google.com/noto/specimen/Noto+Sans
 
 # Credits
 
