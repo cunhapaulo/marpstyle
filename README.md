@@ -14,13 +14,13 @@ Repository for Marp Themes created out of the desired for beauty and simplicity.
 
 # Available Themes
 
-## Socrates Theme:
+## Socrates Theme: [pdf](examples/example-socrates.pdf)
 ![Style: Plato](img/socrates01.png)<br>
 
-## Plato Theme:
+## Plato Theme: [pdf](examples/example-plato.pdf)
 ![Style: Plato](img/plato01.png)<br>
 
-## Hegel Theme:
+## Hegel Theme: [pdf](examples/example-hegel.pdf)
 ![Style: Hegel](img/hegel01.png)<br>
 
 
