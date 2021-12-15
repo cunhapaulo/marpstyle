@@ -5,7 +5,7 @@ description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : socrates  
+theme       : socrates   
 ---
 
  
@@ -30,7 +30,7 @@ theme       : socrates
       padding-bottom : 40px
    }  
    
-</style>
+</style> 
   
      
 

@@ -5,7 +5,7 @@ description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : hegel
+theme       : plato
 ---
 
 
