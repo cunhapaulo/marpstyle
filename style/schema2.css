@@ -13,7 +13,6 @@
     --list-item-color           : rgb(50, 56, 56);
     --after-color               : rgb(1, 5, 255);
     
-    --table-header-color        : rgb(0, 132, 255);
     --table-header-color        : orangered;
     
     --main-color                : rgb(17, 138, 207);
@@ -22,11 +21,14 @@
     --extra-back-color          : rgb(175, 172, 172);
 
     --letter-spacing            : -0.1px;    
+
+    --cool-list-color           : orangered;
+
 }
 
-/* -------------------- LEAD ---------------------------------*/
-section.lead {
-    --transitionpage-color  : orangered;
+/* -------------------- TRANSITION ---------------------------------*/
+section.transition {
+    --transitionpage-color  : rgb(62, 65, 68);
 }
 
 /* -------------------- BIBLIO -------------------------------*/

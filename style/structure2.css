@@ -70,8 +70,8 @@ section strong {
 
 section::after {
   color: rgb(111, 126, 158);
-  font-size: 0.8em;
-  content: " " attr(data-marpit-pagination) "/"
+  font-size: 0.6em;
+  content: " " attr(data-marpit-pagination) " / "
     attr(data-marpit-pagination-total) " ";
 }
 
@@ -104,7 +104,8 @@ section table th {
   background-color: var(--table-header-color);
   color: white;
   border: 0;
-  border-top: black solid 2px;
+  border-top: rgb(253, 74, 3) solid 2px;
+  border-top: rgb(255, 0, 0) solid 2px;
 }
 section table td {
   border: 0;
@@ -113,15 +114,16 @@ section table tr:nth-child(2) {
   background-color: #dedede;
 }
 section table tr:last-child {
-  border-bottom: black solid 2px;
+  border-bottom: rgb(253, 74, 3) solid 2px;
 }
 
 tr:nth-child(even) {
   background-color: #e8edf1 !important;
 }
 tr:hover {
-  color: darkorange;
-  background-color: rgb(17, 17, 16);
+  color: rgb(36, 34, 34);
+  background-color: rgb(255,204,0);
+  font-weight: bold;
 }
 
 /* 
@@ -137,7 +139,7 @@ section blockquote {
 }
 
 section blockquote strong {
-  color: rgb(255, 0, 0);
+  color: rgb(56, 32, 32);
   font-weight: bold;
   font-size: 1.0em;
 }
@@ -204,7 +206,7 @@ section.titlepage .subtitle {
   line-height: 1.2;
   color: var(--subtitle-color);
   padding-top: 10px;
-  padding-bottom: 65pt;
+  padding-bottom: 120px;
   letter-spacing: var(--letter-spacing);
 }
 section.titlepage .author {
@@ -222,7 +224,7 @@ section.titlepage .organization {
   font-weight: 400;
   text-align: left;
   color: var(--titlepage-color);
-  line-height: 1.5;
+  line-height: 1.25;
 }
 section.titlepage h3,
 section.titlepage h4,
@@ -438,7 +440,7 @@ section.cool-list > ol > li > a:before {
   left: -1.3em;
   top: 50%;
   margin-top: -1.3em;
-  background: var(--main-color);
+  background: var(--cool-list-color);
   height: 2em;
   width: 2em;
   line-height: 2em;

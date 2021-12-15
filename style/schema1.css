@@ -12,7 +12,7 @@
     --background-color          : #fdf6e3;
     --list-item-color           : rgb(50, 56, 56);
     --after-color               : rgb(255, 39, 1);
-    --table-header-color        : orangered;
+
     --table-header-color        : rgb(0, 132, 255);
     
     --main-color                : rgb(207, 77, 17);
@@ -21,6 +21,8 @@
     --extra-back-color          : rgb(175, 172, 173);
 
     --letter-spacing            : 0.125px;
+
+    --cool-list-color           : orangered;
 
 }
 

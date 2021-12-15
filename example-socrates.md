@@ -5,18 +5,18 @@ description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : socrates
+theme       : socrates  
 ---
 
-
+ 
 <style>
-  
+   
    .cite-author {
       text-align        : right;
    }
    .cite-author:after {  
-      color             : orangered;
-      font-size         : 125%;
+      color             : red;
+      font-size         : 120%;
       /* font-style        : italic; */
       font-weight       : bold;
       font-family       : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -26,17 +26,17 @@ theme       : socrates
       content           : " - "attr(data-text) " - ";      
    }
 
-   .cite-author p {
+   .cite-author p {   
       padding-bottom : 40px
-   } 
-
+   }  
+   
 </style>
-
-
+  
+     
 
 <!-- _class: titlepage -->
 
-<div class="title">Graph Algebra Representat ion of Formally Defined Programs in Z</div>
+<div class="title">Graph Algebra Representation of Formally Defined Programs in Z</div>
 <div class="subtitle">Using Haskell to Reason and Verify Programs</div>
 <div class="author">Leonard Kleinrock</div>
 <div class="date">01.jan.2022</div>
@@ -77,11 +77,11 @@ theme       : socrates
 8. *Köningsberg und Praga*
 
 </div>
-</div>
+</div>   
 
----
+--- 
 
-# Is Algebraic Graph Knowledge possible?
+# Is Algebraic Graph Knowledge Possible?
 
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.
 
@@ -132,7 +132,7 @@ When the neet to  make strong assertions becomes inevitable:
 4. End of list
    
 </div>
-<div>
+<div> 
 
 ```haskell
 
@@ -150,13 +150,16 @@ seqAppend Nil ys = ys
 seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)    
      
 ```
+<caption>
+<b>Code</b>: Haskell code fragment.
+</caption>
 
 </div>
 </div>
-
+ 
 ---
 
-# Tables
+# Tables  
 
 | Column A | Column B | Column C | Column D |
 | -------- | -------- | -------- | :------: |
@@ -182,8 +185,8 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 # Images in Two Columns
 
 <div class="columns-center">
-<div>
-
+<div>         
+ 
 ![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
    
 </div>
@@ -226,9 +229,9 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 </div>
 </div>
 
----
-
-<!-- _class: cite -->
+--- 
+ 
+<!-- _class: cite -->  
 
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
@@ -241,12 +244,12 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
    "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 </div>
-
+     
 ---
 <!-- _class: transition -->
 
 # Transition Slide
-
+ 
 ---
 
 <!-- 
@@ -265,16 +268,19 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 3. Rushby John: **Formal Methods and the Certication of Critical Systems**. Tech. Rep. SRI-CSL-93-7, Computer Science Laboratory, SRI International, Menlo Park, CA, Dec. 1993.
 
+4. Gallian, J. A. **Contemporary Abstract Algebra**. 9. ed. Boston, MA: Cengage Learning, 2017. 
 ---
 <!-- 
 ############################### [ SECTION ] #################################### 
--->
-
+--> 
+    
 <!-- _class: biblio -->
 
 ![bg opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 # References
+<div class="columns">
+<div>
 
 1. Boehm B. W.: **Software Engineering Economics**. Prentice Hall, 1981.
 
@@ -282,11 +288,18 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 3. Rushby John: **Formal Methods and the Certication of Critical Systems**. Tech. Rep. SRI-CSL-93-7, Computer Science Laboratory, SRI International, Menlo Park, CA, Dec. 1993.
 
+</div>
+<div>
 
----
+4. Gallian, J. A. **Contemporary Abstract Algebra**. 9. ed. Boston, MA: Cengage Learning, 2017. 
 
-<div class="center">
-
-Retornar: [Página Inicial](#1)
 
 </div>
+ 
+---
+
+<center>
+
+  Retornar: [Página Inicial](#1)
+
+</center>

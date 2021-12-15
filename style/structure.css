@@ -204,7 +204,7 @@ section.titlepage .subtitle {
   line-height: 1.2;
   color: var(--subtitle-color);
   padding-top: 10px;
-  padding-bottom: 65pt;
+  padding-bottom: 95px;
   letter-spacing: -0.125px;
 }
 section.titlepage .author {
@@ -437,7 +437,7 @@ section.cool-list > ol > li > a:before {
   left: -1.3em;
   top: 50%;
   margin-top: -1.3em;
-  background: var(--main-color);
+  background: var(--cool-list-color)
   height: 2em;
   width: 2em;
   line-height: 2em;
