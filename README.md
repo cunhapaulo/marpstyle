@@ -25,7 +25,7 @@ Remeber to include the path to the style files (CSS files) in your `workspace.co
 
 It might look similar to:
 
-```json
+```bash
 {
 	"folders": [
 		{
@@ -35,14 +35,15 @@ It might look similar to:
 	"settings": {
 		"markdown.marp.themes": [
 			"./style/simple.css"
+			"./style/socrates.css"
 			"./style/plato.css"
 			"./style/kant.css"
 			"./style/hegel.css"
-			"./style/color1.css"
-			"./style/color2.css"
-			"./style/color3.css"
+			"./style/schema1.css"
+			"./style/schema2.css"
+			"./style/schema3.css"
 			"./style/structure.css"
-
+			"./style/structure2.css"
 		]
 	}
 }
