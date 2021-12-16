@@ -27,8 +27,8 @@
 /***************** COMMON STRUCTURE **********************/
 
 h1 {
-  color: var(--h1-color);
-  border-bottom: 1px solid var(--border-color);
+  color: var(--primary-color);
+  border-bottom: 1px solid var(--error-container-color);
 }
 section p {
   margin-top: 0.5em;
@@ -41,13 +41,13 @@ section li {
   margin-bottom: 0.25em;
   line-height: 1.25em;
   font-size: 105%;
-  color: val(--list-item-color);
+  color: val(--primary-color);
 }
 
 /* Definition for emphasis */
 section em {
   color: var(--italic-color);
-  background: var(--italic-background-color);
+  background: var(--ontertiary-color);
   font-style: normal;
   font-weight: bold;
   font-family: sans-serif;
@@ -59,7 +59,7 @@ section em {
 
 /* Definition for bold text */
 section strong {
-  color: var(--bold-color);
+  color: var(--error-color);
   padding-left: 5px;
   padding-right: 5px;
   font-weight: 600;
@@ -101,7 +101,7 @@ section table {
   border: 0;
 }
 section table th {
-  background-color: var(--table-header-color);
+  background-color: var(--tertiary-container);
   color: white;
   border: 0;
   border-top: rgb(253, 74, 3) solid 2px;
@@ -114,11 +114,11 @@ section table tr:nth-child(2) {
   background-color: #dedede;
 }
 section table tr:last-child {
-  border-bottom: rgb(253, 74, 3) solid 2px;
+  border-bottom: #601410 solid 2px;
 }
 
 tr:nth-child(even) {
-  background-color: #e8edf1 !important;
+  background-color: #F9DEDC !important;
 }
 tr:hover {
   color: rgb(36, 34, 34);
@@ -139,7 +139,7 @@ section blockquote {
 }
 
 section blockquote strong {
-  color: rgb(56, 32, 32);
+  color: val(--onbackground-color);
   font-weight: bold;
   font-size: 1.0em;
 }
@@ -185,7 +185,7 @@ section blockquote p {
 */
 
 section.titlepage {
-  background-color: var(--background-color);
+  background-color: var(--surface-color);
 }
 
 /* 
@@ -194,8 +194,8 @@ section.titlepage {
 section.titlepage .title {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
-  color: var(--title-color);
-  /* border-bottom: 1px solid var(--border-color); */
+  color: var(--primary-color);
+  /* border-bottom: 1px solid var(--tertiary-color); */
   line-height: 1.25;
   padding-bottom: 15px;
   padding-right: 20%;
@@ -204,7 +204,7 @@ section.titlepage .subtitle {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
   line-height: 1.2;
-  color: var(--subtitle-color);
+  color: var(--secondary-color);
   padding-top: 10px;
   padding-bottom: 120px;
   letter-spacing: var(--letter-spacing);
@@ -223,7 +223,7 @@ section.titlepage .date,
 section.titlepage .organization {
   font-weight: 400;
   text-align: left;
-  color: var(--titlepage-color);
+  color: var(--primary-color);
   line-height: 1.25;
 }
 section.titlepage h3,
@@ -231,7 +231,7 @@ section.titlepage h4,
 section.titlepage h5 {
   font-weight: 400;
   /* text-align: right; */
-  color: var(--titlepage-color);
+  color: var(--primary-color);
   line-height: 0;
   letter-spacing: var(--letter-spacing);
 }
@@ -240,8 +240,8 @@ section.titlepage h1 {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
   text-align: left;
-  color: var(--title-color);
-  /* border-bottom: 1px solid var(--border-color); */
+  color: var(--primary-color);
+  /* border-bottom: 1px solid var(--tertiary-color); */
   border-bottom: 0px;
   line-height: 1.25;
   padding-right: 20%;
@@ -250,7 +250,7 @@ section.titlepage h2 {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
   text-align: left;
-  color: var(--subtitle-color);
+  color: var(--secondary-color);
   letter-spacing: var(--letter-spacing);
   line-height: 1.2;
   margin-top: -0.2em;
@@ -285,7 +285,7 @@ section.titlepage:after {
    
 */
 section.transition {
-  background-color: var(--transitionpage-color);
+  background-color: var(--transition-color);
   text-align: center !important;
   font-weight: bold !important;
   color: white;
@@ -319,7 +319,7 @@ section.transition:after {
 
 */
 section.cite p {
-  color: black;
+  color: var(--surface-color);
   background-color: ;
   letter-spacing: var(--letter-spacing);
   font-size: 150%;
@@ -334,11 +334,11 @@ section.cite p {
 }
 
 section.cite strong {
-  color: var(--strong-color);
+  color: var(--ontertiary-container);
 }
 
 section.cite {
-  background-color: var(--background-color);
+  background-color: var(--onsurface-color);
 }
 
 /* Omits page number in Title Page Slide */
@@ -360,29 +360,32 @@ section.cite:after {
     1. Item one
     2. Item two
 
-*/
+*/ 
 
 section.biblio {
-  background-color: var(--background-color);
+  background-color: var(--primary-color);
 }
 section.biblio p {
-  color: var(--text-color);
-  font-size: 90%;
+  color: var(--secondary-color);
+  font-size: 80%;
   font-weight: 300;
   padding-left: 5px;
 }
 section.biblio h1 {
   font-size: 35px;
-  color: var(--text-color);
-  border-bottom: 1px solid var(--border-color);
+  color: var(--secondary-color);
+  border-bottom: 1px solid var(--tertiary-color);
 }
 section.biblio a {
   font-size: 31px;
   font-weight: bold;
-  color: var(--bold-color);
+  color: var(--tertiary-color);
 }
 section.biblio li {
-  color: var(--text-color);
+  color: var(--secondary-color);
+}
+section.biblio strong {
+  color: var(--quaternary-color);
 }
 section.biblio footer,
 section.biblio header,

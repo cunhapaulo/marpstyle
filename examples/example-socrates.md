@@ -1,23 +1,23 @@
 ---
 title       : Example Slides for Themes
 author      : Paulo Cunha
-description : This is an example of how to use my themes.
+description : Example file of how to use Marp themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : socrates   
----
+theme       : socrates
+---      
+     
 
- 
-<style>
+<style> 
    
-   .cite-author {
-      text-align        : right;
+   .cite-author { 
+      text-align        : right; 
    }
    .cite-author:after {  
-      color             : red;
-      font-size         : 120%;
-      /* font-style        : italic; */
+      color             : #f87ca1;
+      font-size         : 130%;
+      font-style        : italic;
       font-weight       : bold;
       font-family       : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       padding-right     : 130px;
@@ -26,12 +26,12 @@ theme       : socrates
       content           : " - "attr(data-text) " - ";      
    }
 
-   .cite-author p {   
+   .cite-author p {    
       padding-bottom : 40px
    }  
-   
+    
 </style> 
-
+ 
 ![bg left:33%](https://images.unsplash.com/photo-1560914210-08431b749ff5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)
 <!-- _class: titlepage -->
 
@@ -52,12 +52,12 @@ theme       : socrates
 ##### Formal Methods International Congress
 
 ---
-
+  
 # Lists
-
+ 
 <div class="columns">
 <div>
-
+ 
 <!-- _class: cool-list -->
 
 1. *Berlin*
@@ -66,8 +66,8 @@ theme       : socrates
 3. *Heidelberg*
 4. *Hamburg*
 
-</div>
-<div> 
+</div> 
+<div>  
 
 4. *Leipzig*
 5. *Dresden*
@@ -92,7 +92,7 @@ When the neet to  make strong assertions becomes inevitable:
 
 > \***Note**: This is a very long footnote line intended to test the layout of two lines.
 
----
+--- 
 
 <div class="columns">
 <div>
@@ -117,7 +117,7 @@ When the neet to  make strong assertions becomes inevitable:
 </div>
 
 ---
-
+ 
 # Lists
 
 <div class="columns">
@@ -129,8 +129,8 @@ When the neet to  make strong assertions becomes inevitable:
    1. abc
    2. def
 4. End of list
-   
-</div>
+
+</div> 
 <div> 
 
 ```haskell
@@ -227,17 +227,17 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 </div>
 </div>
-
+     
 --- 
  
 <!-- _class: cite -->  
 
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
----
-
+--- 
+  
 <!-- _class: cite -->
-
+ 
 <div class="cite-author" data-text="Mona Batra">
 
    "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
@@ -248,18 +248,17 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 <!-- _class: transition -->
 
 # Transition Slide
- 
----
-
-<!-- 
+  
+---         
+<!--   
 ############################### [ SECTION ] #################################### 
--->
-
+-->   
+       
 <!-- _class: biblio -->
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-# References
+# References  
 
 1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
 
@@ -268,14 +267,12 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 3. KANT, Immanuel. **Kritik der Praktischen Vernunft**. Berlin: Akademie Verlag, 2002. (Klassiker Auslegen).v. 26 
 4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
 
----
+--- 
 <!-- 
 ############################### [ SECTION ] #################################### 
 --> 
     
 <!-- _class: biblio -->
-
-![bg opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 # References
 <div class="columns">
