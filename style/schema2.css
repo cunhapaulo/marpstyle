@@ -1,45 +1,47 @@
 /* @theme schema2 */
 
-/* Last update: 15.dez.2021 */
+/* Last update: 17.dez.2021 */
 
 /* -------------------- ROOT ----------------------------------*/
 :root {
+
+    --primary-color         : #0c4a91;
+    --onprimary-color       : #b3aac9;
+
+    --secondary-color       : #4d3686;
+    --onsecondary-color     : #ccc2dc;
+
+    --tertiary-color        : #492532;
+    --ontertiary-color      : #efb8c8;
+
+    --background-color      : #e6e1e5;
+    --onbackground-color    : #1c1b1f;
+
+    --surface-color         : #fffbfe;
+    --onsurface-color       : #49454f;
     
-    --bold-color                : rgb(255, 68, 0);
-    --border-color              : #11e92e;
-    --h1-color                  : rgb(12, 92, 240);
+    --surface-variant       : #313033;
+    --onsurface-variant     : #ffffff;
 
-    --italic-color              : black;
-    --italic-background-color   : rgb(255, 208, 0);
-    --background-color          : #fdf6e3;
-    --list-item-color           : rgb(50, 56, 56);
-    --after-color               : rgb(1, 5, 255);
-    
-    --table-header-color        : orangered;
-    
-    --main-color                : rgb(17, 138, 207);
-    --darker-color              : #246;
-    --lighter-color             : #87ceeb;
-    --extra-back-color          : rgb(175, 172, 172);
+    --error-color           : #4f378b;
+    --error-container-color : #dc362e;
 
-    --letter-spacing            : -0.1px;    
+    --tertiary-container    : #633b48;
+    --ontertiary-container  : #f87ca1;
 
-    --cool-list-color           : orangered;
+    --transition-color      : #6750a4;   
+    --cool-list-color       : rgb(0, 123, 180);
 
-}
+    --letter-spacing        : 0.125px;
 
-/* -------------------- TRANSITION ---------------------------------*/
-section.transition {
-    --transitionpage-color  : rgb(62, 65, 68);
 }
 
 /* -------------------- BIBLIO -------------------------------*/
 section.biblio {
-    --text-color            : white;
-    --background-color      : rgb(11, 50, 175);
-    --border-color          : darkorange;
-    --bold-color            : orange;
-
+    --primary-color         : #e6e1e5;
+    --secondary-color       : rgb(59, 55, 55);
+    --tertiary-color        : rgb(243, 166, 0);
+    --quaternary-color      : #7e315e;
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/
@@ -48,39 +50,17 @@ section.titlepage {
     /* fonts sizes */
     --title-size            : 150%;
     --subtitle-size         : 110%;
-    --author-size           : 100%;
-    --date-size             : 100%;
-    --institute-size        : 85%;
-    --letter-spacing        : -0.1px;
-    
+    --author-size           : 110%;
+    --date-size             : 110%;
+    --institute-size        : 90%;
+
+    --letter-spacing        : 0.125px;
 
     /* font weights */
     --title-font-weight     : 600;
     --subtitle-font-weight  : 600;
 
-    /* colors in style */
-    --title-color       : #4d7baf;
-    --title-color       : #0a67f1;
-    --title-color       : #002b36;
-    --title-color       : #ee0d0d;
-    
-    --subtitle-color    : #586e75;
-    --subtitle-color    : #93a1a1;
-    --subtitle-color    : #995848;
-
     --titlepage-color   : #242d31;
     --background-color  : #faf7f7;
 
-    --border-color      : #f0cf9e; 
-    --border-color      : #b5c9ee;
-    --border-color      : #8aa6da;
-    --border-color      : #6c71c4;
-    --border-color      : #e99211;
-
-}
-
-/* ------------------- CITE -----------------------------*/
-section.cite {
-    --background-color    : #fdf6e3;;
-    --strong-color        : rgb(182, 112, 27);
 }

@@ -35,14 +35,12 @@ It might look similar to:
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./style/simple.css"
 			"./style/socrates.css"
 			"./style/plato.css"
 			"./style/kant.css"
 			"./style/hegel.css"
 			"./style/schema1.css"
 			"./style/schema2.css"
-			"./style/schema3.css"
 			"./style/structure1.css"
 			"./style/structure2.css"
 		]

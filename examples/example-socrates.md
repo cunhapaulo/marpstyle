@@ -14,7 +14,7 @@ theme       : socrates
    .cite-author { 
       text-align        : right; 
    }
-   .cite-author:after {  
+   .cite-author:after {   
       color             : #f87ca1;
       font-size         : 130%;
       font-style        : italic;
@@ -28,8 +28,8 @@ theme       : socrates
 
    .cite-author p {    
       padding-bottom : 40px
-   }  
-    
+   } 
+   
 </style> 
  
 ![bg left:33%](https://images.unsplash.com/photo-1560914210-08431b749ff5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)
@@ -230,7 +230,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
      
 --- 
  
-<!-- _class: cite -->  
+<!-- _class: cite -->    
 
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
@@ -274,7 +274,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
     
 <!-- _class: biblio -->
 
-# References
+# References 
 <div class="columns">
 <div>
 
