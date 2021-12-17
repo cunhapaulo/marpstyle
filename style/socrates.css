@@ -1,29 +1,11 @@
 /* @theme socrates */
 
-/*
-  ============================================
+/*============================================
     Created by Paulo Cunha
     version: 1.0
     last update: 15.dez.2021
   ============================================
-
-    You may use freely (MIT license) provided  
-    due credits are granted. 
-
-    CLASSES:
-        
-        <!-- _class: cool-list        -->
-        <!-- _class: cool-list2       -->
-
-        <!-- _class: cite             -->
-        <!-- _class: columns          -->
-        <!-- _class: columns-center   -->
-        <!-- _class: transition       -->
-        <!-- _class: titlepage        -->
-        
-*/
-
-/* Importing COLOR SCHEMA */
+     Importing COLOR SCHEMA */
 
 @import "default";
 @import "schema2";
