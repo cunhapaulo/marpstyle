@@ -10,7 +10,7 @@ theme       : socrates
      
 
 <style> 
-   
+
    .cite-author { 
       text-align        : right; 
    }
@@ -30,7 +30,7 @@ theme       : socrates
       padding-bottom : 40px
    } 
    
-</style> 
+</style>    
  
 ![bg left:33%](https://images.unsplash.com/photo-1560914210-08431b749ff5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)
 <!-- _class: titlepage -->
@@ -65,7 +65,7 @@ theme       : socrates
 3. *Freiburg im Breisgau*
 3. *Heidelberg*
 4. *Hamburg*
-
+ 
 </div> 
 <div>  
 
@@ -88,7 +88,7 @@ Research has been conducted in order to evaluate the possibility of reaching mea
 
 When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!
+- Even greater impact comes from: _hilight text_!  
 
 > \***Note**: This is a very long footnote line intended to test the layout of two lines.
 
@@ -96,7 +96,7 @@ When the neet to  make strong assertions becomes inevitable:
 
 <div class="columns">
 <div>
-
+ 
 # H1
 ## H2 
 ### H3
@@ -215,8 +215,8 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div>
 <div>
 
-## Hegel's Phenomenology
-
+## Hegel's Phenomenology  
+ 
 The book was originally entitled "Phänomenologie des Geistes" by its author, G.W.F. Hegel.
 
 * Published in 1807, marked a significant development in German idealism after Kant.
@@ -230,7 +230,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
      
 --- 
  
-<!-- _class: cite -->    
+<!-- _class: cite -->        
 
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
@@ -258,7 +258,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-# References  
+# References   
 
 1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
 
@@ -289,13 +289,13 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 5. HUSSERL, Edmund. **The Crisis of European Sciences and Transcendental Phenomenology**. Evanston, USA: Northwestern University Press, 1970. 
 6. CASSIRER, Ernst. **The Myth of the State**. New Haven, USA: Yale University Press, 1946.
 7. HEIDEGGER, Martin. **Sein und Zeit**. 11. ed. Tübingen: Max Niemeyer Verlag, 1967. 
-8. GADAMER, Hans-Georg. **Wahrheit und Methode**. Berlin: Akademie Verlag, 2007. v. 30
+8. GADAMER, Hans-Georg. **Wahrheit und Methode**. Berlin: Akademie Verlag, 2007. v. 30.
 </div>
  
 ---
 
 <center>
 
-  Retornar: [Página Inicial](#1)
+  [Retornar à página inicial](#1)
 
 </center>

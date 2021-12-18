@@ -5,13 +5,13 @@
 /* -------------------- ROOT ----------------------------------*/
 :root {
 
-    --primary-color         : #0c4a91;
-    --onprimary-color       : #b3aac9;
+    --primary-color         : #1d395a;
+    --onprimary-color       : #c9aaaa;
     
-    --secondary-color       : #4d3686;
+    --secondary-color       : #7e7572;
     --onsecondary-color     : #ccc2dc;
 
-    --tertiary-color        : #492532;
+    --tertiary-color        : #485057;
     --ontertiary-color      : #efb8c8;
 
     --background-color      : #e6e1e5;
@@ -30,7 +30,7 @@
     --ontertiary-container  : #f87ca1;
 
     --transition-color      : #6750a4;   
-    --cool-list-color       : rgb(0, 123, 180);
+    --cool-list-color       : rgb(168, 12, 85);
 
     --letter-spacing        : 0.125px;
 
@@ -41,7 +41,7 @@ section.biblio {
     --primary-color         : #e6e1e5;
     --secondary-color       : rgb(59, 55, 55);
     --tertiary-color        : rgb(243, 166, 0);
-    --quaternary-color      : #7e315e;
+    --quaternary-color      : #065cce;
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/
@@ -58,7 +58,7 @@ section.titlepage {
 
     /* font weights */
     --title-font-weight     : 600;
-    --subtitle-font-weight  : 600;
+    --subtitle-font-weight  : 300;
 
     --titlepage-color   : #242d31;
     --background-color  : #faf7f7;

@@ -26,9 +26,13 @@
 
 /***************** COMMON STRUCTURE **********************/
 
+
 h1 {
   color: var(--primary-color);
   border-bottom: 1px solid var(--error-container-color);
+}
+h2 {
+  color: var(--tertiary-color);
 }
 section p {
   margin-top: 0.5em;
@@ -59,7 +63,7 @@ section em {
 
 /* Definition for bold text */
 section strong {
-  color: var(--error-color);
+  color: var(--error-container-color);
   padding-left: 5px;
   padding-right: 5px;
   font-weight: 600;
@@ -132,7 +136,7 @@ tr:hover {
   element of a slide.
 */
 section blockquote {
-  color: gray;
+  color: val(--primary-color);
   font-size: unset;
   border-top: 0.1em dashed var(--extra-back-color);
   margin-top: auto;
@@ -363,7 +367,7 @@ section.cite:after {
 */ 
 
 section.biblio {
-  background-color: var(--primary-color);
+  background-color: var(--surface-color);
 }
 section.biblio p {
   color: var(--secondary-color);
