@@ -205,7 +205,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:430](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 <caption>
 <b>Figure</b>: Oxford edition (1979).
 </caption>
@@ -220,7 +220,6 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 The book was originally entitled "Phänomenologie des Geistes" by its author, G.W.F. Hegel.
 
 * Published in 1807, marked a significant development in German idealism after Kant.
-
 * In this book Hegel develops his concepts of dialectic.
 
 [Price at Amazon](https://www.amazon.com/gp/product/0198245971/ref=ox_sc_act_image_2?smid=A1ZZFT5FULY4LN&psc=1): $ 17.83
