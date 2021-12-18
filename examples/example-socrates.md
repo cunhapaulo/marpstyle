@@ -10,7 +10,6 @@ theme       : socrates
      
 
 <style> 
-
    .cite-author { 
       text-align        : right; 
    }
@@ -25,11 +24,9 @@ theme       : socrates
    .cite-author[data-text]:after {
       content           : " - "attr(data-text) " - ";      
    }
-
    .cite-author p {    
       padding-bottom : 40px
    } 
-   
 </style>    
  
 ![bg left:33%](https://images.unsplash.com/photo-1560914210-08431b749ff5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)
@@ -205,7 +202,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:450](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 <caption>
 <b>Figure</b>: Oxford edition (1979).
 </caption>
