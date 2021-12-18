@@ -37,11 +37,11 @@ theme       : plato
 <!-- _class: titlepage -->
 ![bg left:33%](https://images.unsplash.com/photo-1591865986097-77712322981b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80)
 
-<div class="title">Graph Algebra and Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
-<div class="author">Leonard Kleinrock</div>
-<div class="date">01.jan.2022</div>
-<div class="organization">Formal Methods International Congress</div>
+<div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
+<div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
+<div class="author"        > Leonard Kleinrock                                </div>
+<div class="date"          > 01.jan.2022                                      </div>
+<div class="organization"  > Formal Methods International Congress            </div>
 
 ---
 

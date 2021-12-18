@@ -5,12 +5,14 @@
 /* -------------------- ROOT ----------------------------------*/
 :root {
     
-    --bold-color                : rgb(255, 68, 0);
-    --border-color              : #e99211;
     --h1-color                  : black;
+    --border-color              : #e99211;
 
+
+    --bold-color                : rgb(255, 68, 0);
     --italic-color              : black;
     --italic-background-color   : rgba(255, 210, 8, 0.713);
+
     --background-color          : #fdf6e3;
     --list-item-color           : rgb(50, 56, 56);
     --after-color               : rgb(255, 39, 1);
@@ -23,7 +25,9 @@
     --extra-back-color          : rgb(175, 172, 173);
 
     --letter-spacing            : 0.125px;
+
     --cool-list-color           : orangered;
+
     --author-align              : right;
 
 }
@@ -39,7 +43,6 @@ section.biblio {
     --background-color      : rgb(11, 50, 175);
     --border-color          : darkorange;
     --bold-color            : orange;
-
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/
