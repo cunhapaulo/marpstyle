@@ -146,9 +146,9 @@ seqAppend Nil ys = ys
 seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)    
      
 ```
-<caption>
+<figcaption align="center">
 <b>Code</b>: Haskell code fragment.
-</caption>
+</figcaption>
 
 </div>
 </div>
@@ -163,9 +163,9 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 | A2       | B2       | C2       |    D2    |
 | A3       | B3       | C3       |    D3    |
 
-<center>
-<caption><b>Table</b>: Exemple of use of tables.</caption>
-</center>
+<figcaption align="center">
+<b>Table</b>: Exemple of use of tables.
+</figcaption>
 
 ---
 
@@ -180,15 +180,22 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 # Images in Two Columns
 
-<div class="columns-center">
+<div class="columns-center" align="center">
 <div>         
  
 ![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
+<figcaption>
+<b>Figure</b>: Kleinrock (1979).
+</figcaption>
+
    
 </div>
 <div>
 
 ![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+<figcaption align="center">
+<b>Figure</b>: Sprnger Verlag (1979).
+</figcaption>
 
 </div>
 </div>
@@ -203,9 +210,11 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <center>
 
 ![h:450](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
-<caption>
+
+<figcaption align="center">
 <b>Figure</b>: Oxford edition (1979).
-</caption>
+</figcaption>
+
 
 </center>
 
