@@ -180,21 +180,37 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 # Images in Two Columns
 
-<div class="columns-center" align="center">
+<div class="columns-center">
 <div>         
  
 ![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
-<figcaption>
-<b>Figure</b>: Kleinrock (1979).
-</figcaption>
-
    
 </div>
 <div>
 
 ![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
-<figcaption align="center">
-<b>Figure</b>: Sprnger Verlag (1979).
+
+</div>
+</div>
+
+---
+
+# Images in Two Columns
+
+<div class="columns-center" align="center">
+<div>         
+ 
+![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
+<figcaption>
+<b>Figure</b>: Kleinrock, Gail (1979).
+</figcaption>
+   
+</div>
+<div>
+
+![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+<figcaption>
+<b>Figure</b>: Springer Verlag (1979).
 </figcaption>
 
 </div>
