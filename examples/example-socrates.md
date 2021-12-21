@@ -209,6 +209,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div>
 
 ![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+
 <figcaption>
 <b>Figure</b>: Springer Verlag (1979).
 </figcaption>
