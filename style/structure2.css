@@ -357,6 +357,11 @@ section.transition:after {
     Text
 
 */
+
+section.cite {
+  background-color: var(--onsurface-color);
+}
+
 section.cite p {
   color: var(--surface-color);
   background-color: ;
@@ -372,12 +377,11 @@ section.cite p {
   padding-right: 100px;
 }
 
+section.cite em{
+  color: rgb(66, 36, 61)
+}
 section.cite strong {
   color: var(--ontertiary-container);
-}
-
-section.cite {
-  background-color: var(--onsurface-color);
 }
 
 /* Omits page number in Title Page Slide */

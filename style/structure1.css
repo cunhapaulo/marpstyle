@@ -59,8 +59,7 @@ section em {
 
 /* Definition for bold text */
 section strong {
-  /* color: var(--bold-color); */
-  color: rgb(226, 24, 17);
+  color: var(--bold-color);
   padding-left: 5px;
   padding-right: 5px;
   font-weight: 600;
@@ -318,6 +317,10 @@ section.transition:after {
     Text
 
 */
+section.cite {
+  background-color: var(--background-color);
+}
+
 section.cite p {
   color: black;
   background-color: ;
@@ -335,10 +338,6 @@ section.cite p {
 
 section.cite strong {
   color: var(--strong-color);
-}
-
-section.cite {
-  background-color: var(--background-color);
 }
 
 /* Omits page number in Title Page Slide */
