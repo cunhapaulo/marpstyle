@@ -59,7 +59,8 @@ section em {
 
 /* Definition for bold text */
 section strong {
-  color: var(--bold-color);
+  /* color: var(--bold-color); */
+  color: rgb(226, 24, 17);
   padding-left: 5px;
   padding-right: 5px;
   font-weight: 600;
@@ -323,13 +324,13 @@ section.cite p {
   letter-spacing: var(--letter-spacing);
   font-size: 150%;
   text-align: center;
-  line-height: 1.2em;
+  line-height: 1.25em;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   /*  font-style: oblique; */
   padding-top: auto;
   padding-bottom: auto;
-  padding-left: 125px;
-  padding-right: 125px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 section.cite strong {
@@ -374,6 +375,9 @@ section.biblio h1 {
   font-size: 35px;
   color: var(--text-color);
   border-bottom: 1px solid var(--border-color);
+}
+section.biblio strong {
+  color: var(--bold-color);
 }
 section.biblio a {
   font-size: 31px;
