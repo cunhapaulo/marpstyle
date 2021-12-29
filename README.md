@@ -17,9 +17,11 @@ Repository for Marp Themes created with beauty and simplicity as first concerns.
 ## Plato Theme: [pdf](examples/example-plato.pdf)
 ![Style: Plato](img/plato01.png)<br>
 
+## Leibniz Theme: [pdf](examples/example-leibniz.pdf)
+![Style: Leibniz](img/leibniz01.png)<br>
+
 ## Hegel Theme: [pdf](examples/example-hegel.pdf)
 ![Style: Hegel](img/hegel01.png)<br>
-
 
 # Install
 Remember to include the path to the style files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
@@ -37,6 +39,7 @@ It might look similar to:
 		"markdown.marp.themes": [
 			"./style/socrates.css"
 			"./style/plato.css"
+			"./style/leibniz.css"
 			"./style/kant.css"
 			"./style/hegel.css"
 			"./style/schema1.css"
