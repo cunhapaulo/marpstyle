@@ -3,24 +3,28 @@
 /*
   ============================================
     Created by Paulo Cunha
-    version: 1.0
-    last update: 15.dez.2021
+    version: 1.5
+    last update: 18.dez.2021
   ============================================
 
     You may use freely (MIT license) provided  
-    due credits are granted. 
+    due credits are granted to the authors. 
 
     CLASSES:
         
+        <!-- _class: biblio           -->
+        <!-- _class: blockquote       -->
         <!-- _class: cite             -->
         <!-- _class: columns          -->
         <!-- _class: columns-center   -->
+        <!-- _class: cool-list        -->
+        <!-- _class: cool-list2       -->
+        <!-- _class: table            -->
         <!-- _class: transition       -->
         <!-- _class: titlepage        -->
 
-        <!-- _class: cool-list        -->
-        <!-- _class: cool-list2       -->
-
+  Credits: https://catalin.red/css3-ordered-list-styles/
+           for cool-list anda cool-list2.
 
 */
 

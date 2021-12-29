@@ -8,6 +8,7 @@
 		"markdown.marp.themes": [
 			"./style/socrates.css"
 			"./style/plato.css"
+			"./style/leibniz.css"
 			"./style/kant.css"
 			"./style/hegel.css"
 			"./style/schema1.css"

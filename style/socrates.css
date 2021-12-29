@@ -1,16 +1,18 @@
 /* @theme socrates */
 
-/*============================================
+/*
+  ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 15.dez.2021
-  ============================================
-     Importing COLOR SCHEMA */
+    last update: 09.dez.2021
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
 
 @import "default";
 @import "schema2";
 @import "structure2";
-
 
 
 /***************** COMMON STRUCTURE **********************/
