@@ -52,16 +52,20 @@ It might look similar to:
 ```
 
 # Typefaces
-Some of the fonts used in the available styles are listed below:
+Some of the fonts necessary to the available styles are listed below with its respective link for download:
 
-### Fira (Plato Theme):  
-- https://github.com/bBoxType/FiraSans
+- ## Socrates Theme:
+  - Noto Sans: https://fonts.google.com/noto/specimen/Noto+Sans
 
-### Metropolis
-- https://github.com/njugunagathere/Metropolis
+- ## Plato Theme:  
+  - Fira: https://github.com/bBoxType/FiraSans
 
-### Noto Sans (Socrates Theme):
-- https://fonts.google.com/noto/specimen/Noto+Sans
+- ## Leibniz Theme:  
+  - Georgia or Serif: 
+
+- ## General 
+  - Metropolis: https://github.com/njugunagathere/Metropolis
+
 
 # Credits
 
