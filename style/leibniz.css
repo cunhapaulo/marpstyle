@@ -11,21 +11,28 @@
 /* Importing COLOR SCHEMA */
 
 @import "default";
-@import "schema1";
-@import "structure1";
+@import "schema";
+@import "structure";
 
 
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  font-family: 'Georgia';
+  /* font-family: Georgia, Serif; */
+  font-family: Cochin, Georgia, Times, 'Times New Roman';
   font-weight: initial;
+  --bold-color                : blue;
 }
 
 h1 {
   color: var(--h1-color);
   font-weight: var(--title-font-weight);
   border-bottom: 1px solid var(--border-color);
+}
+
+table {
+  font-family: sans-serif;
+  /* empty-cells: hide; */
 }
 
 section.titlepage {
@@ -43,4 +50,11 @@ section.titlepage {
   --title-font-weight     : 300;
   --subtitle-font-weight  : 300;
   
+}
+
+section.biblio p {
+  color: var(--text-color);
+  font-size: 80%;
+  font-weight: 300;
+  padding-left: 5px;
 }

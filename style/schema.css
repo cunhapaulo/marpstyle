@@ -1,6 +1,6 @@
-/* @theme schema1 */
+/* @theme schema */
 
-/* Last update: 15.dez.2021 */
+/* Last update: 29.dez.2021 */
 
 /* -------------------- ROOT ----------------------------------*/
 :root {
@@ -51,9 +51,9 @@ section.titlepage {
     /* fonts sizes */
     --title-size            : 150%;
     --subtitle-size         : 110%;
-    --author-size           : 100%;
-    --date-size             : 100%;
-    --institute-size        : 85%;
+    --author-size           : 110%;
+    --date-size             : 110%;
+    --institute-size        : 90%;
 
     --letter-spacing        : 0.125px;
 

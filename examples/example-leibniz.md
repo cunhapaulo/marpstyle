@@ -5,10 +5,10 @@ description : Example file of how to use Marp themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : leibniz         
+theme       : leibniz          
+math        : katex
 ---      
-            
-  
+        
 <style> 
    .cite-author {       
       text-align        : right; 
@@ -150,7 +150,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 <b>Code</b>: Haskell code fragment.
 </figcaption>
 
-</div>
+</div> 
 </div>
  
 ---
@@ -160,21 +160,27 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 | Column A | Column B | Column C | Column D |
 | -------- | -------- | -------- | :------: |
 | A1       | B1       | C1       |    D1    |
-| A2       | B2       | C2       |    D2    |
-| A3       | B3       | C3       |    D3    |
-
+| A2       | B1       | C1       |    D1    |
+| A3       | B1       | C1       |    D1    |
+| A4       | B1       | C1       |    D1    |
+ 
 <figcaption align="center">
 <b>Table</b>: Exemple of use of tables.
 </figcaption>
-
+ 
 ---
 
-# LaTeX Equations
+# Maxwell’s Equations in modern vector form
 
-$$\frac{1}{c^2}\frac{\partial^2\mathbf{\psi}}{\partial t^2} = \nabla^2 \circ\mathbf{\psi}$$
 $$\nabla \times \textbf{E}=- \frac{\partial \textbf{B}}{\partial t}$$
+
+
 $$\nabla^2 \textbf{E} = \mu \epsilon \frac{\partial^2 \textbf{E}}{\partial t^2}$$
 $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
+
+<figcaption align="center">
+<b>Equations</b>: Maxwell's equations.
+</figcaption>
 
 ---
 
@@ -222,18 +228,13 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 # Image and text
 
 <div class="columns">
-<div>
-
-<center>
+<div align="center">
 
 ![h:450](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Oxford edition (1979).
 </figcaption>
-
-
-</center>
 
 </div>
 <div>
@@ -276,7 +277,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 <!--   
 ############################### [ SECTION ] #################################### 
 -->   
-       
+        
 <!-- _class: biblio -->
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
@@ -304,7 +305,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
 2. ARISTOTELES. **Nikomachische Ethik**. Berlin: Akademie Verlag, 2010. (Klassiker Auslegen).v. 2
 3. KANT, Immanuel. **Kritik der Praktischen Vernunft**. Berlin: Akademie Verlag, 2002. (Klassiker Auslegen).v. 26 
-4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
+4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Trad.: A. V. Miller. Oxford: Oxford University Press, 2004.
 
 </div>
 <div>

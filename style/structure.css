@@ -1,10 +1,10 @@
-/* @theme structure2 */
+/* @theme structure */
 
 /*
   ============================================
     Created by Paulo Cunha
     version: 1.5
-    last update: 18.dez.2021
+    last update: 29.dez.2021
   ============================================
 
     You may use freely (MIT license) provided  
@@ -26,39 +26,32 @@
   Credits: https://catalin.red/css3-ordered-list-styles/
            for cool-list anda cool-list2.
 
-
 */
 
 /***************** COMMON STRUCTURE **********************/
 
 h1 {
-  color: var(--primary-color);
-  border-bottom: 1px solid var(--error-container-color);
+  color: var(--h1-color);
+  border-bottom: 1px solid var(--border-color);
 }
-
-h2 {
-  color: var(--tertiary-color);
-}
-
 section p {
   margin-top: 0.5em;
   margin-bottom: 0.25em;
   line-height: 1.3em;
   font-size: 32px;
 }
-
 section li {
   margin-top: 0.5em;
   margin-bottom: 0.25em;
   line-height: 1.25em;
   font-size: 105%;
-  color: val(--primary-color);
+  color: val(--list-item-color);
 }
 
 /* Definition for emphasis */
 section em {
   color: var(--italic-color);
-  background: var(--ontertiary-color);
+  background: var(--italic-background-color);
   font-style: normal;
   font-weight: bold;
   font-family: sans-serif;
@@ -70,7 +63,7 @@ section em {
 
 /* Definition for bold text */
 section strong {
-  color: var(--error-container-color);
+  color: var(--bold-color);
   padding-left: 5px;
   padding-right: 5px;
   font-weight: 600;
@@ -78,10 +71,12 @@ section strong {
 
 /* May append some string to page number     */
 /* Uses format "page-number / total pages" */
+
 section::after {
   color: rgb(111, 126, 158);
   font-size: 0.6em;
-  content: " " attr(data-marpit-pagination) " / " attr(data-marpit-pagination-total) " ";
+  content: " " attr(data-marpit-pagination) " / "
+    attr(data-marpit-pagination-total) " ";
 }
 
 .center {
@@ -96,11 +91,10 @@ section::after {
   font-size: 24px;
 }
 
-/******************* TABLE *************************
-
-  Tables are always centered.
+/* 
+   Tables are always centered.
    Credits: Juan Vera del Campo 
-   Locus:   https://github.com/Juanvvc
+   Loco:   https://github.com/Juanvvc
    
 */
 section table {
@@ -111,7 +105,7 @@ section table {
   border: 0;
 }
 section table th {
-  background-color: var(--tertiary-container);
+  background-color: var(--table-header-color);
   color: white;
   border: 0;
   border-top: rgb(253, 74, 3) solid 2px;
@@ -124,11 +118,11 @@ section table tr:nth-child(2) {
   background-color: #dedede;
 }
 section table tr:last-child {
-  border-bottom: #601410 solid 2px;
+  border-bottom: rgb(253, 74, 3) solid 2px;
 }
 
 tr:nth-child(even) {
-  background-color: #F9DEDC !important;
+  background-color: #e8edf1 !important;
 }
 tr:hover {
   color: rgb(36, 34, 34);
@@ -136,21 +130,20 @@ tr:hover {
   font-weight: bold;
 }
 
-/******************* BLOCKQUOTE *************************
-
+/* 
   Block quote: used for footnote
   substitution. Use as the last  
   element of a slide.
 */
 section blockquote {
-  color: val(--primary-color);
+  color: gray;
   font-size: unset;
   border-top: 0.1em dashed var(--extra-back-color);
   margin-top: auto;
 }
 
 section blockquote strong {
-  color: val(--onbackground-color);
+  color: rgb(56, 32, 32);
   font-weight: bold;
   font-size: 1.0em;
 }
@@ -158,24 +151,8 @@ section blockquote strong {
 section blockquote p {
   font-size: 0.7em;
 }
-
-/******************* COLUMNS *************************/
 /* 
-    iMPLEMENTS TWO COLUMNS
-    
-    Use: 
-    <div class="columns">
-
-    <div>
-    
-        COLUMN 1 text
-    </div>
-    <div>
-    
-        COLUMN 2 text
-    </div>
-
-    </div>
+  Adds two-columns class 
 */
 .columns {
   display: grid;
@@ -184,26 +161,9 @@ section blockquote p {
   /* justify-content: center !important; */
 }
 
-
-/**************** COLUMNS-CENTER *************************/
 /* 
-     Adds two-columns with centered contens
-    
-    Use: 
-    <div class="columns-center">
-
-    <div>
-    
-        COLUMN 1 text
-    </div>
-    <div>
-    
-        COLUMN 2 text
-    </div>
-
-    </div>
+  Adds two-columns with centered contens class 
 */
-
 .columns-center {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -216,7 +176,9 @@ section blockquote p {
 /******************* TITLEPAGE *************************/
 /* 
     Title Page Class: first slide in a deck.
+    
     Use: 
+    
     <!-- _class: titlepage --> 
 
     # TTILE
@@ -227,7 +189,7 @@ section blockquote p {
 */
 
 section.titlepage {
-  background-color: var(--surface-color);
+  background-color: var(--background-color);
 }
 
 /* 
@@ -236,8 +198,8 @@ section.titlepage {
 section.titlepage .title {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
-  color: var(--primary-color);
-  /* border-bottom: 1px solid var(--tertiary-color); */
+  color: var(--title-color);
+  border-bottom: 1px solid var(--border-color);
   line-height: 1.25;
   padding-bottom: 15px;
   padding-right: 20%;
@@ -246,7 +208,7 @@ section.titlepage .subtitle {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
   line-height: 1.2;
-  color: var(--secondary-color);
+  color: var(--subtitle-color);
   padding-top: 10px;
   padding-bottom: 120px;
   letter-spacing: var(--letter-spacing);
@@ -264,16 +226,16 @@ section.titlepage .author,
 section.titlepage .date,
 section.titlepage .organization {
   font-weight: 400;
-  text-align: left;
-  color: var(--primary-color);
+  text-align: right;
+  color: var(--titlepage-color);
   line-height: 1.25;
 }
 section.titlepage h3,
 section.titlepage h4,
 section.titlepage h5 {
   font-weight: 400;
-  /* text-align: right; */
-  color: var(--primary-color);
+  text-align: right; 
+  color: var(--titlepage-color);
   line-height: 0;
   letter-spacing: var(--letter-spacing);
 }
@@ -282,9 +244,8 @@ section.titlepage h1 {
   font-size: var(--title-size);
   font-weight: var(--title-font-weight);
   text-align: left;
-  color: var(--primary-color);
-  /* border-bottom: 1px solid var(--tertiary-color); */
-  border-bottom: 0px;
+  color: var(--title-color);
+  border-bottom: 1px solid var(--border-color);
   line-height: 1.25;
   padding-right: 20%;
 }
@@ -292,7 +253,7 @@ section.titlepage h2 {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
   text-align: left;
-  color: var(--secondary-color);
+  color: var(--subtitle-color);
   letter-spacing: var(--letter-spacing);
   line-height: 1.2;
   margin-top: -0.2em;
@@ -316,17 +277,18 @@ section.titlepage:after {
   display: none;
 }
 
-/******************** TRANSITION ************************/
+/************************* transition *****************************/
 /* 
     transition class: first slide in a section. Use h1 as header.
     Use: 
+    
     <!-- _class: transition --> 
 
     # Header
    
 */
 section.transition {
-  background-color: var(--transition-color);
+  background-color: var(--transitionpage-color);
   text-align: center !important;
   font-weight: bold !important;
   color: white;
@@ -351,19 +313,20 @@ section.transition:after {
 /************************* CITE *****************************/
 /* 
     cite class: slide containg a citation 
+    
     Use: 
+    
     <!-- _class: cite --> 
 
     Text
 
 */
-
 section.cite {
-  background-color: var(--onsurface-color);
+  background-color: var(--background-color);
 }
 
 section.cite p {
-  color: var(--surface-color);
+  color: black;
   background-color: ;
   letter-spacing: var(--letter-spacing);
   font-size: 150%;
@@ -377,11 +340,8 @@ section.cite p {
   padding-right: 100px;
 }
 
-section.cite em{
-  color: rgb(66, 36, 61)
-}
 section.cite strong {
-  color: var(--ontertiary-container);
+  color: var(--strong-color);
 }
 
 /* Omits page number in Title Page Slide */
@@ -396,38 +356,39 @@ section.cite:after {
 /* 
     slides containg bibliography
     Use: 
+    
     <!-- _class: biblio --> 
     # References
 
     1. Item one
     2. Item two
 
-*/ 
+*/
 
 section.biblio {
-  background-color: var(--surface-color);
+  background-color: var(--background-color);
 }
 section.biblio p {
-  color: var(--secondary-color);
-  font-size: 80%;
+  color: var(--text-color);
+  font-size: 90%;
   font-weight: 300;
   padding-left: 5px;
 }
 section.biblio h1 {
   font-size: 35px;
-  color: var(--secondary-color);
-  border-bottom: 1px solid var(--tertiary-color);
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+}
+section.biblio strong {
+  color: var(--bold-color);
 }
 section.biblio a {
   font-size: 31px;
   font-weight: bold;
-  color: var(--tertiary-color);
+  color: var(--bold-color);
 }
 section.biblio li {
-  color: var(--secondary-color);
-}
-section.biblio strong {
-  color: var(--quaternary-color);
+  color: var(--text-color);
 }
 section.biblio footer,
 section.biblio header,
@@ -436,10 +397,13 @@ section.biblio:after {
   display: none;
 }
 
-/******************* COOL-LIST *****************************/
+/******************* cool-list *****************************/
 /* 
+
   Credits: https://catalin.red/css3-ordered-list-styles/
+
   Use:
+
   <!-- _class: cool-list -->
 
   1. *Item One*
@@ -448,6 +412,7 @@ section.biblio:after {
       1. *Item two.two*
       1. *Item two.three*
   1. *Item Three*
+  
 */
 
 section.cool-list ol {
@@ -522,10 +487,13 @@ section.cool-list > ol ol > li > em {
   background: #efefef;
 }
 
-/******************* COOL-LIST2 *****************************/
+/******************* cool-list2 *****************************/
 /* 
+
   Credits: https://catalin.red/css3-ordered-list-styles/
+
   Use:
+
   <!-- _class: cool-list2 -->
 
   1. *Item One*

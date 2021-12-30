@@ -7,8 +7,7 @@ marp        : true
 paginate    : true
 theme       : socrates
 ---      
-     
-
+  
 <style> 
    .cite-author { 
       text-align        : right; 
@@ -49,7 +48,7 @@ theme       : socrates
 ##### Formal Methods International Congress
 
 ---
-  
+   
 # Lists
  
 <div class="columns">
@@ -250,7 +249,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 </div>
 </div>
-     
+       
 --- 
  
 <!-- _class: cite -->        
@@ -268,15 +267,16 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 </div>
      
 ---
+
 <!-- _class: transition -->
 
-# Transition Slide
+# Transition Slide 
   
 ---         
 <!--   
 ############################### [ SECTION ] #################################### 
 -->   
-       
+        
 <!-- _class: biblio -->
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
@@ -294,7 +294,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 <!-- 
 ############################### [ SECTION ] #################################### 
 --> 
-    
+     
 <!-- _class: biblio -->
 
 # References 

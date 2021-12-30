@@ -42,10 +42,8 @@ It might look similar to:
 			"./style/leibniz.css"
 			"./style/kant.css"
 			"./style/hegel.css"
-			"./style/schema1.css"
-			"./style/schema2.css"
-			"./style/structure1.css"
-			"./style/structure2.css"
+			"./style/schema.css"
+			"./style/structure.css"
 		]
 	}
 }
