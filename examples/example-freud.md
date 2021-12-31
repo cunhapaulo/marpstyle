@@ -5,13 +5,12 @@ description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : kant
----
+theme       : freud
+--- 
+   
+<style>   
 
-
-<style>
-
-   .cite-author {
+   .cite-author {  
       text-align        : right;
    }
    .cite-author:after {
@@ -19,7 +18,7 @@ theme       : kant
       font-size         : 125%;
       /* font-style        : italic; */
       font-weight       : bold;
-      font-family       : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-family       : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
       padding-right     : 130px;
    }
    .cite-author[data-text]:after {
@@ -33,15 +32,14 @@ theme       : kant
 </style>
 
 
-
 <!-- _class: titlepage -->
-![bg left:33%](https://www.educabras.com/media/aula_files/aula%20filosofia/kant-peq.jpg)
+![bg left:33% h:113%](https://i.pinimg.com/564x/c2/a8/eb/c2a8eb798b03b53b1a33cb76e6399720.jpg)
 
-<div class="title">Graph Algebra and Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
-<div class="author">Leonard Kleinrock</div>
-<div class="date">01.jan.2022</div>
-<div class="organization">Formal Methods International Congress</div>
+<div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
+<div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
+<div class="author"        > Leonard Kleinrock                                </div>
+<div class="date"          > 01.jan.2022                                      </div>
+<div class="organization"  > Formal Methods International Congress            </div>
 
 
 ---
@@ -55,12 +53,12 @@ theme       : kant
 ##### Formal Methods International Congress
 
 ---
-  
+             
 # Lists
  
 <div class="columns">
 <div>
- 
+      
 <!-- _class: cool-list -->
 
 1. *Berlin*
@@ -68,10 +66,10 @@ theme       : kant
 3. *Freiburg im Breisgau*
 3. *Heidelberg*
 4. *Hamburg*
- 
-</div> 
-<div>  
-
+   
+</div>  
+<div>   
+        
 4. *Leipzig*
 5. *Dresden*
 6. *München*
@@ -80,23 +78,23 @@ theme       : kant
 
 </div>
 </div>   
-
---- 
-
+            
+---    
+     
 # Is Algebraic Graph Knowledge Possible?
-
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.
-
+ 
+Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
+     
 - Model Cheking and theorem prooving are viable paths.
 
 When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!   
 - Even greater impact comes from: _hilight text_!  
-
+   
 > \***Note**: This is a very long footnote line intended to test the layout of two lines.
-
---- 
-
+          
+---    
+  
 <div class="columns">
 <div>
  
@@ -108,9 +106,9 @@ When the neet to  make strong assertions becomes inevitable:
 ###### H6
 </div>
 <div>
-
+ 
 - This is a fragment o normal text written here in order to exemplify the use of several featrues in CSS.
-
+ 
 - This is a fragment o normal text written here in order to exemplify the use of several featrues in CSS.
 
   - This is one **feature**
@@ -125,7 +123,7 @@ When the neet to  make strong assertions becomes inevitable:
 
 <div class="columns">
 <div>
-
+   
 1. One
 2. Two 
 3. Three
@@ -136,7 +134,7 @@ When the neet to  make strong assertions becomes inevitable:
 </div> 
 <div> 
 
-```haskell
+```haskell 
 
 primes = filterPrime [2..]
   where filterPrime (p:xs) =
@@ -182,7 +180,7 @@ $$\nabla \times \textbf{E}=- \frac{\partial \textbf{B}}{\partial t}$$
 $$\nabla^2 \textbf{E} = \mu \epsilon \frac{\partial^2 \textbf{E}}{\partial t^2}$$
 $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
----
+--- 
 
 # Images in Two Columns
 
@@ -281,12 +279,12 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 <!--   
 ############################### [ SECTION ] #################################### 
 -->   
-       
+
 <!-- _class: biblio -->
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-# References   
+# References    
 
 1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
 
@@ -320,10 +318,3 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 8. GADAMER, Hans-Georg. **Wahrheit und Methode**. Berlin: Akademie Verlag, 2007. v. 30.
 </div>
  
----
-
-<center>
-
-  [Retornar à página inicial](#1)
-
-</center>

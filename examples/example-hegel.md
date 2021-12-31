@@ -35,7 +35,7 @@ theme       : hegel
 
 
 <!-- _class: titlepage -->
-![bg left:33%](https://images.unsplash.com/photo-1558117735-790d8562fe92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80)
+![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_portrait_by_Schlesinger_1831.jpg)
 
 
 <div class="title">Graph Algebra and Formally Defined Programs in Z</div>

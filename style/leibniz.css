@@ -58,3 +58,9 @@ section.biblio p {
   font-weight: 300;
   padding-left: 5px;
 }
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}

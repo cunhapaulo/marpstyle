@@ -29,7 +29,7 @@ math        : katex
    } 
 </style>      
  
-![bg left:33%](https://media.gazetadopovo.com.br/2021/05/20172708/bigstock-GERMANY-CIRCA-A-stamp-61919954-960x540.jpg)
+![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/800px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg)
 <!-- _class: titlepage -->
 
 <div class="title">Graph Algebra Representation of Formally Defined Programs in Z</div>

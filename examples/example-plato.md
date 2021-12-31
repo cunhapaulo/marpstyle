@@ -35,7 +35,7 @@ theme       : plato
 
 
 <!-- _class: titlepage -->
-![bg left:33%](https://images.unsplash.com/photo-1591865986097-77712322981b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80)
+![bg left:33%](https://ensinoteoriadoconhecimento.files.wordpress.com/2018/04/plato_pio-clemetino_inv305.jpg?w=900&h=1366)
 
 <div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
 <div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>

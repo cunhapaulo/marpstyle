@@ -12,16 +12,22 @@ Repository for Marp Themes created with beauty and simplicity as first concerns.
 # Available Themes
 
 ## Socrates Theme: [pdf](examples/example-socrates.pdf)
-![Style: Plato](img/socrates01.png)<br>
+![Style: Plato](img/socrates.png)<br>
 
 ## Plato Theme: [pdf](examples/example-plato.pdf)
-![Style: Plato](img/plato01.png)<br>
+![Style: Plato](img/plato.png)<br>
 
 ## Leibniz Theme: [pdf](examples/example-leibniz.pdf)
-![Style: Leibniz](img/leibniz01.png)<br>
+![Style: Leibniz](img/leibniz.png)<br>
+
+## Kant Theme: [pdf](examples/example-kant.pdf)
+![Style: Kant](img/kant.png)<br>
 
 ## Hegel Theme: [pdf](examples/example-hegel.pdf)
-![Style: Hegel](img/hegel01.png)<br>
+![Style: Hegel](img/hegel.png)<br>
+
+## Feud Theme: [pdf](examples/example-freud.pdf)
+![Style: Freud](img/freud.png)<br>
 
 # Install
 Remember to include the path to the style files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
@@ -42,6 +48,7 @@ It might look similar to:
 			"./style/leibniz.css"
 			"./style/kant.css"
 			"./style/hegel.css"
+			"./style/freud.css"
 			"./style/schema.css"
 			"./style/structure.css"
 		]

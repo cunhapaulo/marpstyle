@@ -52,7 +52,7 @@ section.titlepage h2 {
 section.titlepage h3,
 section.titlepage h4,
 section.titlepage h5 {
-  text-align: left; 
+  text-align: right; 
 }
 
 /* -------------------- TRANSITION ---------------------------------*/

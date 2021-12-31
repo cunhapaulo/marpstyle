@@ -20,3 +20,9 @@
   font-family: 'Fira Sans Light';
   font-weight: initial;
 }
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
