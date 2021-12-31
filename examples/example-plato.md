@@ -1,5 +1,5 @@
 ---
-title       : Example Slides for Themes
+title       : Example Slides for Theme Plato
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.

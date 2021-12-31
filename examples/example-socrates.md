@@ -1,5 +1,5 @@
 ---
-title       : Socrates Theme
+title       : Example Slides for Theme Socrates
 author      : Paulo Cunha
 description : Example file of how to use Marp themes.
 keywords    : Marp, Slides, Themes.

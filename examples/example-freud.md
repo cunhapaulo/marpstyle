@@ -1,5 +1,5 @@
 ---
-title       : Example Slides for Themes
+title       : Example Slides for Themes Freud
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
@@ -79,7 +79,7 @@ theme       : freud
 </div>
 </div>   
             
----    
+---            
      
 # Is Algebraic Graph Knowledge Possible?
  
