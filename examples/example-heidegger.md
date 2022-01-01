@@ -80,7 +80,7 @@ theme       : heidegger
 8. *Köningsberg und Praga*
 
 </div>
-</div>   
+</div>    
     
 ---  
      
@@ -115,7 +115,7 @@ When the neet to  make strong assertions becomes inevitable:
 
   - This is one **feature**
   - This is another subjetc.
-
+ 
 </div>
 </div>
 

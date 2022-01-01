@@ -68,7 +68,11 @@
 :root h1 {
   color: #d9dee6;
   background-color: #080a0a;
-  padding-left: 1%;
+  padding-top: 10pt;
+  padding-left: 60pt;
+
+  margin-left: -60pt;
+  margin-right: -60pt;
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/
@@ -86,11 +90,17 @@ section.titlepage .date,
 section.titlepage .organization {
   text-align: left;
 }
+
 section.titlepage h1 {
   border-bottom: 1px solid orangered;
   color: #00254b;
   background-color: initial;
-  padding-left: 0%;
+ 
+  padding-top: 0pt;
+  padding-left: 0pt;
+
+  margin-left: 0pt;
+  margin-right: 0pt;
 }
 
 section.titlepage h2 {

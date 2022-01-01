@@ -5,11 +5,11 @@ description : Example file of how to use Marp themes.
 keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
-theme       : leibniz          
+theme       : leibniz
 math        : katex
 ---      
         
-<style> 
+<style>  
    .cite-author {       
       text-align        : right; 
    }
@@ -71,13 +71,13 @@ math        : katex
 6. *München*
 7. *Köln*
 8. *Köningsberg und Praga*
-
+    
 </div> 
-</div>     
+</div>      
+   
+---     
 
---- 
-
-# Is Algebraic Graph Knowledge Possible? 
+# Is Algebraic Graph Knowledge Possible?
 
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.
 
@@ -91,17 +91,17 @@ When the neet to  make strong assertions becomes inevitable:
 
 --- 
 
-<div class="columns">
+<div class="columns"> 
 <div>
- 
+
 # H1
 ## H2 
 ### H3
 #### H4
 ##### H5
-###### H6
+###### H6 
 </div>
-<div>
+<div> 
 
 - This is a fragment o normal text written here in order to exemplify the use of several featrues in CSS.
 
@@ -168,7 +168,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 <b>Table</b>: Exemple of use of tables.
 </figcaption>
  
----
+--- 
 
 # Maxwell’s Equations in modern vector form
 
