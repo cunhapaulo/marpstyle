@@ -77,14 +77,14 @@ theme       : heidegger
 5. *Dresden*
 6. *München*
 7. *Köln*
-8. *Köningsberg und Praga*
+8. *Köningsberg und Praga* 
 
-</div>
-</div>    
-    
----   
+</div> 
+</div>        
+          
+---     
      
-# Is Algebraic Graph Knowledge **Possible**?
+# Is Algebraic Graph Knowledge **Possible**? 
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
@@ -94,10 +94,11 @@ When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!   
 - Even greater impact comes from: _hilight text_!  
    
-> \***Note**: This is a very long footnote line intended to test the layout of two. 
+> ***Note**: This is a very long footnote line intended to test the layout of two. 
+> 
 ---        
-    
-<div class="columns">  
+     
+<div class="columns">            
 <div> 
  
 # H1

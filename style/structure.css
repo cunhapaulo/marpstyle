@@ -34,12 +34,14 @@ h1 {
   color: var(--h1-color);
   border-bottom: 1px solid var(--border-color);
 }
+
 section p {
   margin-top: 0.5em;
   margin-bottom: 0.25em;
   line-height: 1.3em;
   font-size: 32px;
 }
+
 section li {
   margin-top: 0.5em;
   margin-bottom: 0.25em;
@@ -73,8 +75,8 @@ section strong {
 /* Uses format "page-number / total pages" */
 
 section::after {
-  color: rgb(111, 126, 158);
-  font-size: 0.6em;
+  color: rgb(51, 59, 77);
+  font-size: 0.7em;
   content: " " attr(data-marpit-pagination) " / "
     attr(data-marpit-pagination-total) " ";
 }
@@ -136,7 +138,7 @@ tr:hover {
   element of a slide.
 */
 section blockquote {
-  color: gray;
+  color: rgb(66, 66, 66);
   font-size: unset;
   border-top: 0.1em dashed var(--extra-back-color);
   margin-top: auto;

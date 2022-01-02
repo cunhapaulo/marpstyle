@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 30.dez.2021
+    last update: 02.jan.2022
   ============================================       
 */
 
@@ -30,22 +30,24 @@
   background-color: #435160; 
   background-color: #dedfde;
   
-  --h1-color                  : #33404d;
-  --h1-color                  : #181d2c;
-  --h1-color                  : #a57825;
   --h1-color                  : #386b2b;
+  --h1-color                  : #181d2c;
+  --h1-color                  : #32472d;
+  --h1-color                  : #298854;
+  --h1-color                  : #676B30;
 
   
   --border-color              : #014385;
 
   --bold-color                : rgb(21, 105, 201);
+  --bold-color                : #CF905A;
 
   --italic-color              : rgb(38, 48, 71);
   --italic-background-color   : rgba(172, 215, 255, 0.713);
 
   /* --background-color          : #fdf6e3; */
   --list-item-color           : rgb(255, 212, 95);
-  --after-color               : rgb(201, 198, 198);
+  --after-color               : rgb(51, 48, 48);
 
   --table-font-color          : black;
   --table-header-color        : rgb(0, 132, 255);
@@ -53,7 +55,7 @@
   --main-color                : rgb(207, 77, 17);
   --darker-color              : #246;
   --lighter-color             : #080a0a;
-  --extra-back-color          : rgb(175, 172, 173);
+  --extra-back-color          : rgb(42, 45, 53);
 
   --letter-spacing            : 0.125px;
 
@@ -61,9 +63,8 @@
 
   --author-align              : right;
 
-
 }
-`
+
 
 /* ------------------- TITLEPAGE -----------------------------*/
 

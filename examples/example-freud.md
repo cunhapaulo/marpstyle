@@ -68,16 +68,16 @@ theme       : freud
 4. *Hamburg*
    
 </div>  
-<div>   
+<div>    
         
-4. *Leipzig*
-5. *Dresden*
+4. *Leipzig* 
+5. *Dresden* 
 6. *München*
-7. *Köln*
-8. *Köningsberg und Praga*
-
-</div>
-</div>   
+7. *Köln* 
+8. *Köningsberg und Praga* 
+ 
+</div>    
+</div>     
             
 ---            
      
@@ -119,7 +119,7 @@ When the neet to  make strong assertions becomes inevitable:
 
 ---
  
-# Lists
+# Lists 
 
 <div class="columns">
 <div>
