@@ -73,22 +73,22 @@ theme       : heidegger
 </div>  
 <div>   
         
-4. *Leipzig*
+4. *Leipzig* 
 5. *Dresden*
 6. *München*
-7. *Köln*
+7. *Köln* 
 8. *Köningsberg und Praga* 
 
 </div> 
 </div>        
-          
----     
+           
+---      
      
 # Is Algebraic Graph Knowledge **Possible**? 
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
-- Model Cheking and theorem prooving are viable paths.
+- Model Cheking and theorem prooving are viable paths. 
 
 When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!   
@@ -103,7 +103,7 @@ When the neet to  make strong assertions becomes inevitable:
  
 # H1
 ## H2 
-### H3
+### H3 
 #### H4
 ##### H5
 ###### H6
@@ -281,13 +281,13 @@ Transition Slide
 ---         
 <!--   
 ############################### [ SECTION ] #################################### 
--->   
+-->    
 
-<!-- _class: biblio -->
+<!-- _class: biblio --> 
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-# References    
+# References     
 
 1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
 

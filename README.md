@@ -26,8 +26,11 @@ Repository for Marp Themes created with beauty and simplicity as first concerns.
 ## Hegel Theme: [pdf](examples/example-hegel.pdf)
 ![Style: Hegel](img/hegel.png)<br>
 
-## Feud Theme: [pdf](examples/example-freud.pdf)
+## Freud Theme: [pdf](examples/example-freud.pdf)
 ![Style: Freud](img/freud.png)<br>
+
+## Heidegger Theme: [pdf](examples/example-heidegger.pdf)
+![Style: Freud](img/heidegger.png)<br>
 
 # Install
 Remember to include the path to the style files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
@@ -49,6 +52,7 @@ It might look similar to:
 			"./style/kant.css"
 			"./style/hegel.css"
 			"./style/freud.css"
+			"./style/heidegger.css"
 			"./style/schema.css"
 			"./style/structure.css"
 		]
