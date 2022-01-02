@@ -122,6 +122,8 @@ section.titlepage h5 {
 section.transition {
   --transitionpage-color: #341e72;
   --transitionpage-color: rgb(207, 24, 24);
+  font-weight: bold;
+  text-shadow: 4px 4px 0 rgb(53, 38, 38);
 }
 
 /* ------------------- CITE -----------------------------*/
