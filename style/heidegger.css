@@ -42,7 +42,7 @@
   --bold-color                : rgb(247, 247, 248);
 
   --italic-color              : rgb(18, 19, 22);
-  --italic-background-color   : rgba(156, 154, 148, 0.713);
+  --italic-background-color   : rgba(211, 76, 13, 0.713);
 
   /* --background-color          : #fdf6e3; */
   --list-item-color           : rgb(255, 212, 95);
@@ -73,6 +73,10 @@
 
   margin-left: -60pt;
   margin-right: -60pt;
+}
+
+:root h1 strong {
+  color: red
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/
