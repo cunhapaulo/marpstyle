@@ -18,6 +18,7 @@
 
 :root {
   font-family: "Fira Sans Light";
+  /* font-family: Cochin, Georgia; */
   font-weight: initial;
   
   color: #6c6c6c; 
@@ -29,8 +30,8 @@
   background-color            : #435160; 
   background-color            : #dedfde;
   background-color            : #FFCC00;
-  background-color            : #f7a600;
   background-color            : #f8b632;
+  background-color            : #f7a600;
 
   --h1-color                  : #33404d;
   --h1-color                  : #a57825;

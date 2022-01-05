@@ -71,7 +71,7 @@ theme       : heidegger
 4. *Hamburg*
    
 </div>  
-<div>   
+<div>    
         
 4. *Leipzig* 
 5. *Dresden*
@@ -81,8 +81,8 @@ theme       : heidegger
 
 </div> 
 </div>        
-           
----      
+            
+---        
      
 # Is Algebraic Graph Knowledge **Possible**? 
  
@@ -96,7 +96,7 @@ When the neet to  make strong assertions becomes inevitable:
    
 > ***Note**: This is a very long footnote line intended to test the layout of two. 
 > 
----        
+---         
      
 <div class="columns">            
 <div> 
@@ -192,7 +192,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
  
 ![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
    
-</div>
+</div> 
 <div>
 
 ![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
