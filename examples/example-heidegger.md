@@ -80,7 +80,7 @@ theme       : heidegger
 8. *Köningsberg und Praga* 
 
 </div> 
-</div>        
+</div>           
             
 ---        
      
