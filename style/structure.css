@@ -204,7 +204,7 @@ section.titlepage .title {
   border-bottom: 1px solid var(--border-color);
   line-height: 1.25;
   padding-bottom: 15px;
-  padding-right: 20%;
+  padding-right: 10%;
 }
 section.titlepage .subtitle {
   font-size: var(--subtitle-size);

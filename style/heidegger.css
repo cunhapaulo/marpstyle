@@ -83,9 +83,14 @@
 
 /* ------------------- TITLEPAGE -----------------------------*/
 
+section.titlepage .title strong {
+  color: rgb(255, 52, 52);
+}
+
 section.titlepage .title {
   border-bottom: 1px solid orangered;
 }
+
 
 section.titlepage .subtitle {
   font-weight: 300;

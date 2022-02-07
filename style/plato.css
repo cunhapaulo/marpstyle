@@ -19,6 +19,13 @@
 :root {
   font-family: 'Fira Sans Light';
   font-weight: initial;
+  --italic-background-color   : rgba(214, 25, 66, 0.144);
+  --italic-background-color   : rgba(255, 86, 8, 0.185);
+
+}
+
+section.cite {
+  --strong-color        : rgba(255, 5, 5, 0.795);
 }
 
 section.titlepage .author,
