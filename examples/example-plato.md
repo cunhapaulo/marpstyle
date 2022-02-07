@@ -35,7 +35,7 @@ theme       : plato
 
 
 <!-- _class: titlepage -->
-![bg left:33%](https://ensinoteoriadoconhecimento.files.wordpress.com/2018/04/plato_pio-clemetino_inv305.jpg?w=900&h=1366)
+![bg left:35%](https://ensinoteoriadoconhecimento.files.wordpress.com/2018/04/plato_pio-clemetino_inv305.jpg?w=900&h=1366)
 
 <div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
 <div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
@@ -181,6 +181,10 @@ $$\frac{1}{c^2}\frac{\partial^2\mathbf{\psi}}{\partial t^2} = \nabla^2 \circ\mat
 $$\nabla \times \textbf{E}=- \frac{\partial \textbf{B}}{\partial t}$$
 $$\nabla^2 \textbf{E} = \mu \epsilon \frac{\partial^2 \textbf{E}}{\partial t^2}$$
 $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
+
+<figcaption align="center">
+<b>Equations</b>: Exemple of use of LaTeX math.
+</figcaption>
 
 ---
 
