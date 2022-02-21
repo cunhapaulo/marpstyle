@@ -32,6 +32,7 @@
   background-color            : #FFCC00;
   background-color            : #f7a600;
   background-color            : #f8b632;
+  background-color            : #fbc30a;
   
   --h1-color                  : #33404d;
   --h1-color                  : #a57825;
@@ -42,6 +43,7 @@
   --border-color              : #014385;
 
   --bold-color                : rgb(247, 247, 248);
+  --bold-color                : red;
 
   --italic-color              : rgb(18, 19, 22);
   --italic-background-color   : rgba(211, 76, 13, 0.713);
