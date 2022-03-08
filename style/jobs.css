@@ -1,0 +1,163 @@
+/* @theme jobs */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 27.fev.2022
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  /* font-family: "Fira Sans Light"; */
+  /* font-family: Cochin, Georgia; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  
+  font-family: 'Tahoma'; 
+  font-family: 'Open Sans';
+  font-family: 'Segoe UI'; 
+  font-weight: initial;
+  
+  /* -- Bodytext FONT color */
+  color: #494545;
+
+  /* -- Slides BACKGROUND color */
+  background-color            : white;
+
+  /* -- BOLD font color */
+  --bold-color                : red;
+
+  --italic-color              : rgb(18, 19, 22);
+
+  --italic-background-color   : rgba(211, 76, 13, 0.713);
+
+  /* --background-color          : #fdf6e3; */
+  --list-item-color           : rgb(255, 212, 95);
+
+  --after-color               : rgb(201, 198, 198);
+
+  --table-font-color          : black;
+
+  --table-header-color        : rgb(0, 132, 255);
+
+  --border-color              : #014385;
+
+  --main-color                : rgb(207, 77, 17);
+
+  --darker-color              : #246;
+
+  --lighter-color             : #080a0a;
+
+  --extra-back-color          : rgb(71, 69, 69);
+
+  --letter-spacing            : 0.125px;
+
+  --cool-list-color           : rgb(255, 68, 0);
+
+  --author-align              : right;
+}
+
+:root h1 {
+  
+  /* background-color: #1098db2d; */
+  
+  --border-color              : white;
+  
+  color: #2b2c2e;
+
+  font-weight: 600;
+
+  padding-top: 10pt;
+  padding-left: 60pt;
+
+  margin-left: -60pt;
+  margin-right: -60pt;
+}
+
+:root h1 strong {
+  color: rgb(255, 52, 52);
+}
+
+:root p {
+  font-size: 34px;
+  font-family: 'Open Sans';  
+}
+/* ------------------- TITLEPAGE -----------------------------*/
+
+/* Titlepage made with <titlepalge> */
+section.titlepage .title strong {
+  color: rgb(255, 52, 52);
+}
+
+section.titlepage .title {
+  border-bottom: 1px solid rgb(179, 176, 176);
+}
+
+
+section.titlepage .subtitle {
+  font-weight: 300;
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
+
+
+/* Titlepage made with # */
+section.titlepage h1 {
+
+  border-bottom: 1px solid rgb(179, 176, 176);
+
+  /* color: #3878b8; */
+  /* background-color: initial; */
+ 
+  padding-top: 0pt;
+  padding-left: 0pt;
+
+  margin-left: 0pt;
+  margin-right: 0pt;
+}
+
+section.titlepage h2 {
+  font-weight: 300;
+}
+
+section.titlepage h3,
+section.titlepage h4,
+section.titlepage h5 {
+  text-align: right;
+}
+
+/* -------------------- TRANSITION ---------------------------------*/
+section.transition {
+
+  --transitionpage-color: rgb(23, 148, 197);
+  --transitionpage-color: rgb(129, 127, 127);
+  
+  font-weight: bold;
+  /* text-shadow: 4px 4px 0 rgb(53, 38, 38); */
+}
+
+/* ------------------- CITE -----------------------------*/
+
+section.cite p {
+  color: #fffbfe;
+}
+
+section.cite {
+  
+  --background-color: rgb(92, 121, 163);
+  --strong-color:     #c4ee0b;
+
+}
+
