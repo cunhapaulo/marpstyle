@@ -36,7 +36,6 @@
   --bold-color                : red;
 
   --italic-color              : rgb(18, 19, 22);
-
   --italic-background-color   : rgba(211, 76, 13, 0.713);
 
   /* --background-color          : #fdf6e3; */
@@ -69,7 +68,7 @@
   
   /* background-color: #1098db2d; */
   
-  --border-color              : white;
+  --border-color              : rgb(209, 193, 193);
   
   color: #2b2c2e;
 
@@ -80,6 +79,9 @@
 
   margin-left: -60pt;
   margin-right: -60pt;
+
+  letter-spacing: -0.5px;
+
 }
 
 :root h1 strong {
@@ -88,7 +90,8 @@
 
 :root p {
   font-size: 34px;
-  font-family: 'Open Sans';  
+  font-family: 'Open Sans';
+  letter-spacing: -0.3px;
 }
 /* ------------------- TITLEPAGE -----------------------------*/
 
@@ -99,6 +102,7 @@ section.titlepage .title strong {
 
 section.titlepage .title {
   border-bottom: 1px solid rgb(179, 176, 176);
+  letter-spacing: -0.3px;
 }
 
 
@@ -152,12 +156,14 @@ section.transition {
 
 section.cite p {
   color: #fffbfe;
+  font-family: "Libre Baskerville", serif; 
+  font-style: italic;
+
 }
 
 section.cite {
   
   --background-color: rgb(92, 121, 163);
   --strong-color:     #c4ee0b;
-
 }
 

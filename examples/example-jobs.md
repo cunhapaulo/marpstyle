@@ -84,7 +84,7 @@ theme       : jobs
             
 ---        
      
-# Is Algebraic Graph Knowledge **Possible**? 
+# Is Algebraic Graph Knowledge **Possible**?
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      

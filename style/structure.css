@@ -333,7 +333,7 @@ section.cite p {
   letter-spacing: var(--letter-spacing);
   font-size: 150%;
   text-align: center;
-  line-height: 1.25em;
+  line-height: 1.2em;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   /*  font-style: oblique; */
   padding-top: auto;
