@@ -156,8 +156,10 @@ section.transition {
 
 section.cite p {
   color: #fffbfe;
+  font-size: 36px;
   font-family: "Libre Baskerville", serif; 
   font-style: italic;
+  line-height: 136%;
 
 }
 
