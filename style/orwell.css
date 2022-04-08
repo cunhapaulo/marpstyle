@@ -1,0 +1,51 @@
+/* @theme orwell */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 30.dez.2021
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  font-family: 'Fira Sans Light';
+  font-weight: initial;
+}
+
+section.titlepage .title, .subtitle, .author, .date, .organization {
+  color: rgb(255, 255, 255) !important;
+  font-kerning: auto;
+  text-align: left !important;
+}
+
+section strong {
+  color: rgb(0, 97, 177);
+}
+
+section.transition {
+  font-size: 16pt;
+  
+}
+
+section.transition em {
+  
+  /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+ 
+ }
+section.transition strong {
+  
+ /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+ color:rgb(255, 166, 1);
+ font-size: 90% !important;
+ font-style: italic;
+
+}
