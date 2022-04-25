@@ -40,7 +40,8 @@
   --h1-color                  : #1f1e1c;
   
   
-  --border-color              : #014385;
+  --border-color              : rgb(255, 52, 52);
+  --border-color              : rgb(41, 59, 160);
 
   --bold-color                : rgb(247, 247, 248);
   --bold-color                : red;
@@ -90,6 +91,8 @@ section.titlepage .title strong {
 }
 
 section.titlepage .title {
+  color: red;
+  color: #00254b;
   border-bottom: 1px solid orangered;
 }
 
