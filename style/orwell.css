@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 30.dez.2021
+    last update: 12.mai.2022
   ============================================       
 */
 
@@ -19,6 +19,18 @@
 :root {
   font-family: 'Fira Sans Light';
   font-weight: initial;
+  color: #030303;
+  color: #070707d2;
+
+}
+
+h1 {
+  color: #012a53;
+  color: #00254b;
+  border-color: rgb(0, 140, 255);
+  border-color: orangered;
+  margin-bottom: 3.5%;
+  
 }
 
 section.titlepage .title, .subtitle, .author, .date, .organization {
@@ -27,25 +39,42 @@ section.titlepage .title, .subtitle, .author, .date, .organization {
   text-align: left !important;
 }
 
-section strong {
-  color: rgb(0, 97, 177);
+section.titlepage h1{
+  border-color: orangered;
 }
 
-section.transition {
-  font-size: 16pt;
-  
+section.titlepage strong{
+  color: rgb(141, 194, 230);
+}
+
+section strong {
+  color:rgb(209, 18, 18);
+  color:rgb(38, 44, 56);
+  color:rgb(255, 0, 0);
+  color:rgb(68, 86, 145);
+  color:rgb(90, 120, 216);
+  color:rgb(182, 98, 98);
+  color:rgb(223, 51, 39);
+}
+
+section.transition a {
+  font-size: 19pt;
+  font-size: 170% !important;
+  font-weight: 900 !important;
+  font-kerning: auto;
 }
 
 section.transition em {
   
   /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
- 
- }
+  
+}
 section.transition strong {
   
- /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
- color:rgb(255, 166, 1);
- font-size: 90% !important;
- font-style: italic;
+  /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+  color: yellow; /*rgb(247, 76, 9);*/
+  font-size: 110% !important;
+  font-weight: 900 !important;
+  /* text-shadow: 4px 4px 0 rgb(51, 50, 49);*/
 
 }
