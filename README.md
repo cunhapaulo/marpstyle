@@ -1,47 +1,60 @@
-# Marp Themes - `marpstyle`
+# MARP Themes - `marpstyle`
 
-Repository for Marp Themes created with beauty and simplicity as first concerns.
+Repository for Marp themes, created with beauty and simplicity as first concerns.
 
 ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
-| ![](img/plow_man.gif) | This set of styles were designed bearing simplicity and beauty in mind as first class requirements. As the first style (plato.css) got ready I decided to share.  Hope sincerely you enjoy it and that it comes to be useful to as many users as possible. <br> <br>More styles are due to come. Stay tuned! |
+| ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class requirements. As the first theme (plato.css) got ready I decided to share. I hope sincerely you enjoy it and it comes to be useful to as many users as possible. More styles are due to come in a fashionable time. <br> <br> Stay tuned for more themes! |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 # Available Themes
 
-## Socrates Theme: [pdf](examples/example-socrates.pdf)
+### Below are some examples of available themes . Clink in the link to see a PFD example.
 
-![Style: Plato](img/socrates.png)<br>
+<br>
 
-## Plato Theme: [pdf](examples/example-plato.pdf)
+- ## THEME SOCRATES <br> Σωκράτης (469–399 B.C.E.)
+  [![](img/socrates.png)](examples/example-socrates.pdf)
 
-![Style: Plato](img/plato.png)<br>
+<br>
 
-## Leibniz Theme: [pdf](examples/example-leibniz.pdf)
+- ## THEME PLATO <br> Πλάτων (429?–347 B.C.E.)
+  [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-![Style: Leibniz](img/leibniz.png)<br>
+<br>
 
-## Kant Theme: [pdf](examples/example-kant.pdf)
+- ## THEME LEIBNIZ <br> Gottfried Wilhelm Leibniz (1646–1716) 
+  [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-![Style: Kant](img/kant.png)<br>
+<br>
 
-## Hegel Theme: [pdf](examples/example-hegel.pdf)
+- ## THEME KANT <br> Immanuel Kant (1724–1804)
+  [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-![Style: Hegel](img/hegel.png)<br>
+<br>
 
-## Freud Theme: [pdf](examples/example-freud.pdf)
+- ## THEME HEGEL <br> Georg Wilhelm Friedrich Hegel (1770–1831)
+  [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-![Style: Freud](img/freud.png)<br>
+<br>
 
-## Heidegger Theme: [pdf](examples/example-heidegger.pdf)
+- ## THEME FREUD <br> Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
+  [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-![Style: Freud](img/heidegger.png)<br>
+<br>
+
+- ## THEME HEIDEGGER <br> Martin Heidegger (1889–1976) 
+  [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
+
+<br>
 
 # Install
 
-Remember to include the path to the style files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
+As a prerequisite of MARP, remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 
-It might look similar to:
+## It might look similar to:
+
+<br>
 
 ```json
 {
@@ -65,6 +78,8 @@ It might look similar to:
     }
 }
 ```
+
+<br>
 
 # Typefaces
 
