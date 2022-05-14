@@ -48,6 +48,11 @@ Repository for Marp themes, created with beauty and simplicity as first concerns
 
 <br>
 
+- ## THEME JOBS <br> Steven Paul Jobs (1955–2011) 
+  [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
+
+<br>
+
 # Install
 
 As a prerequisite of MARP, remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
@@ -72,6 +77,7 @@ As a prerequisite of MARP, remember to include the path to the theme files (CSS 
             "./style/hegel.css"
             "./style/freud.css"
             "./style/heidegger.css"
+            "./style/jobs.css"
             "./style/schema.css"
             "./style/structure.css"
         ]

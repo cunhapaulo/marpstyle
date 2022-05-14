@@ -35,7 +35,7 @@ theme       : kant
 
 
 <!-- _class: titlepage -->
-![bg left:33%](https://www.educabras.com/media/aula_files/aula%20filosofia/kant-peq.jpg)
+![bg left:33%](https://cdn.dribbble.com/users/252325/screenshots/3573162/attachments/796931/i-kant.png)
 
 <div class="title">Graph Algebra and Formally Defined Programs in Z</div>
 <div class="subtitle">Using Haskell to Reason and   Verify Programs</div>

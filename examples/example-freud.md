@@ -33,7 +33,8 @@ theme       : freud
 
 
 <!-- _class: titlepage -->
-![bg left:33% h:113%](https://i.pinimg.com/564x/c2/a8/eb/c2a8eb798b03b53b1a33cb76e6399720.jpg)
+<!-- ![bg left:33% h:113%](https://i.pinimg.com/564x/c2/a8/eb/c2a8eb798b03b53b1a33cb76e6399720.jpg) -->
+![bg left:33% h:113%](https://s2.glbimg.com/DHcE40A_BJheQXOKvBspMA7YGM4=/e.glbimg.com/og/ed/f/original/2017/02/16/sigmund_freud_-_wikimedia_commons.jpg)
 
 <div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
 <div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
