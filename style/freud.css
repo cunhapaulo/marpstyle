@@ -23,24 +23,20 @@
   color: #6c6c6c; 
   color: #2b3446;
   
-  background-color: #f5eee6;
-  background-color: #d9dee6;
   background-color: #727d8b;
   background-color: #f8b13d;
   background-color: #435160; 
-  background-color: #dedfde;
-  
-  --h1-color                  : #386b2b;
-  --h1-color                  : #181d2c;
-  --h1-color                  : #32472d;
-  --h1-color                  : #298854;
-  --h1-color                  : #676B30;
+  background-color: #f5eee6;
+  background-color: #d9dee6;
+  background-color: #f4f4ed;
 
+  --h1-color                  : #3d09ae;
+  --h1-color                  : #06858e;
   
-  --border-color              : #014385;
+  --border-color              : #a0660387;
 
   --bold-color                : rgb(21, 105, 201);
-  --bold-color                : #CF905A;
+  --bold-color                : #0d2d58;
 
   --italic-color              : rgb(38, 48, 71);
   --italic-background-color   : rgba(172, 215, 255, 0.713);

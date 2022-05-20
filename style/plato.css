@@ -33,3 +33,18 @@ section.titlepage .date,
 section.titlepage .organization {
   text-align: left;
 }
+
+section strong {
+  color:rgba(5, 51, 255, 0.534) ;
+  color:rgba(5, 43, 255, 0.979) ;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-weight: 600;
+}
+
+section.transition2 strong {
+
+  color: rgb(10, 100, 235);
+  color: rgb(161, 240, 3);
+
+}

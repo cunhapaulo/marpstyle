@@ -33,10 +33,10 @@
   background-color            : white;
 
   /* -- BOLD font color */
-  --bold-color                : red;
+  --bold-color                : rgb(118, 128, 150);
 
-  --italic-color              : rgb(18, 19, 22);
-  --italic-background-color   : rgba(211, 76, 13, 0.713);
+  --italic-color              : rgb(96, 89, 89);
+  --italic-background-color   : rgba(142, 145, 146, 0.172);
 
   /* --background-color          : #fdf6e3; */
   --list-item-color           : rgb(255, 212, 95);
@@ -148,6 +148,7 @@ section.transition {
   --transitionpage-color: rgb(23, 148, 197);
   --transitionpage-color: rgb(129, 127, 127);
   
+
   font-weight: bold;
   /* text-shadow: 4px 4px 0 rgb(53, 38, 38); */
 }
@@ -159,7 +160,7 @@ section.cite p {
   font-size: 36px;
   font-family: "Libre Baskerville", serif; 
   font-style: italic;
-  line-height: 136%;
+  line-height: 140%;
 
 }
 
@@ -169,3 +170,8 @@ section.cite {
   --strong-color:     #c4ee0b;
 }
 
+section.cite strong{
+
+  font-weight: 100;
+
+}
