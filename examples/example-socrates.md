@@ -31,7 +31,7 @@ theme       : socrates
 ![bg left:33%](https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/440px-Socrate_du_Louvre.jpg)
 <!-- _class: titlepage -->
 
-<div class="title">Graph Algebra Representation of Formally Defined Programs in Z</div>
+<div class="title">Graph Algebra <br> Representation of Formally Defined Programs in Z</div>
 <div class="subtitle">Using Haskell to Reason and Verify Programs</div>
 <div class="author">Leonard Kleinrock</div>
 <div class="date">01.jan.2022</div>
