@@ -9,46 +9,46 @@ Repository for Marp themes, created with beauty and simplicity as first concerns
 
 # Available Themes
 
-### Below are some examples of available themes . Clink in the link to see a PFD example.
+### Below are some examples of available themes. <br> Click on the picture to open a PFD example.
 
 <br>
 
-- ## THEME SOCRATES (in honor of) Σωκράτης (469–399 B.C.E.)
+- ### THEME SOCRATES in honor of Σωκράτης (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
 
 <br>
 
-- ## THEME PLATO (in honor of) Πλάτων (429?–347 B.C.E.)
+- ### THEME PLATO in honor of Πλάτων (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
 <br>
 
-- ## THEME LEIBNIZ (in honor of) Gottfried Wilhelm Leibniz (1646–1716) 
+- ### THEME LEIBNIZ in honor of Gottfried Wilhelm Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
 <br>
 
-- ## THEME KANT (in honor of) Immanuel Kant (1724–1804)
+- ### THEME KANT in honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
 <br>
 
-- ## THEME HEGEL (in honor of) Georg Wilhelm Friedrich Hegel (1770–1831)
+- ### THEME HEGEL in honor of Georg Wilhelm Friedrich Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
 <br>
 
-- ## THEME FREUD (in honor of) Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
+- ### THEME FREUD in honor of Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
 <br>
 
-- ## THEME HEIDEGGER (in honor of) Martin Heidegger (1889–1976) 
+- ### THEME HEIDEGGER in honor of Martin Heidegger (1889–1976) 
   [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
 
 <br>
 
-- ## THEME JOBS (in honor of) Steven Paul Jobs (1955–2011) 
+- ### THEME JOBS in honor of Steven Paul Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
