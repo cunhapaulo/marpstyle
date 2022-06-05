@@ -16,37 +16,30 @@ Repository for Marp themes, created with beauty and simplicity as first concerns
 - ## THEME SOCRATES <br> Σωκράτης (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
 
-<br>
 
 - ## THEME PLATO <br> Πλάτων (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-<br>
 
 - ## THEME LEIBNIZ <br> Gottfried Wilhelm Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-<br>
 
 - ## THEME KANT <br> Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-<br>
 
 - ## THEME HEGEL <br> Georg Wilhelm Friedrich Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-<br>
+
 
 - ## THEME FREUD <br> Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-<br>
-
 - ## THEME HEIDEGGER <br> Martin Heidegger (1889–1976) 
   [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
 
-<br>
 
 # Install
 
@@ -104,8 +97,6 @@ It is a MARP prerequisite to declare the location of themes so remember to inclu
 	}
 }
 ```
-
-<br>
 
 # Typefaces
 
