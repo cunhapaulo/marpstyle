@@ -9,43 +9,41 @@ Repository for Marp themes, created with beauty and simplicity as first concerns
 
 # Available Themes
 
-### Below are some examples of available themes . Clink in the link to see a PFD example.
+### Below are some examples of available themes. <br> Click on the picture to open a PFD example.
 
-<br>
-
-- ## THEME SOCRATES <br> Σωκράτης (469–399 B.C.E.)
+- ### THEME SOCRATES in honor of Σωκράτης (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
 
 
-- ## THEME PLATO <br> Πλάτων (429?–347 B.C.E.)
+- ### THEME PLATO in honor of Πλάτων (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
 
-- ## THEME LEIBNIZ <br> Gottfried Wilhelm Leibniz (1646–1716) 
+- ### THEME LEIBNIZ in honor of Gottfried Wilhelm Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-
-- ## THEME KANT <br> Immanuel Kant (1724–1804)
+- ### THEME KANT in honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-
-- ## THEME HEGEL <br> Georg Wilhelm Friedrich Hegel (1770–1831)
+- ### THEME HEGEL in honor of Georg Wilhelm Friedrich Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-
-
-- ## THEME FREUD <br> Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
+- ### THEME FREUD in honor of Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-- ## THEME HEIDEGGER <br> Martin Heidegger (1889–1976) 
+- ### THEME HEIDEGGER in honor of Martin Heidegger (1889–1976) 
   [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
 
+- ### THEME JOBS in honor of Steven Paul Jobs (1955–2011) 
+  [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
+
+<br>
 
 # Install
 
-It is a MARP prerequisite to declare the location of themes so remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` file, in order to make them available to your slide deck.
+As a prerequisite of MARP, remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 
-## It might look similar to this, if you put the css files localy:
+## It might look similar to:
 
 <br>
 
@@ -65,6 +63,7 @@ It is a MARP prerequisite to declare the location of themes so remember to inclu
             "./style/hegel.css"
             "./style/freud.css"
             "./style/heidegger.css"
+            "./style/jobs.css"
             "./style/schema.css"
             "./style/structure.css"
         ]
@@ -98,17 +97,20 @@ It is a MARP prerequisite to declare the location of themes so remember to inclu
 }
 ```
 
+<br>
+
 # Typefaces
 
 Some of the fonts necessary to the available styles are listed below with its respective link for download:
 
 - ## Socrates Theme:
   
-  - Noto Sans: https://fonts.google.com/noto/specimen/Noto+Sans
+  - Noto Sans (Google Fonts): https://fonts.google.com/noto/specimen/Noto+Sans
 
 - ## Plato Theme:
   
-  - Fira: https://github.com/bBoxType/FiraSans
+  - Fira Sans Light (Google Fonts): https://fonts.google.com/specimen/Fira+Sans?query=fira
+  - Fira Sans Light: https://github.com/bBoxType/FiraSans
 
 - ## Leibniz Theme:
   
