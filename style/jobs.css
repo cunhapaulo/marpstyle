@@ -33,7 +33,9 @@
   background-color            : white;
 
   /* -- BOLD font color */
-  --bold-color                : rgb(118, 128, 150);
+  --bold-color                : rgb(105, 120, 151);
+  --bold-color                : rgb(71, 111, 184);
+  --bold-color                : rgb(71, 107, 184);
 
   --italic-color              : rgb(96, 89, 89);
   --italic-background-color   : rgba(142, 145, 146, 0.172);
@@ -101,9 +103,11 @@ section.titlepage .title strong {
 }
 
 section.titlepage .title {
-  border-bottom: 1px solid rgb(179, 176, 176);
+  /* border-bottom: 1px solid rgb(179, 176, 176); */
+  border-bottom: 1px solid rgb(29, 107, 209);
   letter-spacing: -0.3px;
 }
+
 
 
 section.titlepage .subtitle {
@@ -150,7 +154,8 @@ section.transition {
   
 
   font-weight: bold;
-  /* text-shadow: 4px 4px 0 rgb(53, 38, 38); */
+  /* font-size: 200%; */
+  /* text-shadow: 4px 4px 0 rgb(77, 61, 61); */
 }
 
 /* ------------------- CITE -----------------------------*/
