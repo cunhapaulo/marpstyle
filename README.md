@@ -19,6 +19,8 @@ Last update: 05.jun.2022
 - ### THEME PLATO in honor of Πλάτων (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
+- ### THEME DESCARTES in honor of René Descartes (1596–1650) 
+  [![Style: Leibniz](img/DESCARTES.png)](examples/example-descartes.pdf)
 
 - ### THEME LEIBNIZ in honor of Gottfried Wilhelm Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
@@ -42,7 +44,7 @@ Last update: 05.jun.2022
 
 # Install
 
-As a prerequisite of MARP, remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
+As a MARP´s prerequisite, remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 
 ## It might look similar to:
 
