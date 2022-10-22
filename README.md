@@ -86,6 +86,7 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 	],
 	"settings": {
 		"markdown.marp.themes": [
+			"https://cunhapaulo.github.io/style/descartes.css"
 			"https://cunhapaulo.github.io/style/freud.css"
 			"https://cunhapaulo.github.io/style/hegel.css"
 			"https://cunhapaulo.github.io/style/heidegger.css"
