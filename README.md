@@ -20,7 +20,7 @@ Last update: 05.jun.2022
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
 - ### THEME DESCARTES in honor of René Descartes (1596–1650) 
-  [![Style: Leibniz](img/DESCARTES.png)](examples/example-descartes.pdf)
+  [![Style: Leibniz](img/descartes.png)](examples/example-descartes.pdf)
 
 - ### THEME LEIBNIZ in honor of Gottfried Wilhelm Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
