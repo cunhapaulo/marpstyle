@@ -61,6 +61,7 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
         "markdown.marp.themes": [
             "./style/socrates.css"
             "./style/plato.css"
+            "./style/descartes.css"
             "./style/leibniz.css"
             "./style/kant.css"
             "./style/hegel.css"
