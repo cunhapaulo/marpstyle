@@ -7,8 +7,6 @@
 1. Jobs, Steve
 1. Kant, Immanuel
 1. Leibniz, Gottfried Wilhelm
-1. Leibniz, Gottfried Wilhelm
-1. Orwell, George
 1. Orwell, George
 1. Plato
 1. Socrates
