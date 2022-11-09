@@ -1,0 +1,74 @@
+/* @theme husserl */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 08.nov.2022
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  font-family: 'Fira Sans Light';
+  font-weight: initial;
+  --italic-background-color   : rgba(214, 25, 66, 0.144);
+  --italic-background-color   : rgba(8, 206, 255, 0.3);
+  --italic-background-color   : rgba(8, 140, 255, 0.236);    
+  background-color: rgb(238, 244, 237); 
+}
+
+h1 {
+  color:rgb(23, 86, 118);
+  color:rgb(11, 37, 69);
+  color:rgb(53, 80, 112);
+  color:rgb(53, 80, 112);
+  padding-bottom: 2mm;
+  margin-bottom: 12mm;
+}
+
+p {
+  font-size: 26pt;
+  font-weight: 600;
+  color:rgba(78, 78, 80, 0.814)  
+}
+
+section.titlepage .title {
+  border-bottom: 1px solid orangered;
+}
+
+
+section.cite {
+  --strong-color        : rgba(255, 5, 5, 0.795);
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
+
+section strong {
+  color:rgb(141, 169, 196) ;
+  color:rgba(23, 86, 118) ;
+  color:rgb(181, 101, 118) ;
+  color:rgb(186, 50, 79) ;
+  color:rgb(229, 107, 111) ;
+  padding-left: 1px;
+  padding-right: 1px;
+  font-weight: 600;
+}
+
+section.transition2 strong {
+
+  color: rgb(10, 100, 235);
+  color: rgb(161, 240, 3);
+
+}
