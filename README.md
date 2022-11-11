@@ -55,33 +55,6 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 
 ```json
 {
-    "folders": [
-        {
-            "path": "."
-        }
-    ],
-    "settings": {
-        "markdown.marp.themes": [
-            "./style/socrates.css"
-            "./style/plato.css"
-            "./style/descartes.css"
-            "./style/leibniz.css"
-            "./style/kant.css"
-            "./style/hegel.css"
-            "./style/freud.css"
-            "./style/heidegger.css"
-            "./style/jobs.css"
-            "./style/schema.css"
-            "./style/structure.css"
-        ]
-    }
-}
-```
-
-## You might as well use my themes directly from github using the url, just like depicted below:
-
-```json
-{
 	"folders": [
 		{
 			"path": "."
@@ -101,6 +74,35 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 			"./style/jobs.css"
 			"./style/schema.css"
 			"./style/structure.css"
+		]
+	}
+}
+```
+
+## You might as well use my themes directly from github using the url, just like depicted below:
+
+```json
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"https://cunhapaulo.github.io/style/descartes.css"
+			"https://cunhapaulo.github.io/style/freud.css"
+			"https://cunhapaulo.github.io/style/hegel.css"
+			"https://cunhapaulo.github.io/style/heidegger.css"
+			"https://cunhapaulo.github.io/style/husserl.css"
+			"https://cunhapaulo.github.io/style/kant.css"
+			"https://cunhapaulo.github.io/style/leibniz.css"
+			"https://cunhapaulo.github.io/style/orwell.css"
+			"https://cunhapaulo.github.io/style/plato.css"
+			"https://cunhapaulo.github.io/style/schema.css"
+			"https://cunhapaulo.github.io/style/simple.css"
+			"https://cunhapaulo.github.io/style/socrates.css"
+			"https://cunhapaulo.github.io/style/structure.css"
 		]
 	}
 }

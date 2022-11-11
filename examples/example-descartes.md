@@ -3,7 +3,7 @@ title       : Example Slides for Themes Heidegger
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
-marp        : false
+marp        : true
 paginate    : true
 theme       : descartes
 --- 
