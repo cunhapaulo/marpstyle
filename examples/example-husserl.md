@@ -3,7 +3,7 @@ title       : Example Slides for Theme Husserl
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
-marp        : false
+marp        : true
 paginate    : true
 theme       : husserl
 --- 
@@ -35,8 +35,7 @@ theme       : husserl
 <!-- _class: titlepage -->
 <!-- ![bg left:33% h:113%](https://prabook.com/web/show-photo.jpg?id=2773656&cache=false) -->
 
-![bg left:33%](https://recreio.uol.com.br/media/_versions/legacy/2020/04/06/pensadores-antigos-7-rene-descartes-1221481_widexl.png)
-<!-- ![bg left:33% h:100%](https://www.macworld.com/wp-content/uploads/2021/10/steve-jobs-2-1.jpg?quality=50&strip=all) -->
+![bg left:33%](https://www.periodicodaily.com/wp-content/uploads/2020/04/Edmund-Husserl-696x970.jpg)
 
 <div class="title"         > Algebraic Structures Applied to Quantum Fields Representation </div>
 <div class="subtitle"      > Using Haskell to Reason and   Verify Models      </div>
@@ -85,7 +84,7 @@ theme       : husserl
 ---        
      
 # Is Algebraic Graph Knowledge **Possible**?
- 
+
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
 - Model Cheking and theorem prooving are viable paths. 
@@ -242,13 +241,12 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <b>Figure</b>: Oxford edition (1979).
 </figcaption>
 
-
 </center>
 
 </div>
 <div>
 
-## Hegel's Phenomenology  
+## Phenomenology
  
 The book was originally entitled "Phänomenologie des Geistes" by its author, G.W.F. Hegel.
 

@@ -34,6 +34,9 @@ Last update: 05.jun.2022
 - ### THEME FREUD in honor of Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
+- ### THEME HUSSERL in honor of Edmund Husserl (1859–1938) 
+  [![Style: Freud](img/husserl.png)](examples/example-husserl.pdf)
+
 - ### THEME HEIDEGGER in honor of Martin Heidegger (1889–1976) 
   [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
 
@@ -86,17 +89,18 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"https://cunhapaulo.github.io/style/descartes.css"
-			"https://cunhapaulo.github.io/style/freud.css"
-			"https://cunhapaulo.github.io/style/hegel.css"
-			"https://cunhapaulo.github.io/style/heidegger.css"
-			"https://cunhapaulo.github.io/style/kant.css"
-			"https://cunhapaulo.github.io/style/leibniz.css"
-			"https://cunhapaulo.github.io/style/plato.css"
-			"https://cunhapaulo.github.io/style/schema.css"
-			"https://cunhapaulo.github.io/style/simple.css"
-			"https://cunhapaulo.github.io/style/socrates.css"
-			"https://cunhapaulo.github.io/style/structure.css"
+			"./style/socrates.css"
+			"./style/plato.css"
+			"./style/descartes.css"
+			"./style/leibniz.css"
+			"./style/kant.css"
+			"./style/hegel.css"
+			"./style/freud.css"
+			"./style/husserl.css"
+			"./style/heidegger.css"
+			"./style/jobs.css"
+			"./style/schema.css"
+			"./style/structure.css"
 		]
 	}
 }
@@ -110,20 +114,27 @@ Some of the fonts necessary to the available styles are listed below with its re
 
 - ## Socrates Theme:
   
-  - Noto Sans (Google Fonts): https://fonts.google.com/noto/specimen/Noto+Sans
+  - Noto Sans: https://fonts.google.com/noto/specimen/Noto+Sans
 
 - ## Plato Theme:
   
-  - Fira Sans Light (Google Fonts): https://fonts.google.com/specimen/Fira+Sans?query=fira
+  - Fira Sans Light: https://fonts.google.com/specimen/Fira+Sans?query=fira
   - Fira Sans Light: https://github.com/bBoxType/FiraSans
 
 - ## Leibniz Theme:
   
   - Georgia or Serif: 
 
+- ## Husserl Theme:
+
+  <!-- - Montserrat: https://fonts.google.com/specimen/Montserrat?query=Mont -->
+  - Lora: https://fonts.google.com/specimen/Lora?query=Lora
+  - Fira Sans Light: https://fonts.google.com/specimen/Fira+Sans?query=fira
+
 - ## General
   
   - Metropolis: https://github.com/njugunagathere/Metropolis
+
 
 # Credits
 

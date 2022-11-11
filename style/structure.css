@@ -443,9 +443,10 @@ section.cite:after {
 section.biblio {
   background-color: var(--background-color);
 }
+
 section.biblio p {
   color: var(--text-color);
-  font-size: 90%;
+  font-size: 80%;
   font-weight: 300;
   padding-left: 5px;
 }
