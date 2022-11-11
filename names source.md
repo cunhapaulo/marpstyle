@@ -4,6 +4,7 @@
 1. Freud, Sigmund
 1. Hegel, Georg Wilhelm Friedrich
 1. Heidegger, Martin
+1. Husserl, Edmund
 1. Jobs, Steve
 1. Kant, Immanuel
 1. Leibniz, Gottfried Wilhelm
@@ -14,7 +15,6 @@
 
 # Prospective Names
 
-1. Husserl, Edmund
 1. Gödel, Kurt
 1. Newton, Isaac
 1. Cantor, Georg
