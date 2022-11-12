@@ -175,7 +175,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 
 ---
 
-# LaTeX and Maxwell Equations
+#  Maxwell Equations in LaTeX
 
 $${\displaystyle -\nabla ^{2}\varphi -{\frac {\partial }{\partial t}}\left(\mathbf {\nabla } \cdot \mathbf {A} \right)={\frac {\rho }{\varepsilon _{0}}}}$$
 $${\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\mathbf {A} +\mathbf {\nabla } \left(\mathbf {\nabla } \cdot \mathbf {A} +{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}\right)=\mu _{0}\mathbf {J} }$$
