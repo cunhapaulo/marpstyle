@@ -175,12 +175,14 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 
 ---
 
-# LaTeX Equations
+# LaTeX and Maxwell Equations
 
-$$\frac{1}{c^2}\frac{\partial^2\mathbf{\psi}}{\partial t^2} = \nabla^2 \circ\mathbf{\psi} $$
-$$\nabla \times \textbf{E}=- \frac{\partial \textbf{B}}{\partial t}$$
-$$\nabla^2 \textbf{E} = \mu \epsilon \frac{\partial^2 \textbf{E}}{\partial t^2}$$
-$$c=\sqrt{\frac{1}{\mu \epsilon}}$$
+$${\displaystyle -\nabla ^{2}\varphi -{\frac {\partial }{\partial t}}\left(\mathbf {\nabla } \cdot \mathbf {A} \right)={\frac {\rho }{\varepsilon _{0}}}}$$
+$${\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\mathbf {A} +\mathbf {\nabla } \left(\mathbf {\nabla } \cdot \mathbf {A} +{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}\right)=\mu _{0}\mathbf {J} }$$
+
+
+$${\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\varphi ={\frac {\rho }{\varepsilon _{0}}}}$$
+$${\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\mathbf {A} =\mu _{0}\mathbf {J} }$$
 
 <figcaption align="center">
 <b>Formulae</b>: Exemples of use of LaTeX formulas.
