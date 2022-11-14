@@ -10,13 +10,13 @@ Last update: 14.nov.2022
 
 # What is Marp?
 
-As you will find better explained in [Marp´s site at Github](https://github.com/marp-team/marp), Marpit /mɑːrpɪt/ is the skinny framework for creating slide deck from Markdown,  created by [Yuki Hattori](https://github.com/yhatt), to whom I am very thankful.
+- As you will find better explained in [Marp´s site at Github](https://github.com/marp-team/marp), Marpit /mɑːrpɪt/ is the skinny framework for creating slide deck from Markdown,  created by [Yuki Hattori](https://github.com/yhatt), to whom I am very thankful.
 
-All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). Take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
+- All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
 
 # Available Themes
 
-### Here you´ll find examples of the available themes. <br> Click on the picture to open a corresponding PDF example.
+ Here you´ll find examples of the available themes. Click on the picture to open a corresponding PDF example.
 
 - ### SOCRATES theme in honor of Σωκράτης (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
