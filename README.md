@@ -10,7 +10,7 @@ Last update: 14.nov.2022
 
 # Available Themes
 
-### Below are some examples of available themes. <br> Click on the picture to open a corresponding PDF example.
+### Here you´ll find examples of the available themes. <br> Click on the picture to open a corresponding PDF example.
 
 - ### SOCRATES theme in honor of Σωκράτης (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
