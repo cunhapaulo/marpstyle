@@ -12,35 +12,35 @@ Last update: 05.jun.2022
 
 ### Below are some examples of available themes. <br> Click on the picture to open a PFD example.
 
-- ### Theme SOCRATES in honor of Σωκράτης (469–399 B.C.E.)
+- ### SOCRATES theme in honor of Σωκράτης (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
 
 
-- ### Theme PLATO in honor of Πλάτων (429?–347 B.C.E.)
+- ### PLATO theme in honor of Πλάτων (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-- ### Theme DESCARTES in honor of René Descartes (1596–1650) 
+- ### DESCARTES theme in honor of René Descartes (1596–1650) 
   [![Style: Leibniz](img/descartes.png)](examples/example-descartes.pdf)
 
-- ### Theme LEIBNIZ in honor of Gottfried Wilhelm Leibniz (1646–1716) 
+- ### LEIBNIZ theme in honor of Gottfried Wilhelm Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-- ### Theme KANT in honor of Immanuel Kant (1724–1804)
+- ### KANT theme in honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-- ### Theme HEGEL in honor of Georg Wilhelm Friedrich Hegel (1770–1831)
+- ### HEGEL theme in honor of Georg Wilhelm Friedrich Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-- ### Theme FREUD in honor of Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
+- ### FREUD theme in honor of Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-- ### Theme HUSSERL in honor of Edmund Husserl (1859–1938) 
+- ### HUSSERL theme in honor of Edmund Husserl (1859–1938) 
   [![Style: Freud](img/husserl.png)](examples/example-husserl.pdf)
 
-- ### Theme HEIDEGGER in honor of Martin Heidegger (1889–1976) 
+- ### HEIDEGGER theme in honor of Martin Heidegger (1889–1976) 
   [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
 
-- ### Theme JOBS in honor of Steven Paul Jobs (1955–2011) 
+- ### JOBS theme in honor of Steven Paul Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
