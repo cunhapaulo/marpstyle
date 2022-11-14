@@ -2,7 +2,6 @@
 
 1. Descartes, Rene
 1. Freud, Sigmund
-1. Gödel, Kurt
 1. Hegel, Georg Wilhelm Friedrich
 1. Heidegger, Martin
 1. Husserl, Edmund
@@ -15,7 +14,7 @@
 
 
 # Prospective Names
-
+1. Gödel, Kurt
 1. Adorno, Theodor
 1. Aquinas, Thomas
 1. Aristotle
