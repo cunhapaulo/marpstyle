@@ -2,6 +2,7 @@
 
 1. Descartes, Rene
 1. Freud, Sigmund
+1. Gödel, Kurt
 1. Hegel, Georg Wilhelm Friedrich
 1. Heidegger, Martin
 1. Husserl, Edmund
@@ -15,19 +16,18 @@
 
 # Prospective Names
 
-1. Gödel, Kurt
-1. Newton, Isaac
-1. Cantor, Georg
 1. Adorno, Theodor
 1. Aquinas, Thomas
 1. Aristotle
 1. Berkeley, George
+1. Cantor, Georg
 1. Copernico, Nicolau
+1. Espinosa, Baruch
 1. Frege, Gottlob
 1. Galileo Galilei
-1. Espinosa, Baruch
 1. Hume, David
 1. Locke, John
+1. Newton, Isaac
 1. Pascal, Blaise
 2. Cassirer, Ernst
 3. Kardec, Allan
