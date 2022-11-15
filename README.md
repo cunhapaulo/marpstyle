@@ -3,10 +3,6 @@
 Marp themes repository, created with beauty and simplicity as first concerns.
 Last update: 14.nov.2022
 
-<iframe allow="camera; microphone; fullscreen; display-capture; autoplay" src="https://meet.jit.si/GrupoEstudoDuvidasEspiritasNossoLar" style="height: 100%; width: 100%; border: 0px;"></iframe>
-
-- teste
-
 ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
 | ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class requirements. As the first theme (plato.css) got ready I decided to share. I hope sincerely you enjoy it and it comes to be useful to as many users as possible. More styles are due to come in a fashionable time. <br> <br> 🔥🎀 Stay tuned for more Marpstyle Themes! 🔥🎀 |
