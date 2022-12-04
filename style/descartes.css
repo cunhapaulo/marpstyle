@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 05.out.2022
+    last update: 04.dez.2022
   ============================================       
 */
 
@@ -65,6 +65,18 @@ section strong {
   padding-right: 1px;
   font-weight: 600;
 }
+
+section.transition em{
+  background-color: rgb(251, 255, 0) !important;
+}
+
+
+section.transition strong {
+  color: rgba(230, 250, 6, 0.905);
+  font-weight: 1000;
+  text-shadow: 2px 2px 10px rgb(101, 45, 3);
+}
+
 
 section.transition2 strong {
 
