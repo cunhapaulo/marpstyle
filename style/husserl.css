@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 08.nov.2022
+    last update: 27.dez.2022
   ============================================       
 */
 
@@ -17,7 +17,7 @@
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  font-family: 'Fira Sans Light';
+  font-family: 'Lora';
   font-weight: initial;
   --italic-background-color   : rgba(8, 206, 255, 0.3);
   --italic-background-color   : rgba(214, 25, 66, 0.144);
@@ -45,10 +45,10 @@ h1 {
 }
 
 h2 {
-  font-family: 'Lora';
-  font-family: 'Montserrat Alternates';
   font-family: 'Fira Sans Light';
+  font-family: 'Montserrat Alternates';
   font-family: 'Raleway';
+  font-family: 'Lora';
 
   font-weight: 700;
   letter-spacing: -1.25px;
@@ -67,7 +67,8 @@ p {
   font-weight: 600;
   color:rgba(78, 78, 80, 0.814);
   color:rgba(0, 0, 0, 0.814);
-  letter-spacing: -0.75px;
+  letter-spacing: -0.95px;
+  line-height: 37px; /* interline spacing */
 }
 
 section strong {
@@ -133,3 +134,4 @@ section.transition2 p {
 section.biblio {
   background-color: rgb(26, 75, 113);
 }
+
