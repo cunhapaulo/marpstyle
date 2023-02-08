@@ -77,7 +77,7 @@ theme       : jobs
 5. *Dresden*
 6. *München*
 7. *Köln* 
-8. *Köningsberg und Praga* 
+8. *Köningsberg und Prag* 
 
 </div> 
 </div>           

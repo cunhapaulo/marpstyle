@@ -35,7 +35,7 @@ theme       : husserl
 <!-- _class: titlepage -->
 <!-- ![bg left:33% h:113%](https://prabook.com/web/show-photo.jpg?id=2773656&cache=false) -->
 
-![bg left:33%](https://www.periodicodaily.com/wp-content/uploads/2020/04/Edmund-Husserl-696x970.jpg)
+![bg left:33%](../img/husserl.jpg)
 
 <div class="title"         > Algebraic Structures Applied to Quantum Fields Representation </div>
 <div class="subtitle"      > Using Haskell to Reason and   Verify Models      </div>

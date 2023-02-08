@@ -17,13 +17,14 @@
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  /* font-family: "Fira Sans Light"; */
   /* font-family: Cochin, Georgia; */
   /* font-family: 'Times New Roman', Times, serif; */
+  /* font-family: "Fira Sans Light"; */
   
   font-family: 'Tahoma'; 
   font-family: 'Open Sans';
   font-family: 'Segoe UI'; 
+
   font-weight: initial;
   
   /* -- Bodytext FONT color */
@@ -38,6 +39,7 @@
   --bold-color                : rgb(71, 107, 184);
 
   --italic-color              : rgb(96, 89, 89);
+
   --italic-background-color   : rgba(142, 145, 146, 0.172);
 
   /* --background-color          : #fdf6e3; */
@@ -47,7 +49,7 @@
 
   --table-font-color          : black;
 
-  --table-header-color        : rgb(0, 132, 255);
+  --table-header-color        : rgb(128, 137, 146);
 
   --border-color              : #014385;
 
@@ -61,7 +63,7 @@
 
   --letter-spacing            : 0.125px;
 
-  --cool-list-color           : rgb(255, 68, 0);
+  --cool-list-color           : rgb(135, 157, 179);
 
   --author-align              : right;
 }
@@ -92,12 +94,14 @@
 
 :root p {
   font-size: 34px;
+  font-family: 'Segoe UI'; 
   font-family: 'Open Sans';
   letter-spacing: -0.3px;
 }
 /* ------------------- TITLEPAGE -----------------------------*/
 
-/* Titlepage made with <titlepalge> */
+/* Titlepage made with <titlepage> */
+
 section.titlepage .title strong {
   color: rgb(255, 52, 52);
 }
@@ -151,9 +155,16 @@ section.transition {
 
   --transitionpage-color: rgb(23, 148, 197);
   --transitionpage-color: rgb(129, 127, 127);
+  --transitionpage-color: rgb(155, 153, 153);
   
 
   font-weight: bold;
+  font-family: serif, sans-serif, "Libre Baskerville", serif;
+  font-family: 'Open Sans';
+  font-family: 'Segoe UI';  
+
+
+
   /* font-size: 200%; */
   /* text-shadow: 4px 4px 0 rgb(77, 61, 61); */
 }
@@ -161,7 +172,9 @@ section.transition {
 /* ------------------- CITE -----------------------------*/
 
 section.cite p {
+  
   color: #fffbfe;
+
   font-size: 36px;
   font-family: "Libre Baskerville", serif; 
   font-style: italic;
@@ -172,7 +185,8 @@ section.cite p {
 section.cite {
   
   --background-color: rgb(92, 121, 163);
-  --strong-color:     #c4ee0b;
+  --background-color: rgb(116, 135, 161);
+  --strong-color:     #d3ff11;
 }
 
 section.cite strong{

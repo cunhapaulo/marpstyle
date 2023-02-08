@@ -16,10 +16,12 @@
         <!-- _class: biblio           -->
         <!-- _class: blockquote       -->
         <!-- _class: cite             -->
+
         <!-- _class: columns          -->
         <!-- _class: columns3         -->
         <!-- _class: columns-center   -->
         <!-- _class: columns3-center  -->
+        
         <!-- _class: cool-list        -->
         <!-- _class: cool-list2       -->
         <!-- _class: table            -->
@@ -105,10 +107,12 @@ section::after {
 section table {
   margin-right: auto;
   margin-left: auto;
-  margin-top: 20px;
+  margin-top: 40px;
   width: auto;
   border: 0;
+  font-size: 26px;
 }
+
 section table th {
   background-color: var(--table-header-color);
   color: white;
@@ -116,22 +120,26 @@ section table th {
   border-top: rgb(253, 74, 3) solid 2px;
   border-top: rgb(255, 0, 0) solid 2px;
 }
+
 section table td {
   border: 0;
 }
+
 section table tr:nth-child(2) {
   background-color: #dedede;
 }
+
 section table tr:last-child {
   border-bottom: rgb(253, 74, 3) solid 2px;
 }
 
 tr:nth-child(even) {
-  background-color: #e8edf1 !important;
+  background-color: #eef1f3 !important;
 }
+
 tr:hover {
   color: rgb(36, 34, 34);
-  background-color: rgb(255,204,0);
+  /* background-color: rgb(231, 244, 252); */
   font-weight: bold;
 }
 
@@ -328,7 +336,7 @@ section.titlepage:after {
 section.transition {
   background-color: var(--transitionpage-color);
   text-align: center !important;
-  font-weight: bold !important;
+  font-weight: bold;
   color: white;
   padding-top: auto;
   padding-buttom: auto;
@@ -348,9 +356,9 @@ section.transition:after {
   display: none;
 }
 
-/************************* transition *****************************/
+/************************* transition2 *****************************/
 /* 
-    transition class: first slide in a section. Use h1 as header.
+    transition2 class: first slide in a section. Use h1 as header.
     Use: 
     
     <!-- _class: transition --> 
