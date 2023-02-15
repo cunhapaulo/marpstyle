@@ -1,20 +1,22 @@
 # Already Used Names
 
-1. Descartes, Rene
-1. Freud, Sigmund
-1. Hegel, Georg Wilhelm Friedrich
-1. Heidegger, Martin
-1. Husserl, Edmund
-1. Jobs, Steve
-1. Kant, Immanuel
-1. Leibniz, Gottfried Wilhelm
-1. Orwell, George
-1. Plato
-1. Socrates
+1. Socrates (470 a.C. - 399 a.C.)
+1. Plato (429 a. C. - 437 a.C.)
+1. Descartes, Rene (1596 - 1650)
+1. Pascal, Blaise (1623 - 1662)
+1. Leibniz, Gottfried Wilhelm (1646 - 1716)
+1. Kant, Immanuel (1724 - 1804)
+1. Hegel, Georg Wilhelm Friedrich (1770 -1831)
+1. Freud, Sigmund (1856 - 1939)
+1. Husserl, Edmund (1859 - 1938)
+1. Heidegger, Martin (1889 - 1976)
+1. Orwell, George (1903 - 1950)
+1. Jobs, Steve (1955 - 2011)
 
 
 # Prospective Names
-1. Gödel, Kurt
+1. Gödel, Kurt (1906 - 1978)
+1. Turing, Alan (1912 - 1954)
 1. Adorno, Theodor
 1. Aquinas, Thomas
 1. Aristotle
@@ -27,10 +29,9 @@
 1. Hume, David
 1. Locke, John
 1. Newton, Isaac
-1. Pascal, Blaise
-2. Cassirer, Ernst
-3. Kardec, Allan
-4. Gropius, Walter
+1. Cassirer, Ernst
+1. Kardec, Allan
+1. Gropius, Walter
 
 # Names on hold
 
@@ -79,7 +80,6 @@
 44. Scotus, Duns
 45. Searle
 46. Smith, Adam
-47. Turing, Alan
 48. Voltaire
 49. Weber, Max
 50. Wittgenstein, Ludwig
