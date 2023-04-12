@@ -57,17 +57,19 @@ section.titlepage .organization {
 
 section strong {
   color:rgb(141, 169, 196) ;
-  color:rgba(23, 86, 118) ;
   color:rgb(181, 101, 118) ;
-  color:rgb(186, 50, 79) ;
   color:rgb(229, 107, 111) ;
+  color:rgba(23, 86, 118) ;
+  color:rgb(0, 53, 199) ;
+  color:rgb(186, 50, 79) ;
+  color:rgb(179, 31, 63) ;
   padding-left: 1px;
   padding-right: 1px;
   font-weight: 600;
 }
 
 section.transition em{
-  background-color: rgb(251, 255, 0) !important;
+  background-color: rgb(255, 166, 0) !important;
 }
 
 

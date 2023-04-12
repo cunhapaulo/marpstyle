@@ -24,8 +24,10 @@ color: #11a9ed
 -->
 
 ![bg left:85%](https://www.pelikan.com/images/pelikan/company/brand/Carrusel_posters/TheBrand_carrusel_posters_12.jpg)
-![bg w:70%](https://www.pelikan.com/images/logos/Group%20800.png)
 
+
+
+![bg w:70%](https://www.pelikan.com/images/logos/Group%20800.png)
 
 
 ---
@@ -78,11 +80,27 @@ color: #ffffff
 - <div color: #4562d8>Highlight</divn>: #ffcf1f
 
 --- 
+<!-- 
+backgroundColor: #064696
+color: #c6e8fc
+-->
+
+# Pelikan 5.
+
+- URL: [https://www.pelikan.com/int/company/pelikan-tintenturm.html](https://www.pelikan.com/int/company/pelikan-tintenturm.html)
+- Backgroun: #4562d8
+- Foregroung: #ffffff
+- <div color: #4562d8>Highlight</divn>: #ffcf1f
+
+--- 
 
 <!-- 
 backgroundColor: #b30839 
-color: #11a9ed
+color: #ffffff
+
 -->
+
+# Pelikan 6.
 
 ---
 
@@ -90,6 +108,7 @@ color: #11a9ed
 ![](rgb(255,255,255))
 
 <div align="center">
+
 
 Teste 
 
