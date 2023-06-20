@@ -41,10 +41,13 @@ Last update: 14.nov.2022
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
 - ### HUSSERL theme in honor of Edmund Husserl (1859–1938) 
-  [![Style: Freud](img/husserl.png)](examples/example-husserl.pdf)
+  [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
+
+- ### GÖDEL theme in honor of Kurt Gödel (1859–1938) 
+  [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
 - ### HEIDEGGER theme in honor of Martin Heidegger (1889–1976) 
-  [![Style: Freud](img/heidegger.png)](examples/example-heidegger.pdf)
+  [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
 - ### JOBS theme in honor of Steven Paul Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
