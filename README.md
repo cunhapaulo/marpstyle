@@ -47,11 +47,11 @@ Last update: 20.jun.2023
 - ### HUSSERL theme in honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
-- ### ![](img/marpstyle-brand-new.svg) GÖDEL theme in honor of Kurt Gödel (1859–1938) 
-  [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
-
 - ### HEIDEGGER theme in honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
+
+- ### ![](img/marpstyle-brand-new.svg) GÖDEL theme in honor of Kurt Gödel (1906-1978) 
+  [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
 - ### JOBS theme in honor of Steven Paul Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
