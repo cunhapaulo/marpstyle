@@ -12,26 +12,26 @@
 1. Heidegger, Martin (1889 - 1976)
 1. Orwell, George (1903 - 1950)
 1. Jobs, Steve (1955 - 2011)
+1. Gödel, Kurt (1906 - 1978)
 
 
 # Prospective Names
-1. Gödel, Kurt (1906 - 1978)
 1. Turing, Alan (1912 - 1954)
-1. Adorno, Theodor
-1. Aquinas, Thomas
-1. Aristotle
-1. Berkeley, George
-1. Cantor, Georg
-1. Copernico, Nicolau
-1. Espinosa, Baruch
-1. Frege, Gottlob
-1. Galileo Galilei
-1. Hume, David
-1. Locke, John
-1. Newton, Isaac
-1. Cassirer, Ernst
-1. Kardec, Allan
-1. Gropius, Walter
+2. Adorno, Theodor
+3. Aquinas, Thomas
+4. Aristotle
+5. Berkeley, George
+6. Cantor, Georg
+7. Copernico, Nicolau
+8. Espinosa, Baruch
+9. Frege, Gottlob
+10. Galileo Galilei
+11. Hume, David
+12. Locke, John
+13. Newton, Isaac
+14. Cassirer, Ernst
+15. Kardec, Allan
+16. Gropius, Walter
 
 # Names on hold
 
