@@ -83,6 +83,7 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 			"./style/hegel.css"
 			"./style/freud.css"
 			"./style/husserl.css"
+			"./style/godel.css"
 			"./style/heidegger.css"
 			"./style/jobs.css"
 			"./style/schema.css"
@@ -105,6 +106,7 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 		"markdown.marp.themes": [
 			"https://cunhapaulo.github.io/style/descartes.css"
 			"https://cunhapaulo.github.io/style/freud.css"
+			"https://cunhapaulo.github.io/style/godel.css"
 			"https://cunhapaulo.github.io/style/hegel.css"
 			"https://cunhapaulo.github.io/style/heidegger.css"
 			"https://cunhapaulo.github.io/style/husserl.css"
