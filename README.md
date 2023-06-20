@@ -1,16 +1,16 @@
 # MARP Themes - `marpstyle`
 
+
+| ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class requirements. As the first theme (plato.css) got ready I decided to share. I hope sincerely you enjoy it and it comes to be useful to as many users as possible. More styles are due to come in a fashionable time. <br> <br> Stay tuned for more Marpstyle Themes! |
+| --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
 Marp themes repository, created with beauty and simplicity as first concerns.<br>
 Last update: 20.jun.2023
 ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
-# Whas new?
+# What´s new? :fire:
 
-Just arrived! The Kurt Gödel theme! Still under final ajustments but already functional. Enjoy!
-
-
-| ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class requirements. As the first theme (plato.css) got ready I decided to share. I hope sincerely you enjoy it and it comes to be useful to as many users as possible. More styles are due to come in a fashionable time. <br> <br> 🔥🎀 Stay tuned for more Marpstyle Themes! 🔥🎀 |
-| --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+![](img/marpstyle-brand-new.svg) Just arrived! The Kurt Gödel theme! Still under final ajustments but already functional. Enjoy!
 
 ## What is Marp?
 
@@ -47,7 +47,7 @@ Just arrived! The Kurt Gödel theme! Still under final ajustments but already fu
 - ### HUSSERL theme in honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
-- ### GÖDEL theme in honor of Kurt Gödel (1859–1938) 
+- ### ![](img/marpstyle-brand-new.svg) GÖDEL theme in honor of Kurt Gödel (1859–1938) 
   [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
 - ### HEIDEGGER theme in honor of Martin Heidegger (1889–1976) 
