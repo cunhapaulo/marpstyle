@@ -35,24 +35,26 @@ theme       : kant
 
 
 <!-- _class: titlepage -->
-![bg left:33%](https://cdn.dribbble.com/users/252325/screenshots/3573162/attachments/796931/i-kant.png)
+<!-- ![bg left:33% h:100%](https://cdn.dribbble.com/users/252325/screenshots/3573162/attachments/796931/i-kant.png) -->
+<!-- ![bg left:33% h:100%](https://socientifica.com.br/wp-content/uploads/2018/01/maxresdefault.jpg) -->
+![bg left:33% h:100%](https://filosofiamaterialesyrecursos.es/Imagenes/Historia_de_la_filosofia/Kant.jpg)
 
-<div class="title">Graph Algebra and Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
-<div class="author">Leonard Kleinrock</div>
-<div class="date">01.jan.2022</div>
-<div class="organization">Formal Methods International Congress</div>
+<div class="title">Kritik der reinen Vernunft</div>
+<div class="subtitle">Einen Wendepunkt und den Beginn der modernen Philosophie</div>
+<div class="author">Immanuel Kant</div>
+<div class="date">Köningsberg - Preußischen Königreich, 1781</div>
+<div class="organization">	Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
-#### 01.jan.2022
-##### Formal Methods International Congress
+# Kritik der reinen Vernunft
+## Einen Wendepunkt und den Beginn der modernen Philosophie
+### Immanuel Kant
+#### Köningsberg - Preußischen  Königreich, 1781
+##### 	Staatsbibliothek zu Berlin – Preußischer Kulturbesitz
 
 ---
   
