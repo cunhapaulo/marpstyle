@@ -38,22 +38,22 @@ theme       : heidegger
 ![bg left:33% h:113%](https://anglican.ink/wp-content/uploads/2015/03/field_image_Martin-Heidegger-696x829.jpg)
 
 
-<div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
-<div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
-<div class="author"        > Leonard Kleinrock                                </div>
-<div class="date"          > 01.jan.2022                                      </div>
-<div class="organization"  > Formal Methods International Congress            </div>
+<div class="title"         > Sein und Zeit </div>
+<div class="subtitle"      > Grundlegend für ein Verständnis der Hauptwerke von Philosophe </div>
+<div class="author"        > Martin Heidegger                                </div>
+<div class="date"          > Freiburg im Breisgau, 1927                                      </div>
+<div class="organization"  > Albert-Ludwigs Universität, Freiburg.            </div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
-#### 01.jan.2022
-##### Formal Methods International Congress
+# Sein und Zeit
+## Grundlegend für ein Verständnis der Hauptwerke von Philosophe
+### Martin Heidegger
+#### Freiburg im Breisgau, 1927
+##### Albert-Ludwigs Universität, Freiburg.
 
 ---
              
