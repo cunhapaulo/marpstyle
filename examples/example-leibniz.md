@@ -32,21 +32,21 @@ math        : katex
 ![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/800px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg)
 <!-- _class: titlepage -->
 
-<div class="title">Graph Algebra Representation of Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and Verify Programs</div>
-<div class="author">Leonard Kleinrock</div>
-<div class="date">01.jan.2022</div>
-<div class="organization">Formal Methods International Congress</div>
+<div class="title">De primae philosophiae Emendatione, et de Notione Substantiae</div>
+<div class="subtitle"> On the Correction of First Philosophy and the Notion of Substance </div>
+<div class="author">Gottfried Wilhelm Leibniz</div>
+<div class="date">Hannover, 1694</div>
+<div class="organization">Lausannae et Genevae</div>
 
 ---
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
-#### 01.jan.2022
-##### Formal Methods International Congress
+# De primae philosophiae Emendatione, et de Notione Substantiae
+## On the Correction of First Philosophy and the Notion of Substance
+### Gottfried Wilhelm Leibniz
+#### Hannover, 1694
+##### Lausannae et Genevae
 
 ---
   
