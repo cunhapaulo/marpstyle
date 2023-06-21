@@ -35,7 +35,7 @@ theme       : socrates
 <div class="title">Western Philosophy</div>
 <div class="subtitle">From the nature to the problems of humans</div>
 <div class="author">Socrates (Σωκράτης) </div>
-<div class="date">Athens, 390 b.C.</div>
+<div class="date">Athenas, 390 b.C.</div>
 <div class="organization">Ágora International Assembly</div>
 
 ---
@@ -45,7 +45,7 @@ theme       : socrates
 # Western Philosophy
 ## From the nature to the problems of humans
 ### Socrates (Σωκράτης)
-#### Athens, 390 b.C.
+#### Athenas, 390 b.C.
 ##### Ágora International Assembly
 
 ---
