@@ -37,22 +37,22 @@ theme       : husserl
 
 ![bg left:33%](../img/husserl.jpg)
 
-<div class="title"         > Algebraic Structures Applied to Quantum Fields Representation </div>
-<div class="subtitle"      > Using Haskell to Reason and   Verify Models      </div>
-<div class="author"        > Werner Heisemberg                                </div>
-<div class="date"          > 01.jan.2022                                      </div>
-<div class="organization"  > Theoretical Physics Modelling Congress    </div>
+<div class="title"         > Phänomenologie und phänomenologischen Philosophie </div>
+<div class="subtitle"      > Allgemeine Einführung in die reine Phänomenologie.</div>
+<div class="author"        > Edmund Gustav Albrecht Husserl                    </div>
+<div class="date"          > Freiburg im Breisgau, 1912                        </div>
+<div class="organization"  > Jahrbuch für Philosophie und Phänomenologische Forschung   </div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Algebraic Structures Applied to Quantum Fields Representation
-## Using Haskell to Reason and  Verify Models
-### Werner Heisemberg
-#### 01.jan.2022
-##### Theoretical Physics Modelling Congress 
+# Phänomenologie und phänomenologischen Philosophie
+## Allgemeine Einführung in die reine Phänomenologie.
+### Edmund Gustav Albrecht Husserl
+#### Freiburg im Breisgau, 1912
+##### Jahrbuch für Philosophie und Phänomenologische Forschung
 
 ---
              
