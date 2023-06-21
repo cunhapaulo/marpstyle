@@ -2,20 +2,21 @@
 
 1. Socrates (470 a.C. - 399 a.C.)
 1. Plato (429 a. C. - 437 a.C.)
-1. Descartes, Rene (1596 - 1650)
-1. Pascal, Blaise (1623 - 1662)
-1. Leibniz, Gottfried Wilhelm (1646 - 1716)
-1. Kant, Immanuel (1724 - 1804)
-1. Hegel, Georg Wilhelm Friedrich (1770 -1831)
-1. Freud, Sigmund (1856 - 1939)
-1. Husserl, Edmund (1859 - 1938)
-1. Heidegger, Martin (1889 - 1976)
-1. Orwell, George (1903 - 1950)
-1. Jobs, Steve (1955 - 2011)
-1. Gödel, Kurt (1906 - 1978)
+2. Pascal, Blaise (1623 - 1662)
+3. Leibniz, Gottfried Wilhelm (1646 - 1716)
+4. Kant, Immanuel (1724 - 1804)
+6. Hegel, Georg Wilhelm Friedrich (1770 -1831)
+7. Freud, Sigmund (1856 - 1939)
+8. Husserl, Edmund (1859 - 1938)
+9.  Heidegger, Martin (1889 - 1976)
+10. Orwell, George (1903 - 1950)
+11. Jobs, Steve (1955 - 2011)
+12. Descartes, Rene (1596 - 1650)
+13. Gödel, Kurt (1906 - 1978)
 
 
 # Prospective Names
+1. Einstein, Albert 
 1. Turing, Alan (1912 - 1954)
 2. Adorno, Theodor
 3. Aquinas, Thomas
@@ -35,14 +36,13 @@
 
 # Names on hold
 
-2. Arendt, Hannah
+1. Arendt, Hannah
 3. Bacon
 4. Berlin, Isaiah
 5. Boole, C
 6. Bretano, Franz
 7. Carnap
 8. Church, Alonzo
-9. Einstein, Albert
 10. Epicuro
 11. Fichte, Johan Gottlib
 12. Gandhi, Mahatma  

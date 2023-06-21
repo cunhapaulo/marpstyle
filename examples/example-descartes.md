@@ -1,5 +1,5 @@
 ---
-title       : Example Slides for Themes Heidegger
+title       : Example Slides for Themes Descartes
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
@@ -38,22 +38,22 @@ theme       : descartes
 ![bg left:33%](https://recreio.uol.com.br/media/_versions/legacy/2020/04/06/pensadores-antigos-7-rene-descartes-1221481_widexl.png)
 <!-- ![bg left:33% h:100%](https://www.macworld.com/wp-content/uploads/2021/10/steve-jobs-2-1.jpg?quality=50&strip=all) -->
 
-<div class="title"         > Algebraic Structures Applied to Quantum Fields Representation </div>
-<div class="subtitle"      > Using Haskell to Reason and   Verify Models      </div>
-<div class="author"        > Werner Heisemberg                                </div>
-<div class="date"          > 01.jan.2022                                      </div>
-<div class="organization"  > Theoretical Physics Modelling Congress    </div>
+<div class="title"         > Meditationes de Prima Philosophia </div>
+<div class="subtitle"      > In qua Dei existentia et animæ immortalitas demonstratur  </div>
+<div class="author"        > René Descartes                                </div>
+<div class="date"          > Paris, 1641                                      </div>
+<div class="organization"  > Sacred Faculty of Theology in Paris    </div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Algebraic Structures Applied to Quantum Fields Representation
-## Using Haskell to Reason and  Verify Models
-### Werner Heisemberg
-#### 01.jan.2022
-##### Theoretical Physics Modelling Congress 
+# Meditationes de Prima Philosophia 
+## In qua Dei existentia et animæ immortalitas demonstratur
+### René Descartes
+#### Paris, 1641
+##### Sacred Faculty of Theology in Paris 
 
 ---
              

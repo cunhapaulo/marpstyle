@@ -14,10 +14,14 @@
 @import "schema";
 @import "structure";
 
+/* Importing Font */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+@import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119');
+
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  font-family: "Fira Sans Light";
+  font-family: 'Fira Sans', sans-serif;
   font-weight: initial;
   
   color: #6c6c6c; 
