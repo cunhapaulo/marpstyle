@@ -32,19 +32,19 @@ theme       : socrates
 ![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/450px-Socrates_Louvre.jpg)
 <!-- _class: titlepage -->
 
-<div class="title">Graph Algebra <br> Representation of Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and Verify Programs</div>
+<div class="title">Western Philosophy</div>
+<div class="subtitle">From the nature to the problems of humans</div>
 <div class="author">Socrates (Σωκράτης) </div>
-<div class="date">01.jan.2022</div>
+<div class="date">Athens, </div>
 <div class="organization">Formal Methods International Congress</div>
 
 ---
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
+# Western Philosophy
+## From the nature to the problems of humans
+### Socrates (Σωκράτης)
 #### 01.jan.2022
 ##### Formal Methods International Congress
 
