@@ -35,8 +35,8 @@ theme       : socrates
 <div class="title">Western Philosophy</div>
 <div class="subtitle">From the nature to the problems of humans</div>
 <div class="author">Socrates (Σωκράτης) </div>
-<div class="date">Athens, </div>
-<div class="organization">Formal Methods International Congress</div>
+<div class="date">Athens, 390 b.C.</div>
+<div class="organization">Ágora International Assembly</div>
 
 ---
 
@@ -45,8 +45,8 @@ theme       : socrates
 # Western Philosophy
 ## From the nature to the problems of humans
 ### Socrates (Σωκράτης)
-#### 01.jan.2022
-##### Formal Methods International Congress
+#### Athens, 390 b.C.
+##### Ágora International Assembly
 
 ---
    
