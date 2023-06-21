@@ -38,22 +38,22 @@ theme       : jobs
 ![bg left:33%](https://momentoseconomicos.files.wordpress.com/2011/10/t_hero.png)
 <!-- ![bg left:33% h:100%](https://www.macworld.com/wp-content/uploads/2021/10/steve-jobs-2-1.jpg?quality=50&strip=all) -->
 
-<div class="title"         > Algebraic Structures Applied to Quantum Fields Representation </div>
-<div class="subtitle"      > Using Haskell to Reason and   Verify Models      </div>
-<div class="author"        > Werner Heisemberg                                </div>
-<div class="date"          > 01.jan.2022                                      </div>
-<div class="organization"  > Theoretical Physics Modelling Congress    </div>
+<div class="title"         > An Operating System for the NeXT Computer     </div>
+<div class="subtitle"      > A graphical computer operating system proposal  </div>
+<div class="author"        > Steve Paul Jobs                               </div>
+<div class="date"          > Redwood City, CA, 1988                                     </div>
+<div class="organization"  > NeXT Computers Technical Journal    </div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Algebraic Structures Applied to Quantum Fields Representation
-## Using Haskell to Reason and  Verify Models
-### Werner Heisemberg
-#### 01.jan.2022
-##### Theoretical Physics Modelling Congress 
+# An Operating System for the NeXT Computer
+## A graphical computer operating system proposal 
+### Steve Paul Jobs
+#### Redwood City, CA, 1988
+##### NeXT Computers Technical Journal 
 
 ---
              
