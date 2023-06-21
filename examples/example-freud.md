@@ -36,22 +36,22 @@ theme       : freud
 <!-- ![bg left:33% h:113%](https://i.pinimg.com/564x/c2/a8/eb/c2a8eb798b03b53b1a33cb76e6399720.jpg) -->
 ![bg left:33% h:113%](https://s2.glbimg.com/DHcE40A_BJheQXOKvBspMA7YGM4=/e.glbimg.com/og/ed/f/original/2017/02/16/sigmund_freud_-_wikimedia_commons.jpg)
 
-<div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
-<div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
-<div class="author"        > Leonard Kleinrock                                </div>
-<div class="date"          > 01.jan.2022                                      </div>
-<div class="organization"  > Formal Methods International Congress            </div>
+<div class="title"         > Schriften über Träume und Traumdeutungen      </div>
+<div class="subtitle"      > Die Via regia zur Kenntnis des Unbewußten im Seelenleben   </div>
+<div class="author"        > Sigismund Schlomo Freud                       </div>
+<div class="date"          > Wien, 1899                                    </div>
+<div class="organization"  > Deuticke Verlag                               </div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
-#### 01.jan.2022
-##### Formal Methods International Congress
+# Schriften über Träume und Traumdeutungen 
+## Die Via regia zur Kenntnis des Unbewußten im Seelenleben
+### Sigismund Schlomo Freud
+#### Wien, 1899
+##### Deuticke Verlag
 
 ---
              
