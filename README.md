@@ -11,7 +11,7 @@ Marp themes repository, created with beauty and simplicity as first concerns.<br
 # One Example of Marp slide creation with style!
 This slide deck was created to be used in a presentarion about Artifical INeligênce. It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
-[![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/main.png)
+[![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
 [Link for the presentation](https://cunhapaulo.github.io/ai/)
 
 
