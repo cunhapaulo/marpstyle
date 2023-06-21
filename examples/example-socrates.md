@@ -28,12 +28,13 @@ theme       : socrates
    } 
 </style>    
  
-![bg left:33%](https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/440px-Socrate_du_Louvre.jpg)
+<!-- ![bg left:33%](https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/440px-Socrate_du_Louvre.jpg) -->
+![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/450px-Socrates_Louvre.jpg)
 <!-- _class: titlepage -->
 
 <div class="title">Graph Algebra <br> Representation of Formally Defined Programs in Z</div>
 <div class="subtitle">Using Haskell to Reason and Verify Programs</div>
-<div class="author">Leonard Kleinrock</div>
+<div class="author">Socrates (Σωκράτης) </div>
 <div class="date">01.jan.2022</div>
 <div class="organization">Formal Methods International Congress</div>
 

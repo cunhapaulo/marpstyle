@@ -35,24 +35,25 @@ theme       : plato
 
 
 <!-- _class: titlepage -->
-![bg left:35%](https://ensinoteoriadoconhecimento.files.wordpress.com/2018/04/plato_pio-clemetino_inv305.jpg?w=900&h=1366)
+<!-- ![bg left:35%](https://ensinoteoriadoconhecimento.files.wordpress.com/2018/04/plato_pio-clemetino_inv305.jpg?w=900&h=1366) -->
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
 
-<div class="title"         > Graph Algebra and Formally Defined Programs in Z </div>
-<div class="subtitle"      > Using Haskell to Reason and   Verify Programs    </div>
-<div class="author"        > Leonard Kleinrock                                </div>
-<div class="date"          > 01.jan.2022                                      </div>
-<div class="organization"  > Formal Methods International Congress            </div>
+<div class="title"         > Politeia (Πολιτεία)                              </div>
+<div class="subtitle"      > A dialog concerning the meaning of justice        </div>
+<div class="author"        > Plato (Πλάτων)                                   </div>
+<div class="date"          > Athenas, 375 b.C.                                </div>
+<div class="organization"  > Middle Period of Plato's corpus                  </div>
 
 
 ---
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
-#### 01.jan.2022
-##### Formal Methods International Congress
+# Politeia (Πολιτεία)
+## A dialog concerning the meaning of justice
+### Plato (Πλάτων)
+#### Athenas, 375 b.C.
+##### Middle Period of Plato's corpus
 
 ---
   
