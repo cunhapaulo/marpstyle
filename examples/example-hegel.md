@@ -38,11 +38,11 @@ theme       : hegel
 ![bg left:33% hue-rotate:355deg](https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_portrait_by_Schlesinger_1831.jpg)
 
 
-<div class="title">Graph Algebra and Formally Defined Programs in Z</div>
-<div class="subtitle">Using Haskell to Reason and   Verify Programs</div>
-<div class="author">Leonard Kleinrock</div>
-<div class="date">01.jan.2022</div>
-<div class="organization">Formal Methods International Congress</div>
+<div class="title">Phänomenologie des Geistes</div>
+<div class="subtitle">Wissenschaft von der Erfahrung des Bewusstseins</div>
+<div class="author">Georg Wilhelm Friedrich Hegel</div>
+<div class="date">Bamberg und Würzburg, 1807</div>
+<div class="organization">Akademie Verlag</div>
 
 
 
@@ -50,11 +50,11 @@ theme       : hegel
 
 <!-- _class: titlepage -->
 
-# Graph Algebra Representation of Formally Defined Programs in Z
-## Using Haskell to Reason and  Verify Programs
-### Leonard Kleinrock
-#### 01.jan.2022
-##### Formal Methods International Congress
+# Phänomenologie des Geistes
+## Wissenschaft von der Erfahrung des Bewusstseins
+### Georg Wilhelm Friedrich Hegel
+#### Bamberg und Würzburg, 1807
+##### Akademie Verlag
 
 ---
   
