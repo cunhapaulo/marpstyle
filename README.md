@@ -5,7 +5,7 @@ Marp themes repository, created with beauty and simplicity as first concerns.<br
 
 ## Last update: 23.jun.2023
  
-| ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class concerns. Back in 2021, as the first theme `plato.css`  got ready, I decided to share it here at Github. <br> I do sincerely hope you enjoy it and that it comes to be useful to as many users as it has been to me. <br> <br> More styles are due to come in a timely fashion. <br> Stay tuned for more `Marpstyle Themes`! |
+| ![plowshare](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class concerns. Back in 2021, as the first theme `plato.css`  got ready, I decided to share it here at Github. <br> I do sincerely hope you enjoy it and that it comes to be useful to as many users as it has been to me. <br> <br> More styles are due to come in a timely fashion. <br> Stay tuned for more `Marpstyle Themes`! |
 | --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ## What´s new? 
@@ -61,6 +61,10 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
   ![](img/marpstyle-brand-new.svg)
   [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
+- ### TURING theme in honor of Alan Turing (1912-1954) 
+  ![](img/marpstyle-brand-new.svg)
+  [![Style: Gödel](img/turing.png)](examples/example-turing.pdf)
+
 - ### JOBS theme in honor of Steven Paul Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
 
@@ -72,7 +76,7 @@ Course you need `Marp` installed and operational. I created the available styles
 
 1. My suggestion is that you create a separate folder for each presentation you intend to create. Inside this presentarion folder I do also recomend you to create another folder, which might be called `/style`, specifically destinated for the `CSS` style files you intend do use in your presentation.
 
-2. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles' available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
+2. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles` available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
 
 3. If you use `MARP` for VSCode, remember to include the path to the theme files (`CSS` files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 

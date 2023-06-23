@@ -46,7 +46,6 @@ theme       : descartes
 
 
 ---
-
 <!-- _class: titlepage -->
 
 # Meditationes de Prima Philosophia 
@@ -54,6 +53,15 @@ theme       : descartes
 ### René Descartes
 #### Paris, 1641
 ##### Sacred Faculty of Theology in Paris 
+
+---
+
+<!-- _backgroundColor: white -->
+
+![bg left:70% h:80% saturate:2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Meditationes_de_prima_philosophia_1641.jpg/800px-Meditationes_de_prima_philosophia_1641.jpg)
+![bg h:490 sepia:0.2](https://upload.wikimedia.org/wikipedia/commons/4/46/Portrait_of_Ren%C3%A9_Descartes%2C_bust%2C_three-quarter_facing_left_in_an_oval_border%2C_%28white_background_removed%29.png)
+#### Original title page for the first Latin edition (**1641**) of the "Meditationes de prima philosophia" by René Descartes.
+> Bibliothèque Nationale de France - Bibliothèque nationale de France. Created: 1 January 1641
 
 ---
              
@@ -280,7 +288,12 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 ---
 <!-- _class: transition -->  
 
- Transition Slide 
+ Transition Slide 1
+    
+---         
+<!-- _class: transition2 -->  
+
+ Transition Slide 2
     
 ---         
 <!--   

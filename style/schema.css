@@ -1,6 +1,8 @@
 /* @theme schema */
 
-/* Last update: 30.dez.2021 */
+/* Last update: 23.jun.2023
+                30.dez.2021 
+*/
 
 /* -------------------- ROOT ----------------------------------*/
 :root {
@@ -16,18 +18,28 @@
     --list-item-color           : rgb(50, 56, 56);
     --after-color               : rgb(255, 39, 1);
 
-    --table-header-color        : rgb(36, 46, 55);
     
     --main-color                : rgb(207, 77, 17);
     --darker-color              : #246;
     --lighter-color             : #080a0a;
     --extra-back-color          : rgb(175, 172, 173);
-
+    
     --letter-spacing            : 0.125px;
-
+    
     --cool-list-color           : orangered;
-
+    
     --author-align              : right;
+    
+    --blockquote-strong         : rgb(255, 1, 1);
+
+    /*------------ table colors --------------------------*/
+    --table-header-color        : rgb(28, 36, 43);
+    --table-header-font-color   : white;
+    --table-border-top          : rgb(97, 96, 96);
+    --table-border-bottom       : rgba(97, 97, 96, 0.315);
+    --table-nth-child-color     : #eef1f3;
+    --table-hover-color         : black;
+    --table-hover-background-color: rgb(245, 253, 230);
 
 }
 
@@ -38,10 +50,10 @@ section.transition {
 
 /* -------------------- BIBLIO -------------------------------*/
 section.biblio {
-    --text-color            : white;
-    --background-color      : rgb(11, 50, 175);
-    --border-color          : darkorange;
-    --bold-color            : orange;
+    --text-color              : white;
+    --biblio-background-color : rgb(11, 50, 175);
+    --border-color            : darkorange;
+    --bold-color              : orange;
 }
 
 /* ------------------- TITLEPAGE -----------------------------*/

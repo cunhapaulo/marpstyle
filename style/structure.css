@@ -3,9 +3,11 @@
 /*
   ============================================
     Created by Paulo Cunha
-    version: 1.7
-    last update: 12.mai.2022
-         update: 30.dez.2021
+    version: 1.71
+    last: update: 23.jun.2023 
+          update: 12.mai.2022
+          update: 30.dez.2021
+         
   ============================================
 
     You may use freely (MIT license) provided  
@@ -98,10 +100,12 @@ section::after {
   font-size: 24px;
 }
 
+/* ------------------- TABLE -----------------------------*/
+
 /* 
    Tables are always centered.
    Credits: Juan Vera del Campo 
-   Loco:   https://github.com/Juanvvc
+   Locus:   https://github.com/Juanvvc
    
 */
 section table {
@@ -110,15 +114,14 @@ section table {
   margin-top: 40px;
   width: auto;
   border: 0;
-  font-size: 26px;
+  font-size: 24px;
 }
 
 section table th {
   background-color: var(--table-header-color);
-  color: white;
+  color: var(--table-header-font-color);
   border: 0;
-  border-top: rgb(253, 74, 3) solid 2px;
-  border-top: rgb(255, 0, 0) solid 2px;
+  border-top: var(--table-border-top) solid 2px;
 }
 
 section table td {
@@ -130,19 +133,20 @@ section table tr:nth-child(2) {
 }
 
 section table tr:last-child {
-  border-bottom: rgb(253, 74, 3) solid 2px;
+  border-bottom: var(--table-border-bottom) solid 1px;
 }
 
 tr:nth-child(even) {
-  background-color: #eef1f3 !important;
+  background-color: var(--table-nth-child-color) !important;
 }
 
 tr:hover {
-  color: rgb(36, 34, 34);
-  /* background-color: rgb(231, 244, 252); */
+  color: var(--table-hover-color);
+  background-color: var(--table-hover-background-color);
   font-weight: bold;
 }
 
+/* ------------------- BLOCK QUOTE -----------------------------*/
 /* 
   Block quote: used for footnote
   substitution. Use as the last  
@@ -155,16 +159,19 @@ section blockquote {
   margin-top: auto;
 }
 
-section blockquote strong {
-  color: rgb(68, 104, 151);
-  font-weight: bold;
-  font-size: 1.13em !important; 
-}
-
 section blockquote p {
-  font-size: 1.13em !important; 
+  font-size: 1.12em !important; 
+  letter-spacing: -0.5px !important;
 }
 
+section blockquote strong {
+  color: var(--blockquote-strong);
+  font-weight: bold;
+  font-size: 1.11em !important; 
+  letter-spacing: -0.5px !important;
+}
+
+/* ------------------- COLUMNS -----------------------------*/
 /* 
   Adds two-columns class 
 */
@@ -175,8 +182,24 @@ section blockquote p {
   /* justify-content: center !important; */
 }
 
+.columns p {
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+  line-height: 1.16em;
+  font-size: 30px;
+}
 
-/************************* columns-center *****************************/
+.columns ol,ul {
+  margin-top: 0.15em;
+  margin-bottom: 0.25em;
+  line-height: 1.73em !important;
+  font-size: 28px;
+  color: rgb(64, 70, 82);
+}
+
+
+
+/* ------------------- COLUMNS CENTER ---------------------*/
 /* 
 /* 
   Adds two-columns with centered contens class 
@@ -191,7 +214,7 @@ section blockquote p {
 }
 
 
-/************************* columns3 *****************************/
+/* ------------------- THREE-COLUMNS -----------------------------*/
 /* 
   Adds three-columns class 
 */
@@ -204,8 +227,7 @@ section blockquote p {
 
 
 
-/******************** columns3-center ***************************/
-/* 
+/* ------------------- THREE-COLUMNS-CENTER ---------------------*/
 /* 
   Adds three-columns with centered contens class 
 */
@@ -219,7 +241,7 @@ section blockquote p {
 }
 
 
-/******************* titlepage *************************/
+/* ------------------- TITLEPAGE -----------------------------*/
 /* 
     Title Page Class: first slide in a deck.
     
@@ -323,7 +345,7 @@ section.titlepage:after {
   display: none;
 }
 
-/************************* transition *****************************/
+/* ------------------- TRANSITION -----------------------------*/
 /* 
     transition class: first slide in a section. Use h1 as header.
     Use: 
@@ -356,12 +378,12 @@ section.transition:after {
   display: none;
 }
 
-/************************* transition2 *****************************/
+/* ------------------- TRANSITION2 -----------------------------*/
 /* 
     transition2 class: first slide in a section. Use h1 as header.
     Use: 
     
-    <!-- _class: transition --> 
+    <!-- _class: transition2 --> 
 
     # Header
    
@@ -370,10 +392,11 @@ section.transition2 {
   background-color: rgb(137, 173, 207);
   text-align: center !important;
   font-weight: bold !important;
-  color: white;
+  color: rgb(255, 255, 255);
   padding-top: auto;
   padding-buttom: auto;
 }
+
 section.transition2 h1,
 section.transition2 h2,
 section.transition2 p,
@@ -394,7 +417,7 @@ section.transition2:after {
   display: none;
 }
 
-/************************* CITE *****************************/
+/* ------------------- CITE -----------------------------*/
 /* 
     cite class: slide containg a citation 
     
@@ -436,7 +459,7 @@ section.cite:after {
   display: none;
 }
 
-/************************* biblio *****************************/
+/* ------------------- BIBLIO -----------------------------*/
 /* 
     slides containg bibliography
     Use: 
@@ -450,7 +473,7 @@ section.cite:after {
 */
 
 section.biblio {
-  background-color: var(--background-color);
+  background-color: var(--biblio-background-color);
 }
 
 section.biblio p {
@@ -482,7 +505,7 @@ section.biblio:after {
   display: none;
 }
 
-/******************* cool-list *****************************/
+/* ------------------- COOL-LIST -----------------------------*/
 /* 
 
   Credits: https://catalin.red/css3-ordered-list-styles/
