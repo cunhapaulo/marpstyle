@@ -72,20 +72,20 @@ theme       : descartes
       
 <!-- _class: cool-list -->
 
-1. *Berlin*
-2. *Hannover*
-3. *Freiburg im Breisgau*
-3. *Heidelberg*
-4. *Hamburg*
+1. *Paris*
+2. *Marseille*
+3. *Tolouse*
+4. *Lyon*
+5. *Nice*
    
 </div>  
 <div>    
         
-4. *Leipzig* 
-5. *Dresden*
-6. *München*
-7. *Köln* 
-8. *Köningsberg und Praga* 
+1. *Nantes*
+2. *Montpellier* 
+3. *Strasbourg* 
+4. *Bordeaux*
+5. *Lille* 
 
 </div> 
 </div>           

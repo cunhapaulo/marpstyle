@@ -10,7 +10,7 @@ Marp themes repository, created with beauty and simplicity as first concerns.<br
 
 ## What´s new? 
 
-🆕 **Just arrived**! The Kurt Gödel theme! Still under final ajustments but already functional. Enjoy!
+🆕 **Just arrived**! The **Kurt Gödel** and **Alan Turing** themes have just arrives! Enjoy!
 
 
 # One Example of Marp slide creation with style!

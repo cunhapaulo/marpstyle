@@ -14,7 +14,7 @@ theme       : jobs
       text-align        : right; 
    }
    .cite-author:after {
-      color             : orangered;
+      color             : white;
       font-size         : 125%;
       /* font-style        : italic; */
       font-weight       : bold;
@@ -64,20 +64,20 @@ theme       : jobs
       
 <!-- _class: cool-list -->
 
-1. *Berlin*
-2. *Hannover*
-3. *Freiburg im Breisgau*
-3. *Heidelberg*
-4. *Hamburg*
+1. *New York*
+2. *Los Angeles*
+3. *Chicago*
+3. *Houston*
+4. *Phoenix*
    
 </div>  
 <div>    
         
-4. *Leipzig* 
-5. *Dresden*
-6. *München*
-7. *Köln* 
-8. *Köningsberg und Prag* 
+4. *Philadelphia* 
+5. *San Antonio*
+6. *San Diego*
+7. *Dallas* 
+8. *San Jose* 
 
 </div> 
 </div>           
@@ -280,7 +280,12 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 ---
 <!-- _class: transition -->  
 
- Transition Slide 
+ Transition Slide 1
+    
+---         
+<!-- _class: transition2 -->  
+
+ Transition Slide 2
     
 ---         
 <!--   

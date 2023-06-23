@@ -163,7 +163,20 @@ section.transition {
   font-family: 'Open Sans';
   font-family: 'Segoe UI';  
 
+  /* font-size: 200%; */
+  /* text-shadow: 4px 4px 0 rgb(77, 61, 61); */
+}
 
+/* -------------------- TRANSITION 2---------------------------------*/
+section.transition2 {
+
+  background-color: rgb(24, 131, 173);
+
+
+  font-weight: bold;
+  font-family: serif, sans-serif, "Libre Baskerville", serif;
+  font-family: 'Open Sans';
+  font-family: 'Segoe UI';  
 
   /* font-size: 200%; */
   /* text-shadow: 4px 4px 0 rgb(77, 61, 61); */
@@ -175,10 +188,10 @@ section.cite p {
   
   color: #fffbfe;
 
-  font-size: 36px;
+  font-size: 46px;
   font-family: "Libre Baskerville", serif; 
-  font-style: italic;
-  line-height: 140%;
+  /* font-style: italic; */
+  line-height: 125%;
 
 }
 
@@ -191,6 +204,6 @@ section.cite {
 
 section.cite strong{
 
-  font-weight: 100;
+  font-weight: 500;
 
 }

@@ -62,20 +62,20 @@ theme       : freud
       
 <!-- _class: cool-list -->
 
-1. *Berlin*
-2. *Hannover*
-3. *Freiburg im Breisgau*
-3. *Heidelberg*
-4. *Hamburg*
+1. *Wien*
+2. *Graz*
+3. *Linz*
+3. *Salzburg*
+4. *Innsbruck*
    
 </div>  
 <div>    
         
-4. *Leipzig* 
-5. *Dresden* 
-6. *München*
-7. *Köln* 
-8. *Köningsberg und Praga* 
+4. *Klagenfurt am Wörthersee* 
+5. *Villach* 
+6. *Wels*
+7. *Sankt Pölten* 
+8. *Dornbirn* 
  
 </div>    
 </div>     
@@ -274,7 +274,12 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 ---
 <!-- _class: transition -->
 
-# Transition Slide
+# Transition Slide 1
+  
+---         
+<!-- _class: transition2 -->
+
+# Transition Slide 2
   
 ---         
 <!--   

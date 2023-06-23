@@ -66,19 +66,19 @@ theme       : kant
 <!-- _class: cool-list -->
 
 1. *Berlin*
-2. *Hannover*
-3. *Freiburg im Breisgau*
-3. *Heidelberg*
-4. *Hamburg*
+2. *Hamburg*
+3. *München*
+4. *Köln*
+5. *Frankfurt am Main*
  
 </div> 
 <div>  
 
-4. *Leipzig*
-5. *Dresden*
-6. *München*
-7. *Köln*
-8. *Köningsberg und Praga*
+1. *Stuttgart*
+2. *Düsseldorf*
+3. *Leipzig*
+4. *Dortmund*
+5. *Essen*
 
 </div>
 </div>   

@@ -98,7 +98,15 @@ section.titlepage h5 {
 
 /* -------------------- TRANSITION ---------------------------------*/
 section.transition {
-  --transitionpage-color: #1c103d;
+  
+  --transitionpage-color: #247397;
+
+}
+/* -------------------- TRANSITION ---------------------------------*/
+section.transition2 {
+  
+  background-color: #c53732;
+
 }
 
 /* ------------------- CITE -----------------------------*/

@@ -64,23 +64,23 @@ theme       : plato
  
 <!-- _class: cool-list -->
 
-1. *Berlin*
-2. *Hannover*
-3. *Freiburg im Breisgau*
-3. *Heidelberg*
-4. *Hamburg*
+1. *Athína*
+2. *Spárti*
+3. *Kórinthos*
+4. *Thíva*
+5. *Siracusa*
  
 </div> 
 <div>  
 
-4. *Leipzig*
-5. *Dresden*
-6. *München*
-7. *Köln*
-8. *Köningsberg und Praga*
+1. *Égina*
+2. *Ródos*
+3. *Árgos*
+4. *Erétria*
+5. *Elis*
 
 </div>
-</div>   
+</div> 
 
 --- 
 
