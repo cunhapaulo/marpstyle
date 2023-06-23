@@ -3,21 +3,21 @@ Marp themes repository, created with beauty and simplicity as first concerns.<br
 
 ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
-## Last update: 21.jun.2023
+## Last update: 23.jun.2023
  
-| ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class requirements. As the first theme (plato.css) got ready I decided to share. I hope sincerely you enjoy it and it comes to be useful to as many users as possible. More styles are due to come in a fashionable time. <br> <br> Stay tuned for more Marpstyle Themes! |
+| ![](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class concerns. Back in 2021, as the first theme `plato.css`  got ready, I decided to share it here at Github. <br> I do sincerely hope you enjoy it and that it comes to be useful to as many users as it has been to me. <br> <br> More styles are due to come in a timely fashion. <br> Stay tuned for more `Marpstyle Themes`! |
 | --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+## What´s new? 
+
+🆕 **Just arrived**! The Kurt Gödel theme! Still under final ajustments but already functional. Enjoy!
+
 
 # One Example of Marp slide creation with style!
 This slide deck was created to be used in a presentarion about Artifical INeligênce. It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
 [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
 [Link for the presentation](https://cunhapaulo.github.io/ai/)
-
-
-# What´s new? 
-
-🆕 **Just arrived**! The Kurt Gödel theme! Still under final ajustments but already functional. Enjoy!
 
 ## What is Marp?
 
@@ -66,9 +66,15 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
 
 <br>
 
-# Install
+# What´s necessary to install?
 
-As a MARP´s prerequisite, remember to include the path to the theme files (CSS files) in your `workspace.code-workspace` in order to make them available to your slide deck.
+Course you need `Marp` installed and operational. I created the available styles having the VSCode environment in mind, and only it. But it doesn´t mean they don´t work well with other environments, I only did not test it at all.
+
+1. My suggestion is that you create a separate folder for each presentation you intend to create. Inside this presentarion folder I do also recomend you to create another folder, which might be called `/style`, specifically destinated for the `CSS` style files you intend do use in your presentation.
+
+2. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles' available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
+
+3. If you use `MARP` for VSCode, remember to include the path to the theme files (`CSS` files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 
 ## It might look similar to:
 
@@ -94,6 +100,8 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 			"./style/godel.css"
 			"./style/heidegger.css"
 			"./style/jobs.css"
+			"./style/godel.css"
+			"./style/turing.css"
 			"./style/schema.css"
 			"./style/structure.css"
 		]
@@ -101,7 +109,8 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 }
 ```
 
-## You might as well use my themes directly from github using the url, just like depicted below:
+## Styles directly from the internet
+You might as well use my themes directly from github using the url, just like depicted below:
 
 ```json
 {
@@ -125,6 +134,7 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 			"https://cunhapaulo.github.io/style/schema.css"
 			"https://cunhapaulo.github.io/style/simple.css"
 			"https://cunhapaulo.github.io/style/socrates.css"
+			"https://cunhapaulo.github.io/style/turing.css"
 			"https://cunhapaulo.github.io/style/structure.css"
 		]
 	}
@@ -133,7 +143,7 @@ As a MARP´s prerequisite, remember to include the path to the theme files (CSS 
 
 <br>
 
-# Typefaces
+# Typefaces (TTF Fonts)
 
 Some of the fonts necessary to the available styles are listed below with its respective link for download:
 

@@ -13,11 +13,11 @@
 11. Jobs, Steve (1955 - 2011)
 12. Descartes, Rene (1596 - 1650)
 13. Gödel, Kurt (1906 - 1978)
+14. Turing, Alan (1912 - 1954)
 
 
 # Prospective Names
 1. Einstein, Albert 
-1. Turing, Alan (1912 - 1954)
 2. Adorno, Theodor
 3. Aquinas, Thomas
 4. Aristotle
@@ -25,7 +25,7 @@
 6. Cantor, Georg
 7. Copernico, Nicolau
 8. Espinosa, Baruch
-9. Frege, Gottlob
+9.  Frege, Gottlob
 10. Galileo Galilei
 11. Hume, David
 12. Locke, John
