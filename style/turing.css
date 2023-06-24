@@ -14,6 +14,11 @@
 @import "schema";
 @import "structure";
 
+/* Importing Font */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+@import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119');
+@import url('https://fonts.cdnfonts.com/css/open-sans');
+@import url('https://fonts.cdnfonts.com/css/segoe-pro');
 
 /* ------------------- ROOT -----------------------------*/
 
@@ -22,10 +27,10 @@
   /* font-family: 'Times New Roman', Times, serif; */
   /* font-family: "Fira Sans Light"; */
   
-  font-family: 'Tahoma'; 
-  font-family: 'Open Sans';
-  font-family: 'Segoe UI'; 
-
+  /* font-family: 'Open Sans Light'; */
+  /* font-family: 'Segoe UI';  */
+  font-family: 'Segoe Pro Display', sans-serif;
+  
   font-weight: initial;
   
   /* -- Bodytext FONT color */
@@ -64,8 +69,8 @@
 :root p {
   
   font-size: 32px;
-  font-family: "Fira Sans Light";
-  font-family: 'Segoe UI'; 
+  /* font-family: "Fira Sans Light";
+  font-family: 'Segoe UI';  */
   font-family: 'Open Sans';
 
   letter-spacing: -0.8px;
@@ -154,23 +159,53 @@ section.titlepage h2 {
 /* -------------------- TRANSITION ---------------------------------*/
 section.transition {
 
-  --transitionpage-color: #db9914;
+  --transitionpage-color: #c98833;
   
-  font-weight: 900;
+  font-weight: 600;
 
-  font-size: 200%;
-  text-shadow: 0px 3px 0 rgb(53, 59, 65);
+  /* font-size: 200%; */
+  color: white;
+
+  /* text-shadow: 0px 2px 0 rgb(22, 24, 26); */
 }
 
+section.transition strong {
+
+  color: rgb(238, 234, 5);
+  font-weight: 600;
+}
+
+section.transition em {
+
+  /* color: rgb(10, 100, 235); */
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  background-color: rgb(255, 118, 5);
+
+}
 /* -------------------- TRANSITION2 ---------------------------------*/
 section.transition2 {
 
   background-color: rgb(121, 148, 199) !important;
     
   font-weight: 900;
+  /* font-size: 200%; */
+  text-shadow: 0px 2px 0 rgb(34, 49, 65);
 
-  font-size: 200%;
-  text-shadow: 0px 3px 0 rgb(34, 49, 65);
+}
+
+section.transition2 strong {
+
+  font-weight: 900;
+  color: rgb(10, 100, 235);
+  color: rgb(172, 255, 7);
+
+}
+
+section.transition2 em {
+
+  color: black;
+  background-color: rgba(255, 5, 5, 0.295);
 
 }
 
@@ -201,8 +236,18 @@ section.cite p {
 /* -------------------- BIBLIO -------------------------------*/
 
 section.biblio {
+
+  /* font-family: "Fira Sans", serif;  */
+
+   
   --text-color              : rgb(253, 252, 252);
   --biblio-background-color : rgb(0, 0, 0);
   --border-color            : darkorange;
   --bold-color              : orange;
+}
+
+section.biblio p {
+
+  font-family: "Fira Sans", serif; 
+
 }
