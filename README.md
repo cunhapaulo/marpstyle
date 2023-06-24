@@ -173,6 +173,10 @@ Some of the fonts necessary to the available styles are listed below with its re
 - ## General
   
   - Metropolis: https://github.com/njugunagathere/Metropolis
+  - Open Sans: https://fonts.google.com/specimen/Open+Sans?query=Open+Sans
+
+## Observation about fonts:
+	Recently I decided to make use of downloading fonts from internet instead of forcing the user to install TTF fonts in their systems. Should it break in the future, due to the stop of the site proving the sources, be advised to resort to the old method instead.
 
 
 # Credits

@@ -22,8 +22,8 @@
   /* font-family: 'Times New Roman', Times, serif; */
   /* font-family: "Fira Sans Light"; */
   
-  font-family: 'Open Sans';
   font-family: 'Tahoma'; 
+  font-family: 'Open Sans';
   font-family: 'Segoe UI'; 
 
   font-weight: initial;
@@ -64,9 +64,10 @@
 :root p {
   
   font-size: 32px;
-  /* font-family: 'Segoe UI'; 
-  font-family: "Fira Sans Light"; */
+  font-family: "Fira Sans Light";
+  font-family: 'Segoe UI'; 
   font-family: 'Open Sans';
+
   letter-spacing: -0.8px;
   
 }
@@ -76,6 +77,7 @@
   /* font-family: 'Segoe UI'; 
   font-family: 'Open Sans'; */
   font-family: "Fira Sans Light";
+
   letter-spacing: -0.5px;
 }
 

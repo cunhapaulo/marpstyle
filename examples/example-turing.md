@@ -290,16 +290,16 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 </div>
      
 ---
-<!-- _class: transition -->
+<!-- _class: transition -->  
 
-Transition Slide 1
+ Transition Slide <br> _Aditional_ **Text**
+    
+---         
+<!-- _class: transition2 -->  
 
----
-<!-- _class: transition2 -->
-
-Transition Slide 2
-
----
+ Transition Slide <br> _Aditional_ **Text**
+    
+---    
 
 <!--   
 ############################### [ SECTION ] #################################### 

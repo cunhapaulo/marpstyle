@@ -17,14 +17,14 @@
 
 
 # Prospective Names
-1. Einstein, Albert 
-2. Adorno, Theodor
-3. Aquinas, Thomas
-4. Aristotle
-5. Berkeley, George
-6. Cantor, Georg
-7. Copernico, Nicolau
-8. Espinosa, Baruch
+1.  Einstein, Albert 
+2.  Adorno, Theodor
+3.  Aquinas, Thomas
+4.  Aristotle
+5.  Berkeley, George
+6.  Cantor, Georg
+7.  Copernico, Nicolau
+8.  Espinosa, Baruch
 9.  Frege, Gottlob
 10. Galileo Galilei
 11. Hume, David

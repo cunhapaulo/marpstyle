@@ -24,6 +24,8 @@
 :root {
   
   font-family: 'Fira Sans Condensed', sans-serif;
+
+  --bold-color                : rgb(71, 107, 184);
   
   font-weight: initial;
   --italic-background-color   : rgba(214, 25, 66, 0.144);
