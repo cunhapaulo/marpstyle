@@ -35,7 +35,6 @@ theme       : godel
 <!-- _class: titlepage -->
 
 ![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/9/9e/Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg)
-<!-- ![bg left:33% h:100%](https://www.macworld.com/wp-content/uploads/2021/10/steve-jobs-2-1.jpg?quality=50&strip=all) -->
 
 <div class="title"         > Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme </div>
 <div class="subtitle"      > On Formally Undecidable Propositions </div>
@@ -287,10 +286,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
  Transition Slide 2<br> _Aditional_ **Text**
     
 ---         
-<!--   
-############################### [ SECTION ] #################################### 
--->       
-  
+
 <!-- _class: biblio -->  
 
 ![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
@@ -305,10 +301,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
 
 --- 
-<!-- 
-############################### [ SECTION ] #################################### 
---> 
-    
+
 <!-- _class: biblio -->
 
 # References 

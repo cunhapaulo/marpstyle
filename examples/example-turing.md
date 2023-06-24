@@ -32,11 +32,8 @@ theme: turing
 </style>
 
 <!-- _class: titlepage -->
-<!-- ![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/200px-Alan_Turing_Aged_16.jpg) -->
 
 ![bg left:33% grayscale:1 brightness:1.1](https://www.thesun.co.uk/wp-content/uploads/2019/07/NINTCHDBPICT000491505127.jpg)
-
-<!-- ![bg left:33% h:100%](https://www.macworld.com/wp-content/uploads/2021/10/steve-jobs-2-1.jpg?quality=50&strip=all) -->
 
 <div class="title"         > Computing Machinery and Intelligence </div>
 <div class="subtitle"      > Can machines think?                  </div>
@@ -49,13 +46,9 @@ theme: turing
 <!-- _class: titlepage -->
 
 # Computing Machinery and Intelligence
-
 ## Can machines think?
-
 ### Alan Mathison Turing
-
 #### Mind, , 1950
-
 ##### Oxford University - Oxfordshire, UK.
 
 ---
@@ -301,10 +294,6 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
     
 ---    
 
-<!--   
-############################### [ SECTION ] #################################### 
--->
-
 <!-- _class: biblio -->
 
 ![bg left:25% opacity:70% blur:1px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
@@ -319,10 +308,6 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 1. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
 
 ---
-
-<!-- 
-############################### [ SECTION ] #################################### 
--->
 
 <!-- _class: biblio -->
 

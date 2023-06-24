@@ -115,14 +115,14 @@
 
 /* Titlepage made with <titlepage> */
 
-section.titlepage .title strong {
-  color: rgb(255, 52, 52);
-}
-
 section.titlepage .title {
   /* border-bottom: 1px solid rgb(179, 176, 176); */
   border-bottom: 1px solid rgb(29, 107, 209);
-  letter-spacing: -0.23px;
+  letter-spacing: -0.6px;
+}
+
+section.titlepage .title strong {
+  color: rgb(255, 52, 52);
 }
 
 section.titlepage .subtitle {
@@ -149,6 +149,9 @@ section.titlepage h1 {
 
   margin-left: 0pt;
   margin-right: 0pt;
+
+  letter-spacing: -0.6px;
+
 }
 
 section.titlepage h2 {
@@ -156,45 +159,18 @@ section.titlepage h2 {
 }
 
 
+
 /* -------------------- TRANSITION ---------------------------------*/
 section.transition {
 
-  --transitionpage-color: #c98833;
-  
-  font-weight: 600;
-
+  background-color: rgb(255, 82, 2) !important;    
+  font-weight: 500;
   /* font-size: 200%; */
-  color: white;
+  /* text-shadow: 0px 2px 0 rgb(34, 49, 65); */
 
-  /* text-shadow: 0px 2px 0 rgb(22, 24, 26); */
 }
 
 section.transition strong {
-
-  color: rgb(238, 234, 5);
-  font-weight: 600;
-}
-
-section.transition em {
-
-  /* color: rgb(10, 100, 235); */
-  color: rgb(0, 0, 0);
-  font-weight: 600;
-  background-color: rgb(255, 118, 5);
-
-}
-/* -------------------- TRANSITION2 ---------------------------------*/
-section.transition2 {
-
-  background-color: rgb(121, 148, 199) !important;
-    
-  font-weight: 900;
-  /* font-size: 200%; */
-  text-shadow: 0px 2px 0 rgb(34, 49, 65);
-
-}
-
-section.transition2 strong {
 
   font-weight: 900;
   color: rgb(10, 100, 235);
@@ -202,10 +178,42 @@ section.transition2 strong {
 
 }
 
-section.transition2 em {
+section.transition em {
 
-  color: black;
-  background-color: rgba(255, 5, 5, 0.295);
+  color: rgb(230, 226, 226);
+  background-color: rgba(201, 199, 197, 0.493) !important;
+  /* text-shadow: 1px 0px 0 rgb(8, 8, 8); */
+  
+
+}
+
+/* -------------------- TRANSITION2 ---------------------------------*/
+section.transition {
+
+  --transitionpage-color: #417dad;
+  --transitionpage-color: #4594b9;
+  
+  color: white;
+  font-weight: 700;
+  /* font-size: 200%; */
+
+  /* text-shadow: 0px 2px 0 rgb(22, 24, 26); */
+}
+
+section.transition2 strong {
+
+  color: rgb(238, 234, 5);
+  font-weight: 700;
+}
+
+section.transition2 em {
+  
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  /* background-color: initial; */
+  background-color: rgba(207, 207, 206, 0.397) !important;
+  /* text-shadow: 1px 0px 0 rgb(34, 49, 65); */
+
 
 }
 
