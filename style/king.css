@@ -33,14 +33,22 @@
   --bold-color                   : rgb(71, 107, 184);
   --italic-background-color      : rgb(219, 208, 54);
   
-  --page-background-color        : rgb(57, 63, 75);
-  --page-font-color              : rgba(236, 236, 236, 0.89);
+
+  --default-background-color        : black;
+  --default-background-color        : #42454b7c;
+  --default-background-color        : #2E3440;
+  --default-background-color        : #2e3440cc;
+
+  --default-font-color              : #ECEFF4;
+  --default-font-color              : #D8DEE9;
+  --default-font-color              : #E5E9F0;
+  ;
   
 
 
 
-  background-color: var(--page-background-color);
-  color: var(--page-font-color);
+  background-color: var(--default-background-color);
+  color: var(--default-font-color);
 }
 
 :root p {
@@ -49,7 +57,7 @@
   font-family: "FrutigerNextW04-Regular", 'Open Sans', sans-serif;
   letter-spacing: -0.5px;
   
-  color: var(--page-font-color);
+  color: var(--default-font-color);
 
   
 }
@@ -57,21 +65,20 @@
 :root ul, ol{
   font-size: 27px;
   font-family: "Fira Sans Light";
-  letter-spacing: -0.5px;
+  letter-spacing: -0.4px;
 
-  color: var(--page-font-color);
+  color: var(--default-font-color);
 
 }
 
 :root h1, h2, h3, h4, h5, h6 {
 
-  color: var(--page-font-color);
+  color: var(--default-font-color);
+
 }
 
 
 section strong {
-  color:rgba(5, 51, 255, 0.534) ;
-  color:rgba(5, 43, 255, 0.979) ;
   color:rgb(211, 172, 43) ;
   
   padding-left: 2px;
@@ -79,34 +86,54 @@ section strong {
   font-weight: 600;
 }
 
+section table {
+
+  color: #3B4252;
+
+}
+
+section table th {
+
+  background-color: #81A1C1
+  ;
+
+}
+
+/* -------------------- CITE -------------------------------*/
+
+section.cite {
+
+  background-color: #D8DEE9;
+  --strong-color        : #c53442;
+  --strong-color        : #4d75a5;
+}
+
+
 /* -------------------- TITLEPAGE -------------------------------*/
 
 section.titlepage {
 
-  color: var(--page-font-color);
-  background-color: var(--page-background-color);
+  color: var(--default-font-color);
+  background-color: var(--default-background-color);
 }
 
 section.titlepage .title {
   border-bottom: 1px solid rgb(252, 196, 10);
 
-  color: var(--page-font-color);
+  color: var(--default-font-color);
 }
 
-section.cite {
-  --strong-color        : rgba(255, 5, 5, 0.795);
-}
 
 section.titlepage .author,
 section.titlepage .date,
 section.titlepage .organization {
 
   text-align: left;
-  color: var(--page-font-color) !important;
+  color: var(--default-font-color) !important;
 }
 
 section.titlepage h1, h2, h3, h4, h5 {
-  color: var(--page-font-color) !important;
+  color: var(--default-font-color) !important;
 }
 
 
@@ -164,5 +191,5 @@ section.biblio {
 /* -------------------- COLUMNS -------------------------------*/
 
 section.columns p, ul, ol, li {
-  color: var(--page-font-color);
+  color: var(--default-font-color);
 }
