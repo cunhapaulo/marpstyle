@@ -3,14 +3,14 @@ Marp themes repository, created with beauty and simplicity as first concerns.<br
 
 ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
-## Last update: 23.jun.2023
+## Last update: 26.jun.2023
  
 | ![plowshare](img/plow_man.gif) | This set of styles (themes) were designed bearing mainly simplicity and beauty in mind as first class concerns. Back in 2021, as the first theme `plato.css`  got ready, I decided to share it here at Github. <br> I do sincerely hope you enjoy it and that it comes to be useful to as many users as it has been to me. <br> <br> More styles are due to come in a timely fashion. <br> Stay tuned for more `Marpstyle Themes`! |
 | --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ## What´s new? 
 
-🆕 **Just arrived**! The **Kurt Gödel** and **Alan Turing** themes have just arrives! Enjoy!
+🆕 **Just arrived**! The **Kurt Gödel**, **Alan Turing** and **Martin Luther King** themes have just arrives! Enjoy!
 
 
 # One Example of Marp slide creation with style!
@@ -65,6 +65,10 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
   ![](img/marpstyle-brand-new.svg)
   [![Style: Gödel](img/turing.png)](examples/example-turing.pdf)
 
+- ### KING theme in honor of Martin Luther King, JR. (1929-1968) 
+  ![](img/marpstyle-brand-new.svg)
+  [![Style: Gödel](img/king.png)](examples/example-king.pdf)
+
 - ### JOBS theme in honor of Steven Paul Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
 
@@ -103,9 +107,9 @@ Course you need `Marp` installed and operational. I created the available styles
 			"./style/husserl.css"
 			"./style/godel.css"
 			"./style/heidegger.css"
-			"./style/jobs.css"
-			"./style/godel.css"
 			"./style/turing.css"
+			"./style/king.css"
+			"./style/jobs.css"
 			"./style/schema.css"
 			"./style/structure.css"
 		]
@@ -131,7 +135,9 @@ You might as well use my themes directly from github using the url, just like de
 			"https://cunhapaulo.github.io/style/hegel.css"
 			"https://cunhapaulo.github.io/style/heidegger.css"
 			"https://cunhapaulo.github.io/style/husserl.css"
+			"https://cunhapaulo.github.io/style/jobs.css"
 			"https://cunhapaulo.github.io/style/kant.css"
+			"https://cunhapaulo.github.io/style/king.css"
 			"https://cunhapaulo.github.io/style/leibniz.css"
 			"https://cunhapaulo.github.io/style/orwell.css"
 			"https://cunhapaulo.github.io/style/plato.css"
