@@ -41,11 +41,11 @@ theme       : king
 <!-- ![bg left:33%](https://fotografias.larazon.es/clipping/cmsimages01/2021/01/18/2CE8ABC5-1666-45AA-9EC4-FFA38926E12A/98.jpg?crop=1818,1023,x0,y209&width=1900&height=1069&optimize=low&format=webply) -->
 ![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg)
 
-<div class="title"         > I Have a Dream Today </div>
-<div class="subtitle"      > On the moral obligation to equality for all citizens </div>
-<div class="author"        > Martin Luther King Jr. </div>
-<div class="date"          > Washington, D.C., August 28, 1963 </div>
-<div class="organization"  > The March on Washington for Jobs and Freedom    </div>
+<div class="title"         > I Have a Dream Today                                  </div>
+<div class="subtitle"      > On the moral obligation to equality for all citizens  </div>
+<div class="author"        > Martin Luther King Jr.                                </div>
+<div class="date"          > Washington, D.C., August 28, 1963                     </div>
+<div class="organization"  > The March on Washington for Jobs and Freedom          </div>
 
 
 ---
@@ -65,7 +65,7 @@ theme       : king
 
 ![bg left h:80% drop-shadow:4px,5px,35px,#81A1C1](../img/king.jpg)
 
-[Dr. Martin Luther King, JR. (1963). TEXT OF SPEECH DELIVERED IN THE MARCH ON WASHINGTON. aUGUST 28, 1963. <br> ![h:120](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)
+[Dr. Martin Luther King, JR. (1963). TEXT OF SPEECH DELIVERED IN THE MARCH ON WASHINGTON. August 28, 1963. <br> ![h:120](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)
 
 
 ---
