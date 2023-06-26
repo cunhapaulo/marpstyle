@@ -15,10 +15,10 @@ theme       : king
    }
    .cite-author:after {
       color             : orangered;
-      font-size         : 125%;
+      font-size         : 145%;
       /* font-style        : italic; */
       font-weight       : bold;
-      font-family       : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+      font-family: 'Fira Sans Condensed', sans-serif; 
       padding-right     : 130px;
    }
    .cite-author[data-text]:after {
@@ -59,12 +59,13 @@ theme       : king
 ##### The March on Washington for Jobs and Freedom
 
 ---
-<!-- _backgroundColor: white -->
 
-![bg left h:80% drop-shadow:0px,5px,15px,rgba(0,0,0,.4)](../img/king.jpg)
+<!-- _backgroundColor: #3B4252
+ -->
 
+![bg left h:80% drop-shadow:4px,5px,35px,#81A1C1](../img/king.jpg)
 
-[Dr. Martin Luther King, JR. (1963). TEXT OF SPEECH DELIVERED IN THE MARCH ON WASHINGTON. aUGUST 28, 1963. <br> ![h:120](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf)
+[Dr. Martin Luther King, JR. (1963). TEXT OF SPEECH DELIVERED IN THE MARCH ON WASHINGTON. aUGUST 28, 1963. <br> ![h:120](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)](https://www.sethkaller.com/slideshow.php?id=2248&t=t-2248-001-26366_MLK_p1_w.jpg&1687796302548)
 
 
 ---
