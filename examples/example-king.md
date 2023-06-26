@@ -38,8 +38,8 @@ theme       : king
 <!-- ![bg left:33%](https://img.cancaonova.com/cnimages/canais/uploads/sites/11/2023/01/Martin_Luther_King_Freepik.jpg) -->
 <!-- ![bg left:33%](https://media1.ledevoir.com/images_galerie/nwdp_433257_294533/image.jpg) -->
 <!-- ![bg left:33%](https://static.todamateria.com.br/upload/ma/rt/martinlutherking-cke.jpg) -->
-<!-- ![bg left:33%](https://fotografias.larazon.es/clipping/cmsimages01/2021/01/18/2CE8ABC5-1666-45AA-9EC4-FFA38926E12A/98.jpg?crop=1818,1023,x0,y209&width=1900&height=1069&optimize=low&format=webply) -->
-![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg)
+![bg left:33%](https://fotografias.larazon.es/clipping/cmsimages01/2021/01/18/2CE8ABC5-1666-45AA-9EC4-FFA38926E12A/98.jpg?crop=1818,1023,x0,y209&width=1900&height=1069&optimize=low&format=webply)
+<!-- ![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg) -->
 
 <div class="title"         > I Have a Dream Today </div>
 <div class="subtitle"      > On the moral obligation to equality for all citizens </div>
@@ -60,7 +60,7 @@ theme       : king
 
 ---
 
-<!-- _backgroundColor: #3B4252
+<!-- _backgroundColor: #000000
  -->
 
 ![bg left h:80% drop-shadow:4px,5px,35px,#81A1C1](../img/king.jpg)
@@ -77,20 +77,21 @@ theme       : king
       
 <!-- _class: cool-list -->
 
-1. *Wien*
-2. *Graz*
-3. *Linz*
-3. *Salzburg*
-4. *Innsbruck*
+
+1. *New York*
+2. *Los Angeles*
+3. *Chicago*
+3. *Houston*
+4. *Phoenix*
    
 </div>  
 <div>    
         
-4. *Klagenfurt am Wörthersee* 
-5. *Villach* 
-6. *Wels*
-7. *Sankt Pölten* 
-8. *Dornbirn* 
+4. *Philadelphia* 
+5. *San Antonio*
+6. *San Diego*
+7. *Dallas* 
+8. *San Jose* 
  
 </div>    
 </div>        
