@@ -15,7 +15,10 @@
 @import "structure";
 
 /* Importing Font */
-/* Font Credit: //db.onlinewebfonts.com/c/f1a677718a78c8b8b878544c48985b92?family=FrutigerNextW04-Regular */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+
+/* @import url('https://fonts.cdnfonts.com/css/frutiger'); */
+@import url('https://fonts.cdnfonts.com/css/frutiger?styles=28198');
 @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
 /* @import url('//db.onlinewebfonts.com/c/f1a677718a78c8b8b878544c48985b92?family=FrutigerNextW04-Regular'); */
 
@@ -26,6 +29,8 @@
   
   /* font-family: 'Fira Sans Condensed', sans-serif; */
   font-family: "FrutigerNextW04-Regular", sans-serif;
+  font-family: 'Frutiger', sans-serif;
+  
   font-weight: initial;
   
   --cool-list-color              : rgb(107, 130, 173);
@@ -39,6 +44,7 @@
   --default-background-color        : #2E3440;
   --default-background-color        : #2e3440cc;
   --default-background-color        : #272c36cc;
+  --default-background-color        : #20242c;
 
   --default-font-color              : #ECEFF4;
   --default-font-color              : #D8DEE9;
@@ -203,6 +209,14 @@ section.biblio {
 
 /* -------------------- COLUMNS -------------------------------*/
 
-section.columns p, ul, ol, li {
+section.columns ul, ol, li {
+
   color: var(--default-font-color);
+  font-family: 'Fira Sans', sans-serif !important;
+  font-weight: 100;
+}
+
+section.columns li {
+
+
 }

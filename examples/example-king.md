@@ -1,11 +1,12 @@
 ---
-title       : Example Slides for Themes Heidegger
+title       : Example Slides for Theme King
 author      : Paulo Cunha
-description : This is an example of how to use my themes.
-keywords    : Marp, Slides, Themes.
+description : This is an example of how to use my themes
+keywords    : Marp, Slides, Themes, Marpstyle
 marp        : true
 paginate    : true
 theme       : king
+
 --- 
    
 <style>   
@@ -39,7 +40,7 @@ theme       : king
 <!-- ![bg left:33%](https://media1.ledevoir.com/images_galerie/nwdp_433257_294533/image.jpg) -->
 <!-- ![bg left:33%](https://static.todamateria.com.br/upload/ma/rt/martinlutherking-cke.jpg) -->
 <!-- ![bg left:33%](https://fotografias.larazon.es/clipping/cmsimages01/2021/01/18/2CE8ABC5-1666-45AA-9EC4-FFA38926E12A/98.jpg?crop=1818,1023,x0,y209&width=1900&height=1069&optimize=low&format=webply) -->
-![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg)
+![bg left:33% brightness:0.9](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg)
 
 <div class="title"         > I Have a Dream Today                                  </div>
 <div class="subtitle"      > On the moral obligation to equality for all citizens  </div>
