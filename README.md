@@ -29,47 +29,44 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
 
  Here you´ll find examples of the available themes. Click on the picture to open a corresponding PDF example.
 
-- ### SOCRATES theme in honor of Σωκράτης (469–399 B.C.E.)
+### ![](img/marpstyle-ready.svg) In honor of Σωκράτης - Socrates (469–399 B.C.E.)
   [![](img/socrates.png)](examples/example-socrates.pdf)
 
-
-- ### PLATO theme in honor of Πλάτων (429?–347 B.C.E.)
+### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-- ### DESCARTES theme in honor of René Descartes (1596–1650) 
+### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
   [![Style: Leibniz](img/descartes.png)](examples/example-descartes.pdf)
 
-- ### LEIBNIZ theme in honor of Gottfried Wilhelm Leibniz (1646–1716) 
+### ![](img/marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-- ### KANT theme in honor of Immanuel Kant (1724–1804)
+### ![](img/marpstyle-ready.svg) In honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-- ### HEGEL theme in honor of Georg Wilhelm Friedrich Hegel (1770–1831)
+### ![](img/marpstyle-ready.svg)  In honor of Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-- ### FREUD theme in honor of Sigmund Freud (Sigismund Schlomo Freud) (1856-1939)
+### ![](img/marpstyle-ready.svg) In honor of Sigmund Freud (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-- ### HUSSERL theme in honor of Edmund Husserl (1859–1938) 
+### ![](img/marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
-- ### HEIDEGGER theme in honor of Martin Heidegger (1889–1976) 
+### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
-- ### GÖDEL theme in honor of Kurt Gödel (1906-1978) 
-  ![](img/marpstyle-brand-new.svg)
-  [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
+### ![](img/marpstyle-brand-new.svg) In honor of Kurt Gödel (1906-1978) 
+[![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
-- ### TURING theme in honor of Alan Turing (1912-1954) 
-  ![](img/marpstyle-brand-new.svg)
+### ![](img/marpstyle-brand-new.svg) In honor of Alan Turing (1912-1954) 
+  
   [![Style: Gödel](img/turing.png)](examples/example-turing.pdf)
 
-- ### KING theme in honor of Martin Luther King, JR. (1929-1968) 
-  ![](img/marpstyle-brand-new.svg)
+###  ![](img/marpstyle-brand-new.svg) In honor of Martin Luther King (1929-1968)
   [![Style: Gödel](img/king.png)](examples/example-king.pdf)
 
-- ### JOBS theme in honor of Steven Paul Jobs (1955–2011) 
+### ![](img/marpstyle-ready.svg) In honor of Steven Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
