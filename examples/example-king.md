@@ -43,7 +43,7 @@ theme       : king
 ![bg left:33% brightness:0.9](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg)
 
 <div class="title"         > I Have a Dream Today                                  </div>
-<div class="subtitle"      > On the moral obligation to equality for all citizens  </div>
+<div class="subtitle"      > On the moral obligation of equal rights for all citizens</div>
 <div class="author"        > Martin Luther King Jr.                                </div>
 <div class="date"          > Washington, D.C., August 28, 1963                     </div>
 <div class="organization"  > The March on Washington for Jobs and Freedom          </div>
@@ -54,7 +54,7 @@ theme       : king
 <!-- _class: titlepage -->
 
 #     I Have a Dream Today
-##    On the moral obligation to equality for all citizens
+##    On the moral obligation of equal rights for all citizens
 ###   Martin Luther King Jr. 
 ####  Washington, D.C., August 28, 1963
 ##### The March on Washington for Jobs and Freedom
