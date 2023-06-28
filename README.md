@@ -5,9 +5,9 @@ This set of styles (themes) were designed mainly concerning simplicity and beaut
 
 
 
-## Last update: 26.jun.2023 - What´s new? 
+## Last update: 28.jun.2023 - What´s new? 
 
-🆕 **Just arrived**! The **Kurt Gödel**, **Alan Turing** and **Martin Luther King** themes have just arrives! Enjoy!
+🆕 **Just arrived**! The **Kurt Gödel**, **Alan Turing** and **Martin Luther King** themes have just arrives! Enjoy! Theme **JOBS** updated!!!
 
 
 ## One Example of Marp slide creation with style!
@@ -63,7 +63,7 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
 ###  ![](img/marpstyle-brand-new.svg) In honor of Martin Luther King (1929-1968)
   [![Style: Gödel](img/king.png)](examples/example-king.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Steven Jobs (1955–2011) 
+### ![](img/marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
   [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
