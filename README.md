@@ -5,9 +5,9 @@ This set of styles (themes) were designed mainly concerning simplicity and beaut
 
 
 
-## Last update: 26.jun.2023 - What´s new? 
+## Last update: 28.jun.2023 - What´s new? 
 
-🆕 **Just arrived**! The **Kurt Gödel**, **Alan Turing** and **Martin Luther King** themes have just arrives! Enjoy!
+🆕 **Just arrived**! The **Kurt Gödel**, **Alan Turing** and **Martin Luther King** themes have just arrives! Enjoy! Theme **JOBS** updated!!!
 
 
 ## One Example of Marp slide creation with style!
