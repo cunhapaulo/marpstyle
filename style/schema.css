@@ -7,6 +7,9 @@
 /* -------------------- ROOT ----------------------------------*/
 :root {
     
+    /* --subtitle-color    : #586e75; */
+    --subtitle-color    : #93a1a1;
+
     --h1-color                  : black;
     --border-color              : #e99211;
     --bold-color                : orangered;
@@ -78,8 +81,7 @@ section.titlepage {
     --title-color       : #0a67f1;
     --title-color       : #002b36;
     
-    --subtitle-color    : #586e75;
-    --subtitle-color    : #93a1a1;
+
 
     --titlepage-color   : #242d31;
     --background-color  : #faf7f7;

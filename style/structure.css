@@ -160,14 +160,14 @@ section blockquote {
 }
 
 section blockquote p {
-  font-size: 1.12em !important; 
+  font-size: 1.12em !important;
   letter-spacing: -0.5px !important;
 }
 
 section blockquote strong {
   color: var(--blockquote-strong);
   font-weight: bold;
-  font-size: 1.11em !important; 
+  font-size: 1.11em !important;
   letter-spacing: -0.5px !important;
 }
 
@@ -189,15 +189,14 @@ section blockquote strong {
   font-size: 30px;
 }
 
-.columns ol,ul {
+.columns ol,
+ul {
   margin-top: 0.15em;
   margin-bottom: 0.25em;
   line-height: 1.73em !important;
   font-size: 28px;
   color: rgb(64, 70, 82);
 }
-
-
 
 /* ------------------- COLUMNS CENTER ---------------------*/
 /* 
@@ -213,7 +212,6 @@ section blockquote strong {
   align-items: center;
 }
 
-
 /* ------------------- THREE-COLUMNS -----------------------------*/
 /* 
   Adds three-columns class 
@@ -224,8 +222,6 @@ section blockquote strong {
   gap: 1rem;
   /* justify-content: center !important; */
 }
-
-
 
 /* ------------------- THREE-COLUMNS-CENTER ---------------------*/
 /* 
@@ -239,7 +235,6 @@ section blockquote strong {
   justify-content: center;
   align-items: center;
 }
-
 
 /* ------------------- TITLEPAGE -----------------------------*/
 /* 
@@ -270,26 +265,32 @@ section.titlepage .title {
   border-bottom: 1px solid var(--border-color);
   line-height: 1.25;
   padding-bottom: 15px;
-  padding-right: 10%;
+  /* padding-right: 10%; */
 }
+
 section.titlepage .subtitle {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
   line-height: 1.2;
+
   color: var(--subtitle-color);
   padding-top: 10px;
   padding-bottom: 120px;
   letter-spacing: var(--letter-spacing);
 }
+
 section.titlepage .author {
   font-size: var(--author-size);
 }
+
 section.titlepage .date {
   font-size: var(--date-size);
 }
+
 section.titlepage .organization {
   font-size: var(--institute-size);
 }
+
 section.titlepage .author,
 section.titlepage .date,
 section.titlepage .organization {
@@ -298,30 +299,31 @@ section.titlepage .organization {
   color: var(--titlepage-color);
   line-height: 1.25;
 }
+
 section.titlepage h3,
 section.titlepage h4,
 section.titlepage h5 {
   font-weight: 400;
-  text-align: right; 
+  text-align: right;
   color: var(--titlepage-color);
   line-height: 0;
   letter-spacing: var(--letter-spacing);
 }
 
 section.titlepage h1 {
-  font-size: var(--title-size);
-  font-weight: var(--title-font-weight);
+  font-size: var(--title-size) !important;
+  font-weight: var(--title-font-weight) !important;
   text-align: left;
-  color: var(--title-color);
-  border-bottom: 1px solid var(--border-color);
+  color: var(--title-color) !important;
+  border-bottom: 1px solid var(--border-color) !important;
   line-height: 1.25;
-  padding-right: 20%;
+  /* padding-right: 20%; */
 }
 section.titlepage h2 {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
   text-align: left;
-  color: var(--subtitle-color);
+  color: var(--subtitle-color) !important;
   letter-spacing: var(--letter-spacing);
   line-height: 1.2;
   margin-top: -0.2em;

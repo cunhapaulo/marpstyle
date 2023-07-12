@@ -6,21 +6,22 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./style/socrates.css"
-			"./style/plato.css"
 			"./style/descartes.css"
-			"./style/leibniz.css"
-			"./style/kant.css"
-			"./style/hegel.css"
+			"./style/einstein.css"
 			"./style/freud.css"
 			"./style/godel.css"
-			"./style/husserl.css"
+			"./style/hegel.css"
 			"./style/heidegger.css"
+			"./style/husserl.css"
 			"./style/jobs.css"
+			"./style/kant.css"
 			"./style/king.css"
-			"./style/turing.css"
+			"./style/leibniz.css"
+			"./style/plato.css"
 			"./style/schema.css"
+			"./style/socrates.css"
 			"./style/structure.css"
+			"./style/turing.css"
 		]
 	}
 }

@@ -5,9 +5,14 @@ This set of styles (themes) were designed mainly concerning simplicity and beaut
 
 
 
-## Last update: 28.jun.2023 - What´s new? 
+## Last update: 12.jul.2023 - What´s new? 
 
-🆕 **Just arrived**! The **Kurt Gödel**, **Alan Turing** and **Martin Luther King** themes have just arrives! Enjoy! Theme **JOBS** updated!!!
+- 🆕 **Just arrived**! Enjoy!
+  - **Albert Einstein**, 
+  - **Martin Luther King**, 
+  - **Kurt Gödel**, and 
+  - **Alan Turing**.  
+- 🆕 Theme **JOBS** updated!!!
 
 
 ## One Example of Marp slide creation with style!
@@ -50,6 +55,9 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
 ### ![](img/marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
+### ![](img/marpstyle-brand-new.svg)  In honor of Albert Einstein (1879–1955) 
+  [![Style: Husserl](img/einstein.png)](examples/example-einstein.pdf)
+
 ### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
@@ -91,21 +99,22 @@ Course you need `Marp` installed and operational. I created the available styles
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./style/socrates.css"
-			"./style/plato.css"
 			"./style/descartes.css"
-			"./style/leibniz.css"
-			"./style/kant.css"
-			"./style/hegel.css"
+			"./style/einstein.css"
 			"./style/freud.css"
-			"./style/husserl.css"
 			"./style/godel.css"
+			"./style/hegel.css"
 			"./style/heidegger.css"
-			"./style/turing.css"
-			"./style/king.css"
+			"./style/husserl.css"
 			"./style/jobs.css"
+			"./style/kant.css"
+			"./style/king.css"
+			"./style/leibniz.css"
+			"./style/plato.css"
 			"./style/schema.css"
+			"./style/socrates.css"
 			"./style/structure.css"
+			"./style/turing.css"
 		]
 	}
 }
@@ -124,6 +133,7 @@ You might as well use my themes directly from github using the url, just like de
 	"settings": {
 		"markdown.marp.themes": [
 			"https://cunhapaulo.github.io/style/descartes.css"
+			"https://cunhapaulo.github.io/style/einstein.css"
 			"https://cunhapaulo.github.io/style/freud.css"
 			"https://cunhapaulo.github.io/style/godel.css"
 			"https://cunhapaulo.github.io/style/hegel.css"
@@ -133,13 +143,11 @@ You might as well use my themes directly from github using the url, just like de
 			"https://cunhapaulo.github.io/style/kant.css"
 			"https://cunhapaulo.github.io/style/king.css"
 			"https://cunhapaulo.github.io/style/leibniz.css"
-			"https://cunhapaulo.github.io/style/orwell.css"
 			"https://cunhapaulo.github.io/style/plato.css"
 			"https://cunhapaulo.github.io/style/schema.css"
-			"https://cunhapaulo.github.io/style/simple.css"
 			"https://cunhapaulo.github.io/style/socrates.css"
-			"https://cunhapaulo.github.io/style/turing.css"
 			"https://cunhapaulo.github.io/style/structure.css"
+			"https://cunhapaulo.github.io/style/turing.css"
 		]
 	}
 }

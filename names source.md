@@ -15,23 +15,23 @@
 13. Gödel, Kurt (1906 - 1978)
 14. Turing, Alan (1912 - 1954)
 15. King, Martin Luther (1929 - 1968)
+16. Einstein, Albert
 
 # Prospective Names
 
-1.  Einstein, Albert
-2.  Adorno, Theodor
-3.  Aquinas, Thomas
-4.  Aristotle
-5.  Berkeley, George
-6.  Cantor, Georg
-7.  Copernico, Nicolau
-8.  Espinosa, Baruch
-9.  Frege, Gottlob
-10. Galileo Galilei
-11. Hume, David
-12. Locke, John
-13. Newton, Isaac
-14. Cassirer, Ernst
+1.  Adorno, Theodor
+2.  Aquinas, Thomas
+3.  Aristotle
+4.  Berkeley, George
+5.  Cantor, Georg
+6.  Copernico, Nicolau
+7.  Espinosa, Baruch
+8.  Frege, Gottlob
+9.  Galileo Galilei
+10. Hume, David
+11. Locke, John
+12. Newton, Isaac
+13. Cassirer, Ernst
 15. Kardec, Allan
 16. Gropius, Walter
 
