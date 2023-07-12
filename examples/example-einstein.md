@@ -37,7 +37,7 @@ theme       : einstein
 <!-- _class: titlepage -->
 ![bg left:33% brightness:0.9](../img/albert-einstein.jpg)
 
-<div class="title"         > Absolute only the speed of light                    </div>
+<div class="title"         > Absolute, only the speed of light                    </div>
 <div class="subtitle"      > General and Special Relativity in Physics           </div>
 <div class="author"        > Albert Einstein                                     </div>
 <div class="date"          > Bern, Schweiz, 1905 <small>(anno mirabilis)</small> </div>
