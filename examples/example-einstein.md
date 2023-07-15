@@ -133,7 +133,8 @@ When the neet to  make strong assertions becomes inevitable:
 > 
 ---         
      
-![bg blur:5px](https://photy.org/photos/blue-halftone-wide-photy.org.jpg)
+<!-- ![bg blur:5px](https://photy.org/photos/blue-halftone-wide-photy.org.jpg) -->
+![bg brightness:0.8 blur:5px](../img/bg01.jpg)
 
 
 # Is Algebraic Graph Knowledge **Possible**?
@@ -150,6 +151,31 @@ When the neet to  make strong assertions becomes inevitable:
 > 
 ---         
      
+     
+
+<!-- _backgroundColor: "rgb(0,29,49)" -->
+<!-- _backgroundColor: "#202537" -->
+<!-- _backgroundColor: "#222940" -->
+<!-- _backgroundColor: "#294074" -->
+<!-- _backgroundColor: "#28304E" -->
+<!-- _backgroundColor: "#294157" -->
+<!-- _backgroundColor: "#2E3E4D" -->
+     
+# Is Algebraic Graph Knowledge **Possible**?
+ 
+Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
+     
+- Model Cheking and theorem prooving are viable paths. 
+
+When the neet to  make strong assertions becomes inevitable:
+- This is the first way: **outstanding assertion**!   
+- Even greater impact comes from: _hilight text_!  
+   
+> ***Note**: This is a very long footnote line intended to test the layout of two. 
+> 
+---         
+
+
 <div class="columns">            
 <div> 
  

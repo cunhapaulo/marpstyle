@@ -41,9 +41,10 @@
 
   --default-background-color        : black;
   --default-background-color        : #42454b7c;
-  --default-background-color        : #2E3440;
   --default-background-color        : #2e3440cc;
+  --default-background-color        : rgb(22, 28, 43);
   --default-background-color        : #272c36cc;
+  --default-background-color        : #2E3440;
   --default-background-color        : #20242c;
 
   --default-font-color              : #ECEFF4;
@@ -90,6 +91,15 @@
 
 }
 
+/* -------------------- PRE -------------------------------*/
+
+:root pre {
+  color: rgb(33, 34, 34);
+  font-weight:800 ;
+  background-color: #e7eaee;
+}
+
+/* -------------------- STRONG -----------------------------*/
 
 section strong {
   color:rgb(211, 172, 43);
@@ -99,6 +109,7 @@ section strong {
   font-weight: 600;
 }
 
+/* -------------------- TABLE -------------------------------*/
 section table {
 
   color: #3B4252;
@@ -107,7 +118,7 @@ section table {
 
 section table th {
 
-  background-color: #81A1C1
+  background-color: #3e5d86
   ;
 
 }
