@@ -6,6 +6,7 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
+			"./style/arendt.css"
 			"./style/descartes.css"
 			"./style/einstein.css"
 			"./style/freud.css"
@@ -17,6 +18,7 @@
 			"./style/kant.css"
 			"./style/king.css"
 			"./style/leibniz.css"
+			"./style/orwell.css"
 			"./style/plato.css"
 			"./style/schema.css"
 			"./style/socrates.css"
