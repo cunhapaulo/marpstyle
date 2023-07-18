@@ -34,7 +34,6 @@ theme       : descartes
 
 <!-- _class: titlepage -->
 
-<!-- ![bg left:33%](https://recreio.uol.com.br/media/_versions/legacy/2020/04/06/pensadores-antigos-7-rene-descartes-1221481_widexl.png) -->
 ![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/SA_22659-Ren%C3%A9_Descartes_%281595-1650%29.jpg/733px-SA_22659-Ren%C3%A9_Descartes_%281595-1650%29.jpg)
 
 <div class="title"         > Meditationes de Prima Philosophia </div>
@@ -294,10 +293,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
  Transition Slide 2
     
----         
-<!--   
-############################### [ SECTION ] #################################### 
--->       
+---           
   
 <!-- _class: biblio -->  
 
@@ -313,10 +309,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
 
 --- 
-<!-- 
-############################### [ SECTION ] #################################### 
---> 
-    
+  
 <!-- _class: biblio -->
 
 # References 
