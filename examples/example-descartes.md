@@ -33,10 +33,9 @@ theme       : descartes
 
 
 <!-- _class: titlepage -->
-<!-- ![bg left:33% h:113%](https://prabook.com/web/show-photo.jpg?id=2773656&cache=false) -->
 
-![bg left:33%](https://recreio.uol.com.br/media/_versions/legacy/2020/04/06/pensadores-antigos-7-rene-descartes-1221481_widexl.png)
-<!-- ![bg left:33% h:100%](https://www.macworld.com/wp-content/uploads/2021/10/steve-jobs-2-1.jpg?quality=50&strip=all) -->
+<!-- ![bg left:33%](https://recreio.uol.com.br/media/_versions/legacy/2020/04/06/pensadores-antigos-7-rene-descartes-1221481_widexl.png) -->
+![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/SA_22659-Ren%C3%A9_Descartes_%281595-1650%29.jpg/733px-SA_22659-Ren%C3%A9_Descartes_%281595-1650%29.jpg)
 
 <div class="title"         > Meditationes de Prima Philosophia </div>
 <div class="subtitle"      > In qua Dei existentia et animæ immortalitas demonstratur  </div>
