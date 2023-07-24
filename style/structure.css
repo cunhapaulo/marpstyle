@@ -189,13 +189,12 @@ section blockquote strong {
   font-size: 30px;
 }
 
-.columns ol,
-ul {
+.columns ol, ul {
   margin-top: 0.15em;
   margin-bottom: 0.25em;
   line-height: 1.73em !important;
-  font-size: 28px;
-  color: rgb(64, 70, 82);
+  font-size: 26px;
+  color: var();
 }
 
 /* ------------------- COLUMNS CENTER ---------------------*/

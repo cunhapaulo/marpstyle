@@ -32,13 +32,13 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
  Here you´ll find examples of the available themes. Click on the picture to open a corresponding PDF example.
 
 ### ![](img/marpstyle-ready.svg) In honor of Σωκράτης - Socrates (469–399 B.C.E.)
-  [![](img/socrates.png)](examples/example-socrates.pdf)
+  [![Style: Socrates](img/socrates.png)](examples/example-socrates.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
-  [![Style: Leibniz](img/descartes.png)](examples/example-descartes.pdf)
+  [![Style: Descartes](img/descartes.png)](examples/example-descartes.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
@@ -56,7 +56,7 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
 ### ![](img/marpstyle-brand-new.svg)  In honor of Albert Einstein (1879–1955) 
-  [![Style: Husserl](img/einstein.png)](examples/example-einstein.pdf)
+  [![Style: Einstein](img/einstein.png)](examples/example-einstein.pdf)
 
 ### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
@@ -64,15 +64,17 @@ This slide deck was created to be used in a presentarion about Artifical INelig�
 ### ![](img/marpstyle-brand-new.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
+### ![](img/marpstyle-brand-new.svg) In honor of Hannah Arendt (1906-1975) 
+[![Style: Arendt](img/arendt.png)](examples/example-arendt.pdf)
+
 ### ![](img/marpstyle-brand-new.svg) In honor of Alan Turing (1912-1954) 
-  
-  [![Style: Gödel](img/turing.png)](examples/example-turing.pdf)
+[![Style: Turing](img/turing.png)](examples/example-turing.pdf)
 
 ###  ![](img/marpstyle-brand-new.svg) In honor of Martin Luther King (1929-1968)
-  [![Style: Gödel](img/king.png)](examples/example-king.pdf)
+  [![Style: King](img/king.png)](examples/example-king.pdf)
 
 ### ![](img/marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
-  [![Style: Freud](img/jobs.png)](examples/example-jobs.pdf)
+  [![Style: Jobs](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
 

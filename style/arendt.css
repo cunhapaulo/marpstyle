@@ -4,7 +4,8 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 01.jul.2023
+    last update: 24.jul.2023
+    last update: 24.jul.2023
   ============================================       
 */
 
@@ -38,19 +39,26 @@
   font-family: 'Fira Sans', sans-serif;
   font-weight: initial;
 
-  --default-background-color: #f5C325;
-  --default-font-color: #3e4342;
-  --default-list-font-color: #000000;
-  --cool-list-color: rgb(107, 130, 173);
+  --default-background-color: orange;
+  --default-background-color: #e0ac00;
+  --default-background-color: #e4d5a6;
+
+  --default-font-color: rgb(68, 52, 16);
+  --default-font-color: rgb(88, 18, 22);
+  --default-font-color: rgb(68, 19, 16);
+  
+  --default-list-font-color: #e0ac00;
+  --cool-list-color: rgb(245, 84, 21);
+  
   --bold-color: rgb(0, 85, 255);
-  
-  
-  
-  --default-header-font-color: rgb(39, 37, 37);  
-  --default-header-bold-font-color: rgb(194, 16, 16);
-  --default-strong-font-color: rgb(230, 52, 52);
-  --italic-background-color: rgb(255, 72, 0);
-  --default-border-color: 2px solid rgb(247, 7, 7);
+    
+  --default-header-font-color: rgb(22, 22, 22);  
+  --subtitle-color: rgb(12, 55, 75);  
+  --letter-spacing: -0.6px !important;
+  --default-header-bold-font-color: rgb(228, 5, 5);
+  --default-strong-font-color: rgb(255, 38, 0);
+  --italic-background-color: orangered;
+  --default-border-color: 2px solid rgb(211, 34, 11);
   
   background-color: var(--default-background-color);
   color: var(--default-font-color);
@@ -73,7 +81,6 @@
   letter-spacing: -0.2px;
   font-weight: 600 !important;
 
-  color: var(--default-list-font-color) !important;
 }
 
 :root h1,
@@ -144,7 +151,7 @@ section.titlepage .title {
 }
 
 section.titlepage h1 {
-  border-bottom: var(--default-border-color);
+  border-bottom: var(--default-border-color) !important;
   color: var(--default-font-color);
 }
 

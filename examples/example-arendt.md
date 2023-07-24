@@ -1,8 +1,8 @@
 ---
-title       : Example Slides for Theme Einstein
+title       : Elemente und Ursprünge totaler Herrschaft
 author      : Paulo Cunha
 description : This is an example of how to use my themes
-keywords    : Marp, Slides, Themes, Marpstyle, Einstein, Bern
+keywords    : Marp, Slides, Themes, Marpstyle, Hannah Arendt
 marp        : true
 paginate    : true
 theme       : arendt
@@ -37,11 +37,11 @@ theme       : arendt
 <!-- _class: titlepage -->
 ![bg grayscale:1 left:33% brightness:0.8 contrast:1.8](../img/hannah_arendt.jpg)
 
-<div class="title"         > Absolute, only the speed of light                    </div>
-<div class="subtitle"      > General and Special Relativity in Physics           </div>
-<div class="author"        > Albert Einstein                                     </div>
-<div class="date"          > Bern, Schweiz, 1905 <small>(anno mirabilis)</small> </div>
-<div class="organization"  > Eidgenössisches Amt für Geistiges Eigentum          </div>
+<div class="title"         > Elemente und Ursprünge totaler Herrschaft        </div>
+<div class="subtitle"      > Antisemitismus, Imperialismus, totale Herrschaft </div>
+<div class="author"        > Hannah Arendt                                    </div>
+<div class="date"          > New York, 1951                                   </div>
+<div class="organization"  > The New School for Social Research               </div>
 
 
 ---
@@ -49,11 +49,11 @@ theme       : arendt
 
 <!-- _class: titlepage -->
 
-#     Absolute, only the speed of light
-##    General and Special Relativity in Physics
-###   Albert Einstein 
-####  Bern, Schweiz, 1905 <small>(anno mirabilis)</small>
-##### Eidgenössisches Amt für Geistiges Eigentum
+#     Elemente und Ursprünge totaler Herrschaft
+##    Antisemitismus, Imperialismus, totale Herrschaft
+###   Hannah Arendt 
+####  New York, 1951 
+##### The New School for Social Research
 
 ---
 
@@ -61,12 +61,7 @@ theme       : arendt
 ![bg](../img/einstein-haus-bern.jpg)
 
 ---
-<!-- _backgroundColor:  #460713
- -->
 
-![bg w:100%](../img/einstein-haus-sign.jpg)
-
----
 
 # Normal Slide
 
@@ -74,13 +69,6 @@ Common texts
 
 ---
 
-![bg blur:8px grayscale:1 brightness:0.8](https://cdn.gamma.app/theme_images/gamma/gamma-15_bcdb1f14.jpg)
-
-# Normal Slide
-
-Common texts
-
----
 # Lists
 
 <div class="columns">
@@ -198,7 +186,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 </figcaption>
 
 ---
-![bg opacity:0.2 blur:5px](https://i0.wp.com/jornal.usp.br/wp-content/uploads/20170323_00_olhar-cientifico.jpg?resize=768%2C403&ssl=1)
+![bg opacity:0.2 blur:3px](https://diplomatique.org.br/wp-content/uploads/2021/06/hannah-arendt-768x766.jpg)
 
 # LaTeX Equations
 
@@ -300,7 +288,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 ## Kant, Leibniz & Newton
  
-- That philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant; but a more precise determination of the structure of this linkage is required. 
+- That philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant. 
 
 This addresses the transformations of metaphysics as a discipline, the emergence of analytical mechanics, the diverging avenues of 18th-century Newtonianism, the body-mind problem, and philosophical principles of classification in the life sciences.
 
@@ -327,30 +315,34 @@ This addresses the transformations of metaphysics as a discipline, the emergence
  <!-- _class: cite -->        
 
 
-"There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
+"Die Vorstellung, dass es **gefährliche** Gedanken gibt, ist aus dem einfachen Grund falsch, weil das **Denken selbst** für alle Glaubensrichtungen, Überzeugungen und Meinungen gefährlich ist."
+<br>
+<div align="right">
+Hannah Arendt, Vom Leben des Geistes.<br> Das Denken, Band 1 , Piper, München/Zürich 1979.
+</div>
+
 
 --- 
   
 <!-- _class: cite -->
-![bg opacity:.3 blur:8.0px  ](https://www.altoastral.com.br/media/uploads/legacy/2016/07/Albert_Einstein-Wikimedia_Commons.jpg)
+![bg opacity:.3](https://play-lh.googleusercontent.com/proxy/21Yqa1TYGk_j1wOZos0uh6hCedl11bBxGdOF-ZERgsQzGSHfKt40MPrLuBvRQWKP9xo2YUxiRmUg-NxufeoAo7MctHsVDkf8wV8_foGojzQwqHv-CnvBReFlvQ=s1920-w1920-h1080)
 
  
-<div class="cite-author" data-text="Mona Batra">
+<div class="cite-author" data-text=" Das Denken, Band 1 , Piper, München/Zürich 1979">
 
-   "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
-
+   "Die Vorstellung, dass es **gefährliche** Gedanken gibt, ist aus dem einfachen Grund falsch, weil das **Denken selbst** für alle Glaubensrichtungen, Überzeugungen und Meinungen gefährlich ist."
 </div>
      
 ---
 <!-- _class: transition -->  
-![bg brightness:0.9 opacity:.2](../img/albert-einstein.jpg)
+![bg brightness:0.9 opacity:.2](https://diplomatique.org.br/wp-content/uploads/2021/06/hannah-arendt-768x766.jpg)
 
 
  Transition Slide 1<br> _Aditional_ **Text**
     
 ---         
 <!-- _class: transition2 -->  
-![bg opacity:.17 blur:2.0px](https://blog.insiderstore.com.br/wp-content/uploads/2021/02/descobertas-de-albert-einstein-destaque-2048x1536.webp)
+![bg opacity:.17 blur:2.0px](https://assets.deutschlandfunk.de/FILE_2dfb7df9c13e03b9194c4ed9a18b03ae/1920x1080.jpg?t=1597512597433)
 
 
  Transition Slide 2<br> _Aditional_ **Text**
