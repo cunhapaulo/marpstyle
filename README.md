@@ -101,6 +101,7 @@ Course you need `Marp` installed and operational. I created the available styles
 	],
 	"settings": {
 		"markdown.marp.themes": [
+			"./style/arendt.css"
 			"./style/descartes.css"
 			"./style/einstein.css"
 			"./style/freud.css"
@@ -134,6 +135,7 @@ You might as well use my themes directly from github using the url, just like de
 	],
 	"settings": {
 		"markdown.marp.themes": [
+			"https://cunhapaulo.github.io/style/arendt.css"
 			"https://cunhapaulo.github.io/style/descartes.css"
 			"https://cunhapaulo.github.io/style/einstein.css"
 			"https://cunhapaulo.github.io/style/freud.css"
