@@ -5,9 +5,10 @@ This set of styles (themes) were designed mainly concerning simplicity and beaut
 
 
 
-## Last update: 12.jul.2023 - What´s new? 
+## Last update: 20.jul.2023 - What´s new? 
 
 - 🆕 **Just arrived**! Enjoy!
+  - **Hannah Arendt** 	
   - **Albert Einstein**, 
   - **Martin Luther King**, 
   - **Kurt Gödel**, and 
