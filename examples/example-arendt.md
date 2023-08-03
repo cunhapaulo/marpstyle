@@ -45,7 +45,8 @@ theme       : arendt
 
 
 ---
-![bg right:33% brightness:1.1](../img/hannah_arendt2.jpg)
+<!-- ![bg right:33% brightness:1.1](../img/hannah_arendt2.jpg) -->
+![bg right:33% brightness:1.1](https://diplomatique.org.br/wp-content/uploads/2021/06/hannah-arendt.jpg)
 
 <!-- _class: titlepage -->
 
