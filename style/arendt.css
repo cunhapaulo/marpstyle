@@ -39,8 +39,6 @@
   font-family: 'Fira Sans', sans-serif;
   font-weight: initial;
 
-  --default-background-color: orange;
-  --default-background-color: #e0ac00;
   --default-background-color: #e4d5a6;
 
   --default-font-color: rgb(68, 52, 16);
@@ -48,7 +46,7 @@
   --default-font-color: rgb(68, 19, 16);
   
   --default-list-font-color: #e0ac00;
-  --cool-list-color: rgb(245, 84, 21);
+  --cool-list-color: rgb(255, 31, 1);
   
   --bold-color: rgb(0, 85, 255);
     

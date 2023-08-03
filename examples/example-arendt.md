@@ -45,7 +45,7 @@ theme       : arendt
 
 
 ---
-![bg right:33% brightness:1.1](../img/hannah_arendt2.jpg)
+![bg right:33% brightness:1.1](../img/hannah-arendt3.jpg)
 
 <!-- _class: titlepage -->
 
@@ -56,12 +56,6 @@ theme       : arendt
 ##### The New School for Social Research
 
 ---
-
-
-![bg](../img/einstein-haus-bern.jpg)
-
----
-
 
 # Normal Slide
 
@@ -186,7 +180,8 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 </figcaption>
 
 ---
-![bg opacity:0.2 blur:3px](https://diplomatique.org.br/wp-content/uploads/2021/06/hannah-arendt-768x766.jpg)
+
+![bg opacity:0.2 blur:4px](h../img/../../../img/hannah_arendt2.jpg)
 
 # LaTeX Equations
 
@@ -318,9 +313,8 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 "Die Vorstellung, dass es **gefährliche** Gedanken gibt, ist aus dem einfachen Grund falsch, weil das **Denken selbst** für alle Glaubensrichtungen, Überzeugungen und Meinungen gefährlich ist."
 <br>
 <div align="right">
-Hannah Arendt, Vom Leben des Geistes.<br> Das Denken, Band 1 , Piper, München/Zürich 1979.
+Hannah Arendt, Vom Leben des Geistes. <br> Das Denken, Band 1 , Piper, <br> München/Zürich 1979.
 </div>
-
 
 --- 
   
@@ -352,7 +346,7 @@ Hannah Arendt, Vom Leben des Geistes.<br> Das Denken, Band 1 , Piper, München/Z
 
 THANK YOU!
 
-![bg opacity:.85](https://i.ytimg.com/vi/GMfYG6RJ-jk/maxresdefault.jpg)
+![bg opacity:50%](https://www.revistabula.com/wp/wp-content/uploads/2019/10/Hannah-Arendt-1-610x350.jpg.webp)
 
 ---
 
