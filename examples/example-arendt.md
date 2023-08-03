@@ -45,6 +45,7 @@ theme       : arendt
 
 
 ---
+
 ![bg right:33% brightness:1.1](../img/hannah-arendt3.jpg)
 
 <!-- _class: titlepage -->
