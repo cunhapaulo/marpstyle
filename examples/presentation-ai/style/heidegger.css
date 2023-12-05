@@ -1,0 +1,148 @@
+/* @theme heidegger */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 30.dez.2021
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  font-family: "Fira Sans Light";
+  /* font-family: Cochin, Georgia; */
+  font-weight: initial;
+  
+  color: #030303;
+  
+  background-color            : #f5eee6;
+  background-color            : #d9dee6;
+  background-color            : #727d8b;
+  background-color            : #435160; 
+  background-color            : #dedfde;
+  background-color            : #FFCC00;
+  background-color            : #f7a600;
+  background-color            : #f8b632;
+  background-color            : #fbc30a;
+  
+  --h1-color                  : #33404d;
+  --h1-color                  : #a57825;
+  --h1-color                  : #386b2b;
+  --h1-color                  : #1f1e1c;
+  
+  
+  --border-color              : #014385;
+
+  --bold-color                : rgb(247, 247, 248);
+  --bold-color                : red;
+
+  --italic-color              : rgb(18, 19, 22);
+  --italic-background-color   : rgba(211, 76, 13, 0.713);
+
+  /* --background-color          : #fdf6e3; */
+  --list-item-color           : rgb(255, 212, 95);
+  --after-color               : rgb(201, 198, 198);
+
+  --table-font-color          : black;
+  --table-header-color        : rgb(0, 132, 255);
+  
+  --main-color                : rgb(207, 77, 17);
+  --darker-color              : #246;
+  --lighter-color             : #080a0a;
+  --extra-back-color          : rgb(71, 69, 69);
+
+  --letter-spacing            : 0.125px;
+
+  --cool-list-color           : rgb(255, 68, 0);
+
+  --author-align              : right;
+
+
+}
+
+:root h1 {
+  color: #d9dee6;
+  background-color: #080a0a;
+  padding-top: 10pt;
+  padding-left: 60pt;
+
+  margin-left: -60pt;
+  margin-right: -60pt;
+}
+
+:root h1 strong {
+  color: rgb(255, 52, 52);
+}
+
+/* ------------------- TITLEPAGE -----------------------------*/
+
+section.titlepage .title strong {
+  color: rgb(255, 52, 52);
+}
+
+section.titlepage .title {
+  border-bottom: 1px solid orangered;
+}
+
+
+section.titlepage .subtitle {
+  font-weight: 300;
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
+
+section.titlepage h1 {
+  border-bottom: 1px solid orangered;
+  color: #00254b;
+  background-color: initial;
+ 
+  padding-top: 0pt;
+  padding-left: 0pt;
+
+  margin-left: 0pt;
+  margin-right: 0pt;
+}
+
+section.titlepage h2 {
+  font-weight: 300;
+}
+
+section.titlepage h3,
+section.titlepage h4,
+section.titlepage h5 {
+  text-align: right;
+}
+
+/* -------------------- TRANSITION ---------------------------------*/
+section.transition {
+  --transitionpage-color: #341e72;
+  --transitionpage-color: rgb(207, 24, 24);
+  font-weight: bold;
+  text-shadow: 4px 4px 0 rgb(53, 38, 38);
+}
+
+/* ------------------- CITE -----------------------------*/
+section.cite {
+  --background-color: #49454f;
+  --strong-color: rgb(182, 112, 27);
+}
+
+section.cite p {
+  color: #fffbfe;
+}
+
+section.cite strong {
+  color: #f87ca1;
+}

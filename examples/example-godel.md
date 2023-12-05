@@ -82,7 +82,7 @@ theme       : godel
             
 ---        
      
-# Is Algebraic Graph Knowledge **Possible**?
+# Is Algebraic Graph Knowledge a **Possibility**?
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      

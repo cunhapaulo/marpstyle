@@ -1,0 +1,54 @@
+/* @theme plato */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 30.dez.2021
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  font-family: 'Fira Sans Light';
+  font-weight: initial;
+  --italic-background-color   : rgba(214, 25, 66, 0.144);
+  --italic-background-color   : rgba(255, 86, 8, 0.185);
+
+}
+
+section.titlepage .title {
+  border-bottom: 1px solid orangered;
+}
+
+section.cite {
+  --strong-color        : rgba(255, 5, 5, 0.795);
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
+
+section strong {
+  color:rgba(5, 51, 255, 0.534) ;
+  color:rgba(5, 43, 255, 0.979) ;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-weight: 600;
+}
+
+section.transition2 strong {
+
+  color: rgb(10, 100, 235);
+  color: rgb(161, 240, 3);
+
+}

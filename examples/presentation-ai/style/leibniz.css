@@ -1,0 +1,66 @@
+/* @theme leibniz */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 30.dez.2021
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  /* font-family: Georgia, Serif; */
+  font-family: Cochin, Georgia, Times, 'Times New Roman';
+  font-weight: initial;
+  --bold-color                : blue;
+}
+
+h1 {
+  color: var(--h1-color);
+  font-weight: var(--title-font-weight);
+  border-bottom: 1px solid var(--border-color);
+}
+
+table {
+  font-family: sans-serif;
+  /* empty-cells: hide; */
+}
+
+section.titlepage {
+    
+  /* fonts sizes */
+  --title-size            : 150%;
+  --subtitle-size         : 110%;
+  --author-size           : 105%;
+  --date-size             : 105%;
+  --institute-size        : 90%;
+
+  --letter-spacing        : 0.125px;
+
+  /* font weights */
+  --title-font-weight     : 300;
+  --subtitle-font-weight  : 300;
+  
+}
+
+section.biblio p {
+  color: var(--text-color);
+  font-size: 80%;
+  font-weight: 300;
+  padding-left: 5px;
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}

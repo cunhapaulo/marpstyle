@@ -1,0 +1,135 @@
+/* @theme husserl */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 08.nov.2022
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  font-family: 'Fira Sans Light';
+  font-weight: initial;
+  --italic-background-color   : rgba(8, 206, 255, 0.3);
+  --italic-background-color   : rgba(214, 25, 66, 0.144);
+  --italic-background-color   : rgba(122, 191, 252, 0.839);    
+  --italic-background-color   : rgba(8, 140, 255, 0.236);    
+  /* background-color: rgb(205, 203, 216);  */
+  background-color: rgb(219, 223, 227); 
+}
+
+
+h1 {
+  font-family: 'Montserrat Alternates';
+  font-family: 'Raleway';
+  font-family: 'Fira Sans Light';
+  font-family: 'Lora';
+
+
+  font-weight: 600;
+  letter-spacing: -1.25px;
+  color:rgb(11, 37, 69);
+  color:rgb(23, 86, 118);
+  color:rgb(53, 80, 112);
+  padding-bottom: 2mm;
+  margin-bottom: 9mm;
+}
+
+h2 {
+  font-family: 'Lora';
+  font-family: 'Montserrat Alternates';
+  font-family: 'Fira Sans Light';
+  font-family: 'Raleway';
+
+  font-weight: 700;
+  letter-spacing: -1.25px;
+  color:rgb(11, 37, 69);
+  color:rgb(23, 86, 118);
+  color:rgb(53, 80, 112);
+  color:rgb(39, 89, 149);
+  padding-bottom: 2mm;
+  margin-bottom: 2mm;
+}
+
+p {
+  font-family: 'Lora';
+  font-size: 26pt;
+  font-size: 115%;
+  font-weight: 600;
+  color:rgba(78, 78, 80, 0.814);
+  color:rgba(0, 0, 0, 0.814);
+  letter-spacing: -0.75px;
+}
+
+section strong {
+  color:rgb(141, 169, 196) ;
+  color:rgba(23, 86, 118) ;
+  color:rgb(229, 107, 111) ;
+  color:rgb(181, 101, 118) ;
+  color:rgb(186, 50, 79) ;
+  padding-left: 0.5px;
+  padding-right: 0.5px;
+  font-weight: 600;
+}
+
+section.cite {
+  --strong-color        : rgba(255, 5, 5, 0.795);
+}
+
+section.cite p {
+  font-family: 'Lora';
+  letter-spacing: -0.5px;
+  font-style: italic;
+}
+
+section.titlepage .title, 
+section.titlepage h1 {
+  font-family: 'Lora';
+  border-bottom: 1px solid orangered;
+  padding-right     : 0px;
+  letter-spacing: -.85px;
+}
+
+section.titlepage .subtitle, 
+section.titlepage h2 {
+  font-family: 'Lora';
+  font-weight: 100;
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  font-family: 'Lora';
+  font-weight: 100;
+  text-align: left;
+}  
+
+section.titlepage h3, 
+section.titlepage h4, 
+section.titlepage h5 {
+  font-family: 'Lora';
+  font-weight: 100;
+}
+
+section.transition p {
+  font-family: 'Fira Sans Light';
+  font-weight: 600;
+}
+
+section.transition2 p {
+  font-family: 'Fira Sans Light';
+  font-weight: 600;
+}
+
+section.biblio {
+  background-color: rgb(26, 75, 113);
+}
