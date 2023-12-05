@@ -20,7 +20,8 @@ This set of styles (themes) were designed mainly concerning simplicity and beaut
 This slide deck was created to be used in a presentarion about Artifical INeligênce. It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
 [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
-[Link for the presentation](https://cunhapaulo.github.io/ai/)
+- [Link for the presentation](https://cunhapaulo.github.io/ai/)
+- [Source code used in this presentation](examples/presentation-ai/)
 
 ## What is Marp?
 
