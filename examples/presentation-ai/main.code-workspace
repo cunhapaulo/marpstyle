@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"./style/socrates.css",
+			"./style/plato.css",
+			"./style/leibniz.css",
+			"./style/kant.css",
+			"./style/descartes.css",
+			"./style/hegel.css",
+			"./style/freud.css",
+			"./style/husserl.css",
+			"./style/heidegger.css",
+			"./style/jobs.css",
+			"./style/schema.css",
+			"./style/orwell.css",
+			"./style/structure.css",
+		]
+	}
+}
