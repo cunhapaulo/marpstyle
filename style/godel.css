@@ -29,11 +29,11 @@
   --bold-color                : rgb(71, 107, 184);
   
   font-weight: initial;
-  --italic-background-color   : rgba(214, 25, 66, 0.144);
-  --italic-background-color   : rgba(255, 86, 8, 0.185);
-  --italic-background-color   : rgba(25, 171, 255, 0.295);
   --italic-background-color   : rgba(96, 204, 247, 0.63);
-
+  --italic-background-color   : rgba(25, 171, 255, 0.295);
+  --italic-background-color   : rgba(214, 25, 66, 0.144);
+  --italic-background-color   : rgba(238, 194, 159, 0.616);
+  
   --cool-list-color           : rgb(135, 157, 179);
 
 
