@@ -103,23 +103,23 @@ Course you need `Marp` installed and operational. I created the available styles
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./style/arendt.css"
-			"./style/descartes.css"
-			"./style/einstein.css"
-			"./style/freud.css"
-			"./style/godel.css"
-			"./style/hegel.css"
-			"./style/heidegger.css"
-			"./style/husserl.css"
-			"./style/jobs.css"
-			"./style/kant.css"
-			"./style/king.css"
-			"./style/leibniz.css"
-			"./style/plato.css"
-			"./style/schema.css"
-			"./style/socrates.css"
-			"./style/structure.css"
-			"./style/turing.css"
+			"./style/arendt.css",
+			"./style/descartes.css",
+			"./style/einstein.css",
+			"./style/freud.css",
+			"./style/godel.css",
+			"./style/hegel.css",
+			"./style/heidegger.css",
+			"./style/husserl.css",
+			"./style/jobs.css",
+			"./style/kant.css",
+			"./style/king.css",
+			"./style/leibniz.css",
+			"./style/plato.css",
+			"./style/schema.css",
+			"./style/socrates.css",
+			"./style/structure.css",
+			"./style/turing.css",
 		]
 	}
 }
@@ -137,23 +137,23 @@ You might as well use my themes directly from github using the url, just like de
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"https://cunhapaulo.github.io/style/arendt.css"
-			"https://cunhapaulo.github.io/style/descartes.css"
-			"https://cunhapaulo.github.io/style/einstein.css"
-			"https://cunhapaulo.github.io/style/freud.css"
-			"https://cunhapaulo.github.io/style/godel.css"
-			"https://cunhapaulo.github.io/style/hegel.css"
-			"https://cunhapaulo.github.io/style/heidegger.css"
-			"https://cunhapaulo.github.io/style/husserl.css"
-			"https://cunhapaulo.github.io/style/jobs.css"
-			"https://cunhapaulo.github.io/style/kant.css"
-			"https://cunhapaulo.github.io/style/king.css"
-			"https://cunhapaulo.github.io/style/leibniz.css"
-			"https://cunhapaulo.github.io/style/plato.css"
-			"https://cunhapaulo.github.io/style/schema.css"
-			"https://cunhapaulo.github.io/style/socrates.css"
-			"https://cunhapaulo.github.io/style/structure.css"
-			"https://cunhapaulo.github.io/style/turing.css"
+			"https://cunhapaulo.github.io/style/arendt.css",
+			"https://cunhapaulo.github.io/style/descartes.css",
+			"https://cunhapaulo.github.io/style/einstein.css",
+			"https://cunhapaulo.github.io/style/freud.css",
+			"https://cunhapaulo.github.io/style/godel.css",
+			"https://cunhapaulo.github.io/style/hegel.css",
+			"https://cunhapaulo.github.io/style/heidegger.css",
+			"https://cunhapaulo.github.io/style/husserl.css",
+			"https://cunhapaulo.github.io/style/jobs.css",
+			"https://cunhapaulo.github.io/style/kant.css",
+			"https://cunhapaulo.github.io/style/king.css",
+			"https://cunhapaulo.github.io/style/leibniz.css",
+			"https://cunhapaulo.github.io/style/plato.css",
+			"https://cunhapaulo.github.io/style/schema.css",
+			"https://cunhapaulo.github.io/style/socrates.css",
+			"https://cunhapaulo.github.io/style/structure.css",
+			"https://cunhapaulo.github.io/style/turing.css",
 		]
 	}
 }
