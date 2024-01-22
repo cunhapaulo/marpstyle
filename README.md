@@ -200,3 +200,4 @@ In the first editions of Marpstyle, it was necessary to download and install som
 
 - **Plato** theme was inspired by [Metropolis Beamer Theme](https://github.com/matze/mtheme) for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
 - Used some parts of [Juan Vera del Campo](https://github.com/Juanvvc) CSS styles. Gracias!
+- Special thanks go to the [CDN Fonts](https://www.cdnfonts.com/) website, wherefrom those fantastic fonts are downloaded!
