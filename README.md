@@ -19,7 +19,10 @@ More styles will be released soon.  Stay tuned for more `Marpstyle Themes`!
 
 
 ## One Example of Marp slide creation with style!
+
 This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
+
+![](img/marpstyle-updated.svg) Academic presentation on philosophical aspects of Artificial Intelligence (AI):
 
 [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
 - [Link for the presentation](https://cunhapaulo.github.io/ai/)
@@ -68,13 +71,13 @@ This slide deck was created for a presentarion about Artifical Inteligence (AI).
 ### ![](img/marpstyle-brand-new.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
-### ![](img/marpstyle-brand-new.svg) In honor of Hannah Arendt (1906-1975) 
+### ![](img/marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
 [![Style: Arendt](img/arendt.png)](examples/example-arendt.pdf)
 
 ### ![](img/marpstyle-brand-new.svg) In honor of Alan Turing (1912-1954) 
 [![Style: Turing](img/turing.png)](examples/example-turing.pdf)
 
-###  ![](img/marpstyle-brand-new.svg) In honor of Martin Luther King (1929-1968)
+###  ![](img/marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
   [![Style: King](img/king.png)](examples/example-king.pdf)
 
 ### ![](img/marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
