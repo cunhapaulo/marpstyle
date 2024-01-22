@@ -17,19 +17,16 @@
 /* Importing Font */
 /* Font Credit: htts://https://www.cdnfonts.com/ */
 
-/* @import url('https://fonts.cdnfonts.com/css/frutiger'); */
-@import url('https://fonts.cdnfonts.com/css/frutiger?styles=28198');
-@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
-/* @import url('//db.onlinewebfonts.com/c/f1a677718a78c8b8b878544c48985b92?family=FrutigerNextW04-Regular'); */
-
+/* @import url('https://fonts.cdnfonts.com/css/frutiger?styles=28198'); */
+@import url('https://fonts.cdnfonts.com/css/noto-sans-display-2');
 
 /* -------------------- ROOT -------------------------------*/
 
 :root {
   
   /* font-family: 'Fira Sans Condensed', sans-serif; */
-  font-family: "FrutigerNextW04-Regular", sans-serif;
-  font-family: 'Frutiger', sans-serif;
+  /* font-family: "FrutigerNextW04-Regular", sans-serif; */
+  font-family: "Noto Sans Display";
   
   font-weight: initial;
   

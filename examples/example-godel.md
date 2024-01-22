@@ -8,6 +8,7 @@ paginate    : true
 theme       : godel
 --- 
    
+   
 <style>   
 
    .cite-author {     
