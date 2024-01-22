@@ -1,10 +1,9 @@
 # MARP Themes - `marpstyle` ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
-Marp Themes was created with beauty and simplicity as its main concerns, while taking functionality into account. <br> 
-This set of styles (themes) was designed primarily with simplicity and beauty as first-class prerequisites. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. <br> 
-I sincerely hope you like it and that it's as useful to as many users as it was to me. <br><br>
+Marp Themes was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. 
+I sincerely hope you like it and that it comes to be as useful to as many users as it has been to me. <br><br>
 
-More styles will be released soon. <br> Stay tuned for more `Marpstyle Themes`! 
+More styles will be released soon.  Stay tuned for more `Marpstyle Themes`! 
 
 
 
@@ -200,4 +199,4 @@ In the first editions of Marpstyle, it was necessary to download and install som
 
 - **Plato** theme was inspired by [Metropolis Beamer Theme](https://github.com/matze/mtheme) for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
 - Used some parts of [Juan Vera del Campo](https://github.com/Juanvvc) CSS styles. Gracias!
-- Special thanks go to the [CDN Fonts](https://www.cdnfonts.com/) website, wherefrom those fantastic fonts are downloaded!
+- Special thanks go to the creators of [CDN Fonts](https://www.cdnfonts.com/) website, wherefrom those fantastic fonts are downloaded!
