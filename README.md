@@ -1,7 +1,10 @@
 # MARP Themes - `marpstyle` ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
 
-Marp Themes has been created with beauty and simplicity as first concerns, bearing funtionality in mimd.<br>
-This set of styles (themes) were designed mainly concerning simplicity and beauty as first class prerequisites. Back in 2021, as the first theme `plato.css` got ready, I decided to share it here at Github. <br> I do sincerely hope you enjoy it and that it comes to be useful to as many users as it has been to me. <br> <br> More styles are due to come in a timely fashion. <br> Stay tuned for more `Marpstyle Themes`! 
+Marp Themes was created with beauty and simplicity as its main concerns, while taking functionality into account. <br> 
+This set of styles (themes) was designed primarily with simplicity and beauty as first-class prerequisites. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. <br> 
+I sincerely hope you like it and that it's as useful to as many users as it was to me. <br><br>
+
+More styles will be released soon. <br> Stay tuned for more `Marpstyle Themes`! 
 
 
 
@@ -17,7 +20,7 @@ This set of styles (themes) were designed mainly concerning simplicity and beaut
 
 
 ## One Example of Marp slide creation with style!
-This slide deck was created to be used in a presentarion about Artifical INeligênce. It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
+This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
 [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
 - [Link for the presentation](https://cunhapaulo.github.io/ai/)
@@ -163,7 +166,7 @@ You might as well use my themes directly from github using the url, just like de
 
 # Typefaces (TTF Fonts)
 
-In the first editions of Marpstyçe some of the used fonts were required to be downloaded and installed. Now it is not necessary anymore since they are automaticaly downloaded from a site. Eventhough I kept here the reference and sites wherefrom those fonts could be downloade and locally installed. See below:
+In the first editions of Marpstyle, it was necessary to download and install some of the fonts used. Now this is no longer necessary, as they are automatically downloaded from a website. Even so, I've kept here the reference and the sites from which these fonts can be downloaded and installed locally. See below:
 
 - ## Socrates Theme:
   
