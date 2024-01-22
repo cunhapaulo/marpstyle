@@ -35,7 +35,7 @@ theme       : heidegger
 <!-- _class: titlepage -->
 <!-- ![bg left:33% h:113%](https://prabook.com/web/show-photo.jpg?id=2773656&cache=false) -->
 
-![bg left:33% h:113%](https://anglican.ink/wp-content/uploads/2015/03/field_image_Martin-Heidegger-696x829.jpg)
+![bg left:33% h:100%](https://s3.amazonaws.com/assets.pippa.io/shows/5e88c44085a6e1b14cdd31f8/1621372371899-4f2b816ec577eaafeb8d1f042741e1d5.jpeg)
 
 
 <div class="title"         > Sein und Zeit </div>

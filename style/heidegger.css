@@ -16,8 +16,17 @@
 
 /***************** COMMON STRUCTURE **********************/
 
+/* Importing Font */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed');
+
+
 :root {
   font-family: "Fira Sans Light";
+  font-family: 'Fira Sans Condensed', sans-serif;
+
   /* font-family: Cochin, Georgia; */
   font-weight: initial;
   
@@ -29,9 +38,9 @@
   background-color            : #435160; 
   background-color            : #dedfde;
   background-color            : #FFCC00;
+  background-color            : #fbc30a;
   background-color            : #f7a600;
   background-color            : #f8b632;
-  background-color            : #fbc30a;
   
   --h1-color                  : #33404d;
   --h1-color                  : #a57825;

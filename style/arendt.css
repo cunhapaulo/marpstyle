@@ -17,6 +17,10 @@
 
 /* Importing Font */
 /* Font Credit: htts://https://www.cdnfonts.com/ */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20121'); */
+@import url('https://fonts.cdnfonts.com/css/fira-sans');
 
 @font-face {
   font-family: HeaderFont;
@@ -28,9 +32,6 @@
   src: url("https://fonts.cdnfonts.com/css/fira-sans?styles=20119");
 }
 
-@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
-
-
 /* -------------------- ROOT -------------------------------*/
 
 :root {
@@ -39,6 +40,7 @@
   font-family: 'Fira Sans', sans-serif;
   font-weight: initial;
 
+  /* --default-background-color: #d6d2c6;  */
   --default-background-color: #e4d5a6;
 
   --default-font-color: rgb(68, 52, 16);
@@ -54,9 +56,11 @@
   --subtitle-color: rgb(12, 55, 75);  
   --letter-spacing: -0.6px !important;
   --default-header-bold-font-color: rgb(228, 5, 5);
-  --default-strong-font-color: rgb(255, 38, 0);
+  --default-strong-font-color: rgb(201, 59, 34);
   --italic-background-color: orangered;
   --default-border-color: 2px solid rgb(211, 34, 11);
+
+
   
   background-color: var(--default-background-color);
   color: var(--default-font-color);
@@ -66,7 +70,7 @@
 :root p {
 
   font-size: 36px;
-  font-family: "BodyFont", sans-serif;
+  font-family: "BodyFont", sans-serif !important;
   letter-spacing: -0.5px;
 
   color: var(--default-font-color);
@@ -75,7 +79,7 @@
 :root ul, ol {
 
   font-size: 30px;
-  font-family: sans-serif !important;
+  font-family: "BodyFont", sans-serif !important;
   letter-spacing: -0.2px;
   font-weight: 600 !important;
 
@@ -130,7 +134,7 @@ section table th {
 
 section.cite {
   background-color: #d8dee9;
-  --strong-color: #c53442;
+  --strong-color: #f0031b;
   --strong-color: #4d75a5;
 }
 
