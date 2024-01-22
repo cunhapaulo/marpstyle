@@ -163,7 +163,7 @@ You might as well use my themes directly from github using the url, just like de
 
 # Typefaces (TTF Fonts)
 
-Some of the fonts necessary to the available styles are listed below with its respective link for download:
+In the first editions of Marpstyçe some of the used fonts were required to be downloaded and installed. Now it is not necessary anymore since they are automaticaly downloaded from a site. Eventhough I kept here the reference and sites wherefrom those fonts could be downloade and locally installed. See below:
 
 - ## Socrates Theme:
   
