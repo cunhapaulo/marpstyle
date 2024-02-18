@@ -22,7 +22,7 @@ More styles will be released soon.  Stay tuned for more `Marpstyle Themes`!
 
 This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
-![](img/marpstyle-updated.svg) Academic presentation on philosophical aspects of Artificial Intelligence (AI):
+![](img/marpstyle-ready.svg) Academic presentation on philosophical aspects of Artificial Intelligence (AI):
 
 [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
 - [Link for the presentation](https://cunhapaulo.github.io/ai/)
@@ -50,7 +50,7 @@ This slide deck was created for a presentarion about Artifical Inteligence (AI).
 ### ![](img/marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Immanuel Kant (1724–1804)
+### ![](img/marpstyle-updated.svg)  In honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of Hegel (1770–1831)
@@ -120,8 +120,11 @@ Course you need `Marp` installed and operational. I created the available styles
 			"./style/kant.css",
 			"./style/king.css",
 			"./style/leibniz.css",
+			"./style/orwell.css",
+			"./style/pascal.css",
 			"./style/plato.css",
 			"./style/schema.css",
+			"./style/simple.css",
 			"./style/socrates.css",
 			"./style/structure.css",
 			"./style/turing.css",
@@ -154,8 +157,11 @@ You might as well use my themes directly from github using the url, just like de
 			"https://cunhapaulo.github.io/style/kant.css",
 			"https://cunhapaulo.github.io/style/king.css",
 			"https://cunhapaulo.github.io/style/leibniz.css",
+			"https://cunhapaulo.github.io/style/orwell.css",
+			"https://cunhapaulo.github.io/style/pascal.css",
 			"https://cunhapaulo.github.io/style/plato.css",
 			"https://cunhapaulo.github.io/style/schema.css",
+			"https://cunhapaulo.github.io/style/simple.css",
 			"https://cunhapaulo.github.io/style/socrates.css",
 			"https://cunhapaulo.github.io/style/structure.css",
 			"https://cunhapaulo.github.io/style/turing.css",
