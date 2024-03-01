@@ -1,22 +1,17 @@
-# MARP Themes - `marpstyle` ![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
+# `MarpStyle`: styles for the MARP package
 
-Marp Themes was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. 
+`marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. 
 I sincerely hope you like it and that it comes to be as useful to as many users as it has been to me. <br><br>
 
+### (updates - 20.jul.2023) 
+- **Hannah Arendt** 	
+- **Albert Einstein**, 
+- **Martin Luther King**, 
+- **Kurt Gödel**, and 
+- **Alan Turing**.  
+- Theme **JOBS** updated!!!
+
 More styles will be released soon.  Stay tuned for more `Marpstyle Themes`! 
-
-
-
-## Last update: 20.jul.2023 - What´s new? 
-
-- 🆕 **Just arrived**! Enjoy!
-  - **Hannah Arendt** 	
-  - **Albert Einstein**, 
-  - **Martin Luther King**, 
-  - **Kurt Gödel**, and 
-  - **Alan Turing**.  
-- 🆕 Theme **JOBS** updated!!!
-
 
 ## One Example of Marp slide creation with style!
 

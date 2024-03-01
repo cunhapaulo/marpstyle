@@ -1,13 +1,13 @@
 ---
-title       : Example Slides for Theme Gödel
+title       : Example Slides for Theme Orwell
 author      : Paulo Cunha
-description : This is an example of how to use my themes.
-keywords    : Marp, Slides, Themes.
+description : This is an example of how to use my themes
+keywords    : Marp, Slides, Themes, Marpstyle, Einstein, Bern
 marp        : true
 paginate    : true
-theme       : godel
+theme       : orwell
+
 --- 
-   
    
 <style>   
 
@@ -16,10 +16,10 @@ theme       : godel
    }
    .cite-author:after {
       color             : orangered;
-      font-size         : 125%;
+      font-size         : 145%;
       /* font-style        : italic; */
       font-weight       : bold;
-      font-family       : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+      font-family: 'Fira Sans Condensed', sans-serif; 
       padding-right     : 130px;
    }
    .cite-author[data-text]:after {
@@ -33,57 +33,93 @@ theme       : godel
 </style>
 
 
+
 <!-- _class: titlepage -->
+![bg left:33% brightness:0.9](../img/george-orwell.webp)
 
-![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/9/9e/Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg)
-
-<div class="title"         > Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme </div>
-<div class="subtitle"      > On Formally Undecidable Propositions </div>
-<div class="author"        > Kurt Gödel </div>
-<div class="date"          > Königsberg, 5–7 September, 1930 </div>
-<div class="organization"  > Second Conference on the Epistemology of the Exact Sciences    </div>
+<div class="title"         > Absolute, only the speed of light                   </div>
+<div class="subtitle"      > General and Special Relativity in Physics           </div>
+<div class="author"        > George Orwell <small>(Eric Arthur Blair)</small>    </div>
+<div class="date"          > Bern, Schweiz, 1905                                 </div>
+<div class="organization"  > Eidgenössisches Amt für Geistiges Eigentum          </div>
 
 
 ---
+![bg right:33% brightness:0.9](../img/young-george-orwell.webp)
 
 <!-- _class: titlepage -->
 
-#     Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme
-##    On Formally Undecidable Propositions
-###   Kurt Gödel 
-####  Königsberg, 5–7 September, 1930
-##### Second Conference on the Epistemology of the Exact Sciences
+#     Absolute, only the speed of light
+##    General and Special Relativity in Physics
+###   George Orwell <small>(Eric Arthur Blair)</small>
+####  Bern, Schweiz, 1905
+##### Eidgenössisches Amt für Geistiges Eigentum
 
 ---
-             
+
+![bg](../img/einstein-haus-bern.jpg)
+
+---
+
+![bg w:100%](../img/einstein-haus-sign.jpg)
+
+---
+
+# Normal Slide
+
+Common texts
+
+---
+
+![bg blur:8px grayscale:1 brightness:0.8](https://cdn.gamma.app/theme_images/gamma/gamma-15_bcdb1f14.jpg)
+
+# Normal Slide
+
+Common texts
+
+---
 # Lists
 
 <div class="columns">
 <div>
-      
-<!-- _class: cool-list -->
 
-1. *Wien*
-2. *Graz*
-3. *Linz*
-3. *Salzburg*
-4. *Innsbruck*
-   
+<!-- _class: cool-list -->
+1. *Zürich*
+2. *Genf (Genebra)*
+3. *Basel (Basileia)*
+3. *Bern (Berna)*
+4. *Lausanne*
 </div>  
 <div>    
         
-4. *Klagenfurt am Wörthersee* 
-5. *Villach* 
-6. *Wels*
-7. *Sankt Pölten* 
-8. *Dornbirn* 
- 
+4. *Luzern (Lucerna)* 
+5. *St. Gallen*
+6. *Winterthur*
+7. *Lugano* 
+8. *Freiburg (Friburgo)* 
 </div>    
 </div>        
-            
----        
+
+---
+
+
+# Is Algebraic Graph Knowledge **Possible**?
+ 
+Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
-# Is Algebraic Graph Knowledge a **Possibility**?
+- Model Cheking and theorem prooving are viable paths. 
+
+When the neet to  make strong assertions becomes inevitable:
+- This is the first way: **outstanding assertion**!   
+- Even greater impact comes from: _hilight text_!  
+   
+> ***Note**: This is a very long footnote line intended to test the layout of two. 
+> 
+---         
+![bg blur:5px grayscale:1](https://photy.org/photos/blue-halftone-wide-photy.org.jpg)
+
+
+# Is Algebraic Graph Knowledge still **Possible**?
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
@@ -97,6 +133,49 @@ When the neet to  make strong assertions becomes inevitable:
 > 
 ---         
      
+<!-- ![bg blur:5px](https://photy.org/photos/blue-halftone-wide-photy.org.jpg) -->
+![bg brightness:0.8 blur:5px](../img/bg01.jpg)
+
+
+# Is Algebraic Graph Knowledge **Possible**?
+ 
+Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
+     
+- Model Cheking and theorem prooving are viable paths. 
+
+When the neet to  make strong assertions becomes inevitable:
+- This is the first way: **outstanding assertion**!   
+- Even greater impact comes from: _hilight text_!  
+   
+> ***Note**: This is a very long footnote line intended to test the layout of two. 
+> 
+---         
+     
+     
+
+<!-- _backgroundColor: "rgb(0,29,49)" -->
+<!-- _backgroundColor: "#222940" -->
+<!-- _backgroundColor: "#202537" -->
+<!-- _backgroundColor: "#28304E" -->
+<!-- _backgroundColor: "#294157" -->
+<!-- _backgroundColor: "#294074" -->
+<!-- _backgroundColor: "#2E3E4D" -->
+     
+# Is Algebraic Graph Knowledge **Possible**?
+ 
+Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
+     
+- Model Cheking and theorem prooving are viable paths. 
+
+When the neet to  make strong assertions becomes inevitable:
+- This is the first way: **outstanding assertion**!   
+- Even greater impact comes from: _hilight text_!  
+   
+> ***Note**: This is a very long footnote line intended to test the layout of two. 
+> 
+---         
+
+
 <div class="columns">            
 <div> 
  
@@ -174,6 +253,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 </figcaption>
 
 ---
+![bg opacity:0.2 blur:5px](https://i0.wp.com/jornal.usp.br/wp-content/uploads/20170323_00_olhar-cientifico.jpg?resize=768%2C403&ssl=1)
 
 # LaTeX Equations
 
@@ -193,12 +273,18 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center">
 <div>         
  
-![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
+![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
+<figcaption>
+&nbsp
+</figcaption>
    
 </div> 
 <div>
 
-![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
+<figcaption>
+&nbsp
+</figcaption>
 
 </div>
 </div>
@@ -210,17 +296,17 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center" align="center">
 <div>         
  
-![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
+![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
-<b>Figure</b>: Kleinrock, Gail (1979).
+<b>Figure 1</b>: Göthe, Suhrkamp (2011).
 </figcaption>
    
 </div>
 <div>
 
-![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
 <figcaption>
-<b>Figure</b>: Springer Verlag (1979).
+<b>Figure 2</b>: Sophokles, Suhrkamp (2015).
 </figcaption>
 
 </div>
@@ -235,7 +321,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![h:450](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:450 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Oxford edition (1979).
@@ -261,14 +347,49 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 </div>
      
 --- 
+
+# Image and text
+
+<div class="columns">
+<div>
+
+
+## Kant, Leibniz & Newton
  
-<!-- _class: cite -->        
+That philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant; but a more precise determination of the structure of this linkage is required. 
+
+This addresses the transformations of metaphysics as a discipline, the emergence of analytical mechanics, the diverging avenues of 18th-century Newtonianism, the body-mind problem, and philosophical principles of classification in the life sciences.
+
+
+[Price at Amazon](https://www.amazon.de/Between-Leibniz-Newton-Kant-Philosophy/dp/3031343395/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16F5PCQR437M7&keywords=Kant+Springer&qid=1689169670&s=books&sprefix=kant+springer%2Cstripbooks%2C204&sr=1-1): 128,39 €
+
+
+</div>
+<div>
+<center>
+
+![h:450 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
+
+<figcaption align="center">
+<b>Figure</b>: Springer edition (2023).
+</figcaption>
+
+</center>
+
+</div>
+</div>
+     
+--- 
+ <!-- _class: cite -->        
+
 
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 --- 
   
 <!-- _class: cite -->
+![bg opacity:.3 blur:8.0px  ](https://www.altoastral.com.br/media/uploads/legacy/2016/07/Albert_Einstein-Wikimedia_Commons.jpg)
+
  
 <div class="cite-author" data-text="Mona Batra">
 
@@ -278,15 +399,26 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
      
 ---
 <!-- _class: transition -->  
+![bg brightness:0.9 opacity:.2](../img/albert-einstein.jpg)
+
 
  Transition Slide 1<br> _Aditional_ **Text**
     
 ---         
 <!-- _class: transition2 -->  
+![bg opacity:.17 blur:2.0px](https://blog.insiderstore.com.br/wp-content/uploads/2021/02/descobertas-de-albert-einstein-destaque-2048x1536.webp)
+
 
  Transition Slide 2<br> _Aditional_ **Text**
     
----         
+---   
+<!-- _class: transition2 -->  
+
+THANK YOU!
+
+![bg opacity:.85](https://i.ytimg.com/vi/GMfYG6RJ-jk/maxresdefault.jpg)
+
+---
 
 <!-- _class: biblio -->  
 
