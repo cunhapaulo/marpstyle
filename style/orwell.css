@@ -35,12 +35,14 @@
   */
   --default-font-color: #a9b6db; 
   
-  /* --default-background-color: #858e96;
-  --default-background-color: rgb(210, 211, 210);
-  --default-background-color: #606164;
+  /* 
+  --default-background-color: #858e96;
+  --default-background-color: #d2d3d2;
   --default-background-color: #122e57; 
   --default-background-color: #1b2f5c;
   --default-background-color: #2d4458;
+  --default-background-color: #606164;
+  --default-background-color: #1b1c1d;
   */
   --default-background-color: #00173f;
 
@@ -48,6 +50,7 @@
   --italic-color              : #ffffff;
   --italic-background-color   : #ee0909;
 
+  /* Bold  */
   --bold-color                : #fa7101;
    
   /* Cool-List */
