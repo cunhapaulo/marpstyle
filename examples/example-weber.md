@@ -41,7 +41,7 @@ theme       : weber
 ---
 
 
-# Opnening Description of a Chapter
+# Opening Description of a Chapter
 
 Some text about what´s ahead...
 
@@ -299,7 +299,7 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
 --- 
   
 <!-- _class: cite -->
-![bg opacity:.3 blur:8.0px  ](https://www.altoastral.com.br/media/uploads/legacy/2016/07/Albert_Einstein-Wikimedia_Commons.jpg)
+![bg opacity:.3 blur:8.0px  ](../img/max-weber1.jpg)
 
  
 <div class="cite-author" data-text="Mona Batra">
@@ -310,7 +310,7 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
      
 ---
 <!-- _class: transition -->  
-![bg brightness:0.9 opacity:.2](../img/albert-einstein.jpg)
+![bg brightness:0.9 opacity:.2](../img/max-weber.webp)
 
 
  Transition Slide 1<br> _Aditional_ **Text**
