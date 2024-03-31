@@ -9,6 +9,7 @@
 7. Hegel, Georg Wilhelm Friedrich (17- Morte: ,70 -1831)
 8. Freud, Sigmund (1856-1939)
 9. Husserl, Edmund (1859-1938)
+10. Weber, Max (1864-1920) <<<<<<<<<<<<<< LETRAS GRANDES >>>>>>>>>>>>>
 10. Einstein, Albert (1879-1955)
 11. Heidegger, Martin (1889-1976)
 12. Orwell, George (1903-1950) <<<<<<<<<<<<<<>>>>>>>>>>>>>
@@ -85,6 +86,5 @@ Essas informações fornecem um panorama das datas de nascimento e morte dessas 
 37. Scotus, Duns
 38. Searle
 39. Voltaire
-40. Weber, Max
 41. Wittgenstein, Ludwig
 42. Zermelo, Ernst

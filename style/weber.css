@@ -1,0 +1,196 @@
+/* @theme weber */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 17.mar.2024
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import 'default';
+@import 'schema';
+@import 'structure';
+
+/* Importing Font */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
+@import url('https://fonts.cdnfonts.com/css/noto-sans-sc');
+
+/* ---------------- TITLE PAGE ---------------- */
+section.titlepage {
+  background-color: rgba(138, 151, 160, 0.468);
+}
+
+section.titlepage .title {
+  color: hsl(225, 20%, 92%) !important;
+  font-kerning: auto;
+  text-align: left !important;
+}
+
+section.titlepage .subtitle {
+  color: rgb(164, 177, 201) !important;
+  font-kerning: auto;
+  text-align: left !important;
+  font-weight: 800;
+}
+
+section.titlepage .author,
+.date,
+.organization {
+  color: hsl(212, 82%, 76%) !important;
+  font-kerning: auto;
+  text-align: left !important;
+}
+
+section.titlepage h1 {
+  border-color: rgb(252, 252, 252);
+}
+
+section.titlepage strong {
+  color: rgb(255, 153, 9);
+}
+
+/* ----------------   ROOT PAGE ---------------- */
+:root {
+  /* font-family: 'Fira Sans Light'; */
+  font-family: 'Noto Sans SC', sans-serif;
+
+  font-weight: initial;
+
+  color: #f4f6f8;
+  background-color: rgba(81, 100, 113, 0.468);
+  /* background-color: rgba(81, 100, 113, 0.922); */
+
+}
+
+a {
+  color: #00b5f1;
+}
+
+strong {
+  color: #fad12b !important;
+}
+
+em {
+  color: rgba(38, 40, 41, 0.818);
+  background-color: #fad12b;
+}
+
+h1 {
+  color: #83a5b8f4;
+  border-color: #fad12b;
+  margin-bottom: 3.5%;
+}
+
+section p {
+  font-size: 35px;
+}
+
+section li {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  line-height: 1em;
+  font-size: 120% !important;
+  color: lightray;
+}
+
+/* --------------- PAGE NUMBER --------------- */
+section::after {
+  color: rgb(242, 243, 245);
+  background-color: #445f8d55;
+  font-size: 0.7em;
+
+  line-height: 45pt;
+  margin-top: -0.1em;
+  margin-bottom: -1.2em;
+  margin-left: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+
+  content: ' ' attr(data-marpit-pagination) '/'
+    attr(data-marpit-pagination-total) ' ';
+}
+
+/* ----------------  COLUMNS  ---------------- */
+.columns p {
+  color: #c3d6f3;
+  font-size: 33px;
+  line-height: 28.25pt;
+  font-kerning: auto;
+}
+
+.columns li {
+  color: #f9faf9;
+  font-size: 26pt !important;
+  margin-top: 16pt;
+}
+
+.columns h2 {
+  color: rgb(110, 152, 238);
+}
+
+.columns h3 {
+  color: rgb(212, 175, 122);
+}
+
+/* ---------------- TRANSITION ---------------- */
+section.transition a {
+  font-size: 19pt;
+  font-size: 170% !important;
+  font-weight: 900 !important;
+  font-kerning: auto;
+}
+
+section.transition em {
+  /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+}
+section.transition strong {
+  /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+  color: yellow; /*rgb(247, 76, 9);*/
+  font-size: 110% !important;
+  font-weight: 900 !important;
+  /* text-shadow: 4px 4px 0 rgb(51, 50, 49);*/
+}
+
+/* ---------------- TABLE ---------------- */
+section table td {
+  border: 0;
+  color: rgb(29, 29, 31);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+tr:hover {
+  color: var(--table-hover-color);
+  background-color: rgb(0, 242, 250);
+  font-weight: bold;
+}
+
+/* ------------------- BIBLIO -----------------------------*/
+
+section.biblio {
+  background-color: rgb(37, 38, 39);
+}
+
+section.biblio p {
+  color: var(--text-color);
+  font-size: 90%;
+}
+
+section.biblio h1 {
+  font-size: 36px;
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+section.biblio strong {
+  color: var(--bold-color);
+}
+
+section.biblio li {
+  color: var(--text-color);
+  font-size: 20pt !important;
+  line-height: 24pt;
+}

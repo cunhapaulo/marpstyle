@@ -84,8 +84,8 @@ section strong {
 section::after {
   color: rgb(51, 59, 77);
   font-size: 0.8em;
-  content: " " attr(data-marpit-pagination) "/"
-    attr(data-marpit-pagination-total) " ";
+  content: ' ' attr(data-marpit-pagination) '/'
+    attr(data-marpit-pagination-total) ' ';
 }
 
 .center {
@@ -129,7 +129,7 @@ section table td {
 }
 
 section table tr:nth-child(2) {
-  background-color: #dedede;
+  background-color: #c4c6c6;
 }
 
 section table tr:last-child {
@@ -178,7 +178,7 @@ section blockquote strong {
 .columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+  gap: 0.5rem;
   /* justify-content: center !important; */
 }
 
@@ -189,7 +189,8 @@ section blockquote strong {
   font-size: 30px;
 }
 
-.columns ol, ul {
+.columns ol,
+ul {
   margin-top: 0.15em;
   margin-bottom: 0.25em;
   line-height: 1.73em !important;
@@ -440,7 +441,7 @@ section.cite p {
   font-size: 150%;
   text-align: center;
   line-height: 1.2em;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   /*  font-style: oblique; */
   padding-top: auto;
   padding-bottom: auto;
@@ -655,7 +656,7 @@ section.cool-list2 ol li em:before {
 }
 section.cool-list2 ol li em:after {
   position: absolute;
-  content: "";
+  content: '';
   border: 0.5em solid transparent;
   left: -1em;
   top: 50%;

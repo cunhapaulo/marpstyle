@@ -27,15 +27,12 @@
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: initial;
   
-  /* Defaul Colors */
+  /* Default Colors */
   
   /* 
   --default-font-color: #f1f1f5; 
   --default-font-color: #beccf1;  
-  */
-  --default-font-color: #a9b6db; 
   
-  /* 
   --default-background-color: #858e96;
   --default-background-color: #d2d3d2;
   --default-background-color: #122e57; 
@@ -44,6 +41,8 @@
   --default-background-color: #606164;
   --default-background-color: #1b1c1d;
   */
+
+  --default-font-color: #a9b6db; 
   --default-background-color: #00173f;
 
   /* Italic */
@@ -56,7 +55,7 @@
   /* Cool-List */
   --cool-list-color           : rgb(233, 11, 96);
 
-  --h1-color                  : rgb(255, 255, 255);
+  --h1-color                  : rgb(113, 124, 245);
 
 
   background-color: var(--default-background-color);
@@ -130,14 +129,14 @@ section.biblio {
   /* font-family: "Fira Sans", serif;  */
 
    
-  --text-color              : rgb(253, 252, 252);
-  --biblio-background-color : rgb(0, 0, 0);
-  --border-color            : darkorange;
-  --bold-color              : orange;
+  --text-color              : #000000;
+  --biblio-background-color : #dde0e3;
+  --border-color            : #1573ff;
+  --bold-color              : #1749b4;
 }
 
 section.biblio p {
 
-  font-family: "Fira Sans", serif; 
+  font-family: "Fira Sans Condensed", serif; 
 
 }

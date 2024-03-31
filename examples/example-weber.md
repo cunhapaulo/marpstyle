@@ -1,16 +1,15 @@
 ---
-title       : Example Slides for Theme Orwell
+title       : Example Slides for Theme Max Weber
 author      : Paulo Cunha
 description : This is an example of how to use my themes
 keywords    : Marp, Slides, Themes, Marpstyle, Einstein, Bern
 marp        : true
 paginate    : true
-theme       : orwell
+theme       : weber
 
 --- 
    
 <style>   
-
    .cite-author {     
       text-align        : right; 
    }
@@ -29,39 +28,41 @@ theme       : orwell
    .cite-author p {
       padding-bottom : 40px
    }
-
 </style>
 
 
-
 <!-- _class: titlepage -->
-![bg left:33% brightness:0.9](../img/george-orwell.webp)
+![bg left:33% brightness:0.9](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Max_Weber%2C_1918.jpg/330px-Max_Weber%2C_1918.jpg)
 
-<div class="title"         > Absolute, only the speed of light                   </div>
+<div class="title"         > Die Protestantische Ethik und der „Geist" des Kapitalismus </div>
 <div class="subtitle"      > General and Special Relativity in Physics           </div>
-<div class="author"        > George Orwell <small>(Eric Arthur Blair)</small>    </div>
-<div class="date"          > Bern, Schweiz, 1905                                 </div>
+<div class="author"        > Max Weber                                     </div>
+<div class="date"          > Bern, Schweiz, 1905 <small>(anno mirabilis)</small> </div>
 <div class="organization"  > Eidgenössisches Amt für Geistiges Eigentum          </div>
 
 
 ---
-![bg right:33% brightness:0.9](../img/young-george-orwell.webp)
+![bg right:33% brightness:0.9](https://www.welt.de/img/kultur/literarischewelt/mobile124687259/3222507567-ci102l-w1024/Max-Weber-Foto.jpg)
 
 <!-- _class: titlepage -->
 
-#     Absolute, only the speed of light
+#     Die Protestantische Ethik und der „Geist" des Kapitalismus
 ##    General and Special Relativity in Physics
-###   George Orwell <small>(Eric Arthur Blair)</small>
-####  Bern, Schweiz, 1905
+###   Max Weber 
+####  Bern, Schweiz, 1905 <small>(anno mirabilis)</small>
 ##### Eidgenössisches Amt für Geistiges Eigentum
 
 ---
 
-![bg](../img/einstein-haus-bern.jpg)
+<!-- _backgroundColor: lightgray -->
+
+![bg left h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
 
 ---
 
-![bg w:100%](../img/einstein-haus-sign.jpg)
+<!-- _backgroundColor: lightgray -->
+
+![bg right h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
 
 ---
 
@@ -71,39 +72,32 @@ Common texts
 
 ---
 
-![bg blur:8px grayscale:1 brightness:0.8](https://cdn.gamma.app/theme_images/gamma/gamma-15_bcdb1f14.jpg)
-
-# Normal Slide
-
-Common texts
-
----
-
+             
 # Lists
-
+ 
 <div class="columns">
 <div>
       
 <!-- _class: cool-list -->
 
-1. _London_
-2. _Manchester_
-3. _Birmingham_
-4. _Glasgow_
-5. _Liverpool_
-
+1. *Berlin*
+2. *Hannover*
+3. *Freiburg im Breisgau*
+3. *Heidelberg*
+4. *Hamburg*
+   
 </div>  
 <div>    
         
-6. *Newcastle* 
-7. *Sheffield*
-8. *Nottingham*
-9. *Southampton* 
-10. *Edinburgh*
+4. *Leipzig* 
+5. *Dresden*
+6. *München*
+7. *Köln* 
+8. *Köningsberg und Praga* 
 
 </div> 
 </div>           
-            
+
 ---
 
 
@@ -113,78 +107,19 @@ Research has been conducted in order to evaluate the possibility of reaching mea
      
 - Model Cheking and theorem prooving are viable paths. 
 
-When the neet to  make strong assertions becomes inevitable:
+
 - This is the first way: **outstanding assertion**!   
 - Even greater impact comes from: _hilight text_!  
    
 > ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
+
 ---         
-![bg blur:5px grayscale:1](https://photy.org/photos/blue-halftone-wide-photy.org.jpg)
-
-
-# Is Algebraic Graph Knowledge still **Possible**?
- 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
-     
-- Model Cheking and theorem prooving are viable paths. 
-
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-     
-<!-- ![bg blur:5px](https://photy.org/photos/blue-halftone-wide-photy.org.jpg) -->
-![bg brightness:0.8 blur:5px](../img/bg01.jpg)
-
-
-# Is Algebraic Graph Knowledge **Possible**?
- 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
-     
-- Model Cheking and theorem prooving are viable paths. 
-
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-     
-     
-
-<!-- _backgroundColor: "rgb(0,29,49)" -->
-<!-- _backgroundColor: "#222940" -->
-<!-- _backgroundColor: "#202537" -->
-<!-- _backgroundColor: "#28304E" -->
-<!-- _backgroundColor: "#294157" -->
-<!-- _backgroundColor: "#294074" -->
-<!-- _backgroundColor: "#2E3E4D" -->
-     
-# Is Algebraic Graph Knowledge **Possible**?
- 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
-     
-- Model Cheking and theorem prooving are viable paths. 
-
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-
 
 <div class="columns">            
 <div> 
  
-# H1
-## H2 
+# H1 - Header 1
+## H2 - Header 2
 ### H3 
 #### H4
 ##### H5
@@ -192,9 +127,8 @@ When the neet to  make strong assertions becomes inevitable:
 </div>
 <div>
  
-- This is a fragment o normal text written here in order to exemplify the use of several featrues in CSS.
- 
-- This is a fragment o normal text written here in order to exemplify the use of several featrues in CSS.
+- This is a fragment of normal text written here in order to exemplify the use of several featrues in CSS.
+- This is a fragment of normal text written here in order to exemplify the use of several featrues in CSS.
 
   - This is one **feature**
   - This is another subjetc.
@@ -360,12 +294,10 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 ## Kant, Leibniz & Newton
  
-That philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant; but a more precise determination of the structure of this linkage is required. 
-
-This addresses the transformations of metaphysics as a discipline, the emergence of analytical mechanics, the diverging avenues of 18th-century Newtonianism, the body-mind problem, and philosophical principles of classification in the life sciences.
+Philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant; but a more precise determination of the structure of this linkage is required. This text addresses the caming of metaphysics into a discipline, the emergence of analytical mechanics.
 
 
-[Price at Amazon](https://www.amazon.de/Between-Leibniz-Newton-Kant-Philosophy/dp/3031343395/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16F5PCQR437M7&keywords=Kant+Springer&qid=1689169670&s=books&sprefix=kant+springer%2Cstripbooks%2C204&sr=1-1): 128,39 €
+[Available at Amazon](https://www.amazon.de/Between-Leibniz-Newton-Kant-Philosophy/dp/3031343395/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16F5PCQR437M7&keywords=Kant+Springer&qid=1689169670&s=books&sprefix=kant+springer%2Cstripbooks%2C204&sr=1-1): 128,39 €
 
 
 </div>
@@ -426,7 +358,7 @@ THANK YOU!
 
 <!-- _class: biblio -->  
 
-![bg left:33% opacity:40% blur:3px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
  
 # References       
 
