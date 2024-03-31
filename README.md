@@ -1,7 +1,9 @@
 # `MarpStyle`: styles for the MARP package
 
-`marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. 
-I sincerely hope you like it and that it comes to be as useful to as many users as it has been to me. <br><br>
+`marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
+I sincerely hope you make good use of it and that it comes to be as useful to you as it has been to me. 
+
+If you find it useful, all I ask is that you give the credits in you presentarions.
 
 ### (updates - 31.mar.2024) 
 - **Max Weber** 	
