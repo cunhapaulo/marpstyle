@@ -161,6 +161,8 @@ You might as well use my themes directly from github using the url, just like de
 			"https://cunhapaulo.github.io/style/socrates.css",
 			"https://cunhapaulo.github.io/style/structure.css",
 			"https://cunhapaulo.github.io/style/turing.css",
+			"https://cunhapaulo.github.io/style/weber.css",	
+				
 		]
 	}
 }
