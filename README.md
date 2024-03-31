@@ -3,15 +3,12 @@
 `marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it here on Github. 
 I sincerely hope you like it and that it comes to be as useful to as many users as it has been to me. <br><br>
 
-### (updates - 20.jul.2023) 
-- **Hannah Arendt** 	
-- **Albert Einstein**, 
-- **Martin Luther King**, 
-- **Kurt Gödel**, and 
-- **Alan Turing**.  
-- Theme **JOBS** updated!!!
+### (updates - 31.mar.2024) 
+- **Max Weber** 	
+  
 
-More styles will be released soon.  Stay tuned for more `Marpstyle Themes`! 
+
+More styles will be released soon.  Stay tuned for more `marpstyle themes`! 
 
 ## One Example of Marp slide creation with style!
 
@@ -57,19 +54,22 @@ This slide deck was created for a presentarion about Artifical Inteligence (AI).
 ### ![](img/marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
-### ![](img/marpstyle-brand-new.svg)  In honor of Albert Einstein (1879–1955) 
+### ![](img/marpstyle-brand-new.svg)  In honor of Max Weber (1864–1920) 
+  [![Style: Weber](img/weber.png)](examples/example-weber.pdf)
+
+### ![](img/marpstyle-ready.svg)  In honor of Albert Einstein (1879–1955) 
   [![Style: Einstein](img/einstein.png)](examples/example-einstein.pdf)
 
 ### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
-### ![](img/marpstyle-brand-new.svg) In honor of Kurt Gödel (1906-1978) 
+### ![](img/marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
 ### ![](img/marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
 [![Style: Arendt](img/arendt.png)](examples/example-arendt.pdf)
 
-### ![](img/marpstyle-brand-new.svg) In honor of Alan Turing (1912-1954) 
+### ![](img/marpstyle-ready.svg) In honor of Alan Turing (1912-1954) 
 [![Style: Turing](img/turing.png)](examples/example-turing.pdf)
 
 ###  ![](img/marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
@@ -123,6 +123,7 @@ Course you need `Marp` installed and operational. I created the available styles
 			"./style/socrates.css",
 			"./style/structure.css",
 			"./style/turing.css",
+			"./style/weber.css",
 		]
 	}
 }

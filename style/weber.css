@@ -21,17 +21,17 @@
 
 /* ---------------- TITLE PAGE ---------------- */
 section.titlepage {
-  background-color: rgba(138, 151, 160, 0.468);
+  background-color: rgb(64, 81, 93);
 }
 
 section.titlepage .title {
-  color: hsl(225, 20%, 92%) !important;
+  color: hsl(225, 4%, 82%) !important;
   font-kerning: auto;
   text-align: left !important;
 }
 
 section.titlepage .subtitle {
-  color: rgb(164, 177, 201) !important;
+  color: rgb(173, 175, 178) !important;
   font-kerning: auto;
   text-align: left !important;
   font-weight: 800;
@@ -45,24 +45,34 @@ section.titlepage .author,
   text-align: left !important;
 }
 
-section.titlepage h1 {
-  border-color: rgb(252, 252, 252);
+section.titlepage h1 {  
+  color: rgb(252, 252, 252) !important;
 }
 
+section.titlepage h2 {  
+  color: rgb(190, 192, 195) !important;
+}
+
+
+section.titlepage h3, h4, h5 {  
+  color: rgb(132, 165, 215) !important;
+}
+
+
+
 section.titlepage strong {
-  color: rgb(255, 153, 9);
+  color: rgb(255, 251, 9);
 }
 
 /* ----------------   ROOT PAGE ---------------- */
 :root {
   /* font-family: 'Fira Sans Light'; */
   font-family: 'Noto Sans SC', sans-serif;
-
   font-weight: initial;
-
   color: #f4f6f8;
-  background-color: rgba(81, 100, 113, 0.468);
+  /* background-color: rgba(81, 100, 113, 0.468); */
   /* background-color: rgba(81, 100, 113, 0.922); */
+  background-color: rgb(81, 100, 113);
 
 }
 
@@ -80,13 +90,13 @@ em {
 }
 
 h1 {
-  color: #83a5b8f4;
+  color: #83a5b8;
   border-color: #fad12b;
   margin-bottom: 3.5%;
 }
 
 section p {
-  font-size: 35px;
+  font-size: 33px;
 }
 
 section li {
@@ -97,6 +107,12 @@ section li {
   color: lightray;
 }
 
+/* --------------- FIGCAPTION  --------------- */
+figcaption {
+  font-size: 85%;
+  font-family: "Fira Sans Condensed";
+  line-height: 200%;
+}
 /* --------------- PAGE NUMBER --------------- */
 section::after {
   color: rgb(242, 243, 245);
@@ -117,7 +133,7 @@ section::after {
 /* ----------------  COLUMNS  ---------------- */
 .columns p {
   color: #c3d6f3;
-  font-size: 33px;
+  font-size: 30px;
   line-height: 28.25pt;
   font-kerning: auto;
 }
@@ -130,6 +146,8 @@ section::after {
 
 .columns h2 {
   color: rgb(110, 152, 238);
+  font-family: "Fira Sans Condensed";
+  font-size: 32pt;
 }
 
 .columns h3 {
@@ -168,10 +186,38 @@ tr:hover {
   font-weight: bold;
 }
 
+
+/* --------------------- CITE -----------------------------*/
+section.cite {
+  background-color: rgb(38, 49, 58);
+  font-weight: 100 !important;
+}
+
+section.cite p {
+  color: rgb(254, 254, 254);
+  background-color: rgba(76, 93, 109, 0.352);
+
+  font-family: "Fira Sans Condensed" ;
+  font-size: 150%;
+  letter-spacing: var(--letter-spacing);
+  text-align: center;
+  line-height: 1.2em;
+   
+  padding-top: 50pt;
+  padding-bottom: 50pt;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+section.cite strong {
+  color: var(--strong-color);
+}
+
+
 /* ------------------- BIBLIO -----------------------------*/
 
 section.biblio {
-  background-color: rgb(37, 38, 39);
+  background-color: rgb(10, 58, 106);
 }
 
 section.biblio p {

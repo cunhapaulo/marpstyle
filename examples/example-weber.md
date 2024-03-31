@@ -9,66 +9,41 @@ theme       : weber
 
 --- 
    
-<style>   
-   .cite-author {     
-      text-align        : right; 
-   }
-   .cite-author:after {
-      color             : orangered;
-      font-size         : 145%;
-      /* font-style        : italic; */
-      font-weight       : bold;
-      font-family: 'Fira Sans Condensed', sans-serif; 
-      padding-right     : 130px;
-   }
-   .cite-author[data-text]:after {
-      content           : " - "attr(data-text) " - ";      
-   }
-
-   .cite-author p {
-      padding-bottom : 40px
-   }
-</style>
-
-
 <!-- _class: titlepage -->
 ![bg left:33% brightness:0.9](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Max_Weber%2C_1918.jpg/330px-Max_Weber%2C_1918.jpg)
 
-<div class="title"         > Die Protestantische Ethik und der „Geist" des Kapitalismus </div>
-<div class="subtitle"      > General and Special Relativity in Physics           </div>
-<div class="author"        > Max Weber                                     </div>
-<div class="date"          > Bern, Schweiz, 1905 <small>(anno mirabilis)</small> </div>
-<div class="organization"  > Eidgenössisches Amt für Geistiges Eigentum          </div>
+<div class="title"         > Die Protestantische Ethik und der &laquo;Geist&raquo; des Kapitalismus </div>
+<div class="subtitle"      >  Wirtschaft und Gesellschaft: Religionssoziologie </div>
+<div class="author"        > Maximilian Karl Emil Weber  (Max Weber)</div>
+<div class="date"          > Freiburg im Breisgau, 1904-1905  </div>
+<div class="organization"  > Archiv für Sozialwissenschften für Sozialpolitik </div>
 
 
 ---
+
 ![bg right:33% brightness:0.9](https://www.welt.de/img/kultur/literarischewelt/mobile124687259/3222507567-ci102l-w1024/Max-Weber-Foto.jpg)
 
 <!-- _class: titlepage -->
 
-#     Die Protestantische Ethik und der „Geist" des Kapitalismus
-##    General and Special Relativity in Physics
-###   Max Weber 
-####  Bern, Schweiz, 1905 <small>(anno mirabilis)</small>
-##### Eidgenössisches Amt für Geistiges Eigentum
+#     Die Protestantische Ethik und der &laquo;Geist&raquo; des Kapitalismus
+##     Wirtschaft und Gesellschaft: Religionssoziologie
+###   Maximilian Karl Emil Weber  (Max Weber )
+####  Freiburg im Breisgau, 1904-1905 
+##### Archiv für Sozialwissenschften für Sozialpolitik
 
 ---
 
 <!-- _backgroundColor: lightgray -->
 
-![bg left h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
+![bg h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
+![bg h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
 
 ---
 
-<!-- _backgroundColor: lightgray -->
 
-![bg right h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
+# Opnening Description of a Chapter
 
----
-
-# Normal Slide
-
-Common texts
+Some text about what´s ahead...
 
 ---
 
@@ -191,7 +166,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 </figcaption>
 
 ---
-![bg opacity:0.2 blur:5px](https://i0.wp.com/jornal.usp.br/wp-content/uploads/20170323_00_olhar-cientifico.jpg?resize=768%2C403&ssl=1)
+![bg opacity:0.28 blur:5px](https://perspectivabr.files.wordpress.com/2011/01/10005704-p.jpg)
 
 # LaTeX Equations
 
@@ -297,7 +272,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 Philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant; but a more precise determination of the structure of this linkage is required. This text addresses the caming of metaphysics into a discipline, the emergence of analytical mechanics.
 
 
-[Available at Amazon](https://www.amazon.de/Between-Leibniz-Newton-Kant-Philosophy/dp/3031343395/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16F5PCQR437M7&keywords=Kant+Springer&qid=1689169670&s=books&sprefix=kant+springer%2Cstripbooks%2C204&sr=1-1): 128,39 €
+[Available at Amazon](https://www.amazon.de/Between-Leibniz-Newton-Kant-Philosophy/dp/3031343395/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16F5PCQR437M7&keywords=Kant+Springer&qid=1689169670&s=books&sprefix=kant+springer%2Cstripbooks%2C204&sr=1-1): 91,42 €
 
 
 </div>
