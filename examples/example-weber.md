@@ -33,12 +33,6 @@ theme       : weber
 
 ---
 
-<!-- _backgroundColor: lightgray -->
-
-![bg h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
-![bg h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
-
----
 
 
 # Opening Description of a Chapter
@@ -322,10 +316,18 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
 
  Transition Slide 2<br> _Aditional_ **Text**
     
+
 ---   
+
+<!-- _backgroundColor: lightgray -->
+
+![bg h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
+![bg h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
+
+---
 <!-- _class: transition2 -->  
 
-THANK YOU!
+**THANK YOU!**
 
 ![bg opacity:.85](https://i.ytimg.com/vi/GMfYG6RJ-jk/maxresdefault.jpg)
 

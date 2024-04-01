@@ -20,8 +20,6 @@
 
 
 /* -------------------- ROOT -------------------------------*/
-
-
 :root {
   
   font-family: 'Fira Sans Condensed', sans-serif;
@@ -50,7 +48,7 @@
   --italic-background-color   : #ee0909;
 
   /* Bold  */
-  --bold-color                : #fa7101;
+  --bold-color                : #fa5401;
    
   /* Cool-List */
   --cool-list-color           : rgb(233, 11, 96);
@@ -65,7 +63,10 @@
 
 h1 {
   color: var(--h1-color);
-  : var(--bold-color)
+}
+
+strong {
+  color: #e6ba1c !important;
 }
 
 section.titlepage .title {
@@ -82,10 +83,8 @@ section.titlepage .organization {
   text-align: left;
 }
 
-section strong {
+strong {
 
-  color: var(--bold-color);
-  
   padding-left: 2px;
   padding-right: 2px;
   font-weight: 600;

@@ -19,6 +19,7 @@
 @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
 @import url('https://fonts.cdnfonts.com/css/noto-sans-sc');
 
+
 /* ---------------- TITLE PAGE ---------------- */
 section.titlepage {
   background-color: rgb(64, 81, 93);
@@ -113,10 +114,11 @@ figcaption {
   font-family: "Fira Sans Condensed";
   line-height: 200%;
 }
+
 /* --------------- PAGE NUMBER --------------- */
 section::after {
   color: rgb(242, 243, 245);
-  background-color: #445f8d55;
+  background-color: #43444555;
   font-size: 0.7em;
 
   line-height: 45pt;
@@ -240,3 +242,14 @@ section.biblio li {
   font-size: 20pt !important;
   line-height: 24pt;
 }
+
+/* ------------------- BLOCK QUOTE -----------------------------*/
+/* 
+  Block quote: used for footnote
+  substitution. Use as the last  
+  element of a slide.
+*/
+section blockquote {
+  color: rgb(235, 237, 239);
+}
+

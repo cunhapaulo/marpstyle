@@ -319,6 +319,7 @@ section.titlepage h1 {
   line-height: 1.25;
   /* padding-right: 20%; */
 }
+
 section.titlepage h2 {
   font-size: var(--subtitle-size);
   font-weight: var(--subtitle-font-weight);
@@ -329,12 +330,15 @@ section.titlepage h2 {
   margin-top: -0.2em;
   padding-bottom: 95px;
 }
+
 section.titlepage h3 {
   font-size: var(--author-size);
 }
+
 section.titlepage h4 {
   font-size: var(--date-size);
 }
+
 section.titlepage h5 {
   font-size: var(--institute-size);
 }
@@ -365,6 +369,7 @@ section.transition {
   padding-top: auto;
   padding-buttom: auto;
 }
+
 section.transition h1,
 section.transition h2,
 section.transition p,
@@ -373,6 +378,7 @@ section.transition a {
   font-size: 200%;
   border-bottom: none;
 }
+
 section.transition footer,
 section.transition header,
 section.transition:after {
@@ -484,22 +490,27 @@ section.biblio p {
   font-weight: 300;
   padding-left: 5px;
 }
+
 section.biblio h1 {
   font-size: 35px;
   color: var(--text-color);
   border-bottom: 1px solid var(--border-color);
 }
+
 section.biblio strong {
   color: var(--bold-color);
 }
+
 section.biblio a {
   font-size: 31px;
   font-weight: bold;
   color: var(--bold-color);
 }
+
 section.biblio li {
   color: var(--text-color);
 }
+
 section.biblio footer,
 section.biblio header,
 section.biblio:after {
@@ -526,17 +537,21 @@ section.biblio:after {
 */
 
 section.cool-list ol {
-  counter-reset: li; /* Initiate a counter */
-  list-style: none; /* Remove default numbering */
+  counter-reset: li;
+  /* Initiate a counter */
+  list-style: none;
+  /* Remove default numbering */
   padding: 0;
   /*text-shadow: 0 1px 0 rgba(255,255,255,.5);*/
 }
+
 section.cool-list li {
   margin-bottom: 0.1em !important;
   margin-top: 0.1em !important;
 }
-section.cool-list ol > li > em,
-section.cool-list > ol > li > a {
+
+section.cool-list ol>li>em,
+section.cool-list>ol>li>a {
   position: relative;
   display: block;
   padding: 0.4em 0.4em 0.4em 2em;
@@ -548,8 +563,9 @@ section.cool-list > ol > li > a {
   transition: all 0.3s ease-out;
   font-style: normal;
 }
-section.cool-list ol > li > em:before,
-section.cool-list > ol > li > a:before {
+
+section.cool-list ol>li>em:before,
+section.cool-list>ol>li>a:before {
   content: counter(li);
   counter-increment: li;
   position: absolute;
@@ -567,33 +583,40 @@ section.cool-list > ol > li > a:before {
   transition: all 0.3s ease-out;
   color: white;
 }
-section.cool-list > ol > li > em:hover,
-section.cool-list > ol > li > a:hover {
+
+section.cool-list>ol>li>em:hover,
+section.cool-list>ol>li>a:hover {
   background: #eee;
   font-weight: bolder;
 }
+
 /* Rotating effect */
 /*
 section.cool-list ol > li > em:hover:before,section.cool-list ol > li > a:hover:before{
     transform: rotate(360deg);
 }*/
 /* Lists inside lists */
-section.cool-list > ol ol {
-  margin: 0 0 0 2em; /* Add some left margin for inner lists */
+section.cool-list>ol ol {
+  margin: 0 0 0 2em;
+  /* Add some left margin for inner lists */
   font-size: 75%;
-  counter-reset: li2; /* Initiate a counter */
+  counter-reset: li2;
+  /* Initiate a counter */
 }
-section.cool-list > ol ol > li > em:before,
-section.cool-list > ol ol > li > a:before {
+
+section.cool-list>ol ol>li>em:before,
+section.cool-list>ol ol>li>a:before {
   content: counter(li2);
   counter-increment: li2;
 }
-section.cool-list > ol > li > ul {
+
+section.cool-list>ol>li>ul {
   list-style-type: disc;
   margin: 0 0 0 1em;
   font-size: 75%;
 }
-section.cool-list > ol ol > li > em {
+
+section.cool-list>ol ol>li>em {
   background: #efefef;
 }
 
@@ -616,14 +639,19 @@ section.cool-list > ol ol > li > em {
 */
 
 section.cool-list2 ol {
-  counter-reset: li; /* Initiate a counter */
-  list-style: none; /* Remove default numbering */
+  counter-reset: li;
+  /* Initiate a counter */
+  list-style: none;
+  /* Remove default numbering */
   padding: 0;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 }
+
 section.cool-list2 ol ol {
-  margin: 0 0 0 2em; /* Add some left margin for inner lists */
+  margin: 0 0 0 2em;
+  /* Add some left margin for inner lists */
 }
+
 section.cool-list2 ol li em {
   position: relative;
   display: block;
@@ -635,10 +663,12 @@ section.cool-list2 ol li em {
   transition: all 0.3s ease-out;
   font-style: normal;
 }
+
 section.cool-list2 ol li em:hover {
   background: #eee;
   font-weight: bolder;
 }
+
 section.cool-list2 ol li em:before {
   content: counter(li);
   counter-increment: li;
@@ -654,6 +684,7 @@ section.cool-list2 ol li em:before {
   text-align: center;
   font-weight: bold;
 }
+
 section.cool-list2 ol li em:after {
   position: absolute;
   content: '';
@@ -663,28 +694,35 @@ section.cool-list2 ol li em:after {
   margin-top: -0.5em;
   transition: all 0.3s ease-out;
 }
+
 section.cool-list2 ol li em:hover:after {
   left: -0.5em;
   /* border-left-color: #fa8072; */
   border-left-color: var(--lighter-color);
 }
+
 /* Lists inside lists */
 section.cool-list2 ol ol {
-  margin: 0 0 0 2em; /* Add some left margin for inner lists */
+  margin: 0 0 0 2em;
+  /* Add some left margin for inner lists */
   font-size: 75%;
-  counter-reset: li2; /* Initiate a counter */
+  counter-reset: li2;
+  /* Initiate a counter */
 }
-section.cool-list2 ol ol > li > em:before,
-section.cool-list2 ol ol > li > a:before {
+
+section.cool-list2 ol ol>li>em:before,
+section.cool-list2 ol ol>li>a:before {
   content: counter(li2);
   counter-increment: li2;
   background: lightgray;
 }
+
 section.cool-list2 ol ul {
   list-style-type: disc;
   margin: 0 0 0 1em;
   font-size: 75%;
 }
+
 section.cool-list2 ol ol em {
   background: #efefef;
 }
