@@ -3,12 +3,10 @@
 /*
   ============================================
     Created by Paulo Cunha
-    version: 1.75
-    
-    update: 06.mai.2024
-    update: 23.jun.2023 
-    update: 12.mai.2022
-    update: 30.dez.2021
+    version: 1.71
+    last: update: 23.jun.2023 
+          update: 12.mai.2022
+          update: 30.dez.2021
          
   ============================================
 
@@ -423,50 +421,6 @@ section.transition2 em {
 section.transition2 footer,
 section.transition2 header,
 section.transition2:after {
-  /* hide header, footer and pagination */
-  display: none;
-}
-
-
-/* ------------------- TRANSITION3 -----------------------------*/
-/* 
-    transition2 class: first slide in a section. Use h1 as header.
-    Use: 
-    
-    <!-- _class: transition3 --> 
-
-    # Header
-   
-*/
-section.transition3 {
-  background-color: rgb(66, 69, 71);
-  text-align: center !important;
-  font-weight: bold !important;
-  color: rgb(255, 255, 255);
-  padding-top: auto;
-  padding-buttom: auto;
-}
-
-section.transition3 h1,
-section.transition3 h2,
-section.transition3 p,
-section.transition3 a {
-  color: rgb(244, 247, 217);
-  font-size: 200%;
-  border-bottom: none;
-}
-
-section.transition3 em {
-  background-color: rgb(60, 255, 0) !important;
-}
-
-section.transition3 strong {
-  color: rgb(71, 83, 90);
-}
-
-section.transition3 footer,
-section.transition3 header,
-section.transition3:after {
   /* hide header, footer and pagination */
   display: none;
 }

@@ -69,7 +69,8 @@ section.titlepage strong {
 
 /* ----------------   ROOT PAGE ---------------- */
 :root {
-  /* font-family: 'Fira Sans Light'; */
+  /* font-family: 'Dolly';
+  font-family: 'Fira Sans Light'; */
   font-family: 'Noto Sans SC', sans-serif;
   font-weight: initial;
   color: #f4f6f8;
