@@ -41,6 +41,11 @@
 
 }
 
+h2 strong {
+
+  color: rgb(207, 14, 14);
+
+}
 section.titlepage .title {
   border-bottom: 1px solid orangered;
 }
