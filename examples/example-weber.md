@@ -12,7 +12,7 @@ theme: weber
 
 ![bg left:33% brightness:0.9](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Max_Weber%2C_1918.jpg/330px-Max_Weber%2C_1918.jpg)
 
-<div class="title"         > Die Protestantische Ethik und der &laquo;Geist&raquo; des Kapitalismus </div>
+<div class="title"         > Die Protestantische Ethik und der &raquo;Geist&laquo; des Kapitalismus </div>
 <div class="subtitle"      >  Wirtschaft und Gesellschaft: Religionssoziologie </div>
 <div class="author"        > Maximilian Karl Emil Weber  (Max Weber)</div>
 <div class="date"          > Freiburg im Breisgau, 1904-1905  </div>
@@ -24,7 +24,7 @@ theme: weber
 
 <!-- _class: titlepage -->
 
-# Die Protestantische Ethik und der &laquo;Geist&raquo; des Kapitalismus
+# Die Protestantische Ethik und der &raquo;Geist&laquo; des Kapitalismus
 
 ## Wirtschaft und Gesellschaft: Religionssoziologie
 
