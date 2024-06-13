@@ -308,10 +308,10 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 </div>
      
 --- 
+
  <!-- _class: cite -->        
 
-
-"Die Vorstellung, dass es **gefährliche** Gedanken gibt, ist aus dem einfachen Grund falsch, weil das **Denken selbst** für alle Glaubensrichtungen, Überzeugungen und Meinungen gefährlich ist."
+"Die Vorstellung, dass es **gefährliche** Gedanken gibt , ist aus dem einfachen Grund falsch, weil das **Denken selbst** für alle Glaubensrichtungen, Überzeugungen und Meinungen gefährlich ist."
 <br>
 <div align="right">
 Hannah Arendt, Vom Leben des Geistes. <br> Das Denken, Band 1 , Piper, <br> München/Zürich 1979.

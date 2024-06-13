@@ -16,37 +16,38 @@
 
 /* Importing Font */
 /* Font Credit: htts://https://www.cdnfonts.com/ */
-/* @import url('https://fonts.cdnfonts.com/css/fira-sans'); */
-/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119'); */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Fira+Sans+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  /* font-family: "Cormorant Garamond", serif; */
-  /* font-family: "Fira Sans Condensed", serif; */
+
+  font-family: "Fira Sans Condensed", serif;
+  font-family: "PT Serif", serif;
+  font-family: Cambria, serif;
   font-family: "Bookerly", serif;
 
   font-weight: initial;
-  --italic-background-color   : rgba(214, 25, 66, 0.144);
-  --italic-background-color   : rgba(8, 206, 255, 0.3);
   --italic-background-color   : rgba(8, 140, 255, 0.236);    
-  background-color: rgb(238, 244, 237); 
+  
+  background-color: rgb(235, 235, 235);
+  background-color: rgb(216, 222, 233);
 }
 
 h1 {
-  color:rgb(23, 86, 118);
-  color:rgb(11, 37, 69);
-  color:rgb(53, 80, 112);
-  color:rgb(53, 80, 112);
+  color:rgb(11, 37, 69); 
+  font-size: 30pt;
   padding-bottom: 2mm;
+  letter-spacing: 0.01em;
   margin-bottom: 12mm;
 }
 
 p {
-  font-size: 32pt;
-  font-weight: 1000;
-  color:rgba(78, 78, 80, 0.814)  
+  
+  font-size: 26pt;
+  font-weight: 400;
+  letter-spacing: 0.125px;
+  color:rgb(60, 60, 76);  
 }
 
 section.titlepage .title {

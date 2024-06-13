@@ -133,9 +133,17 @@ section table th {
 /* -------------------- CITE -----------------------------*/
 
 section.cite {
+
+
+  background-color: #cedbf3;
   background-color: #d8dee9;
-  --strong-color: #f0031b;
   --strong-color: #4d75a5;
+}
+
+section.cite p{
+
+  font-family: Cambria, Georgia, Times, 'Times New Roman', serif !important;
+
 }
 
 /* -------------------- TITLEPAGE --------------------------*/

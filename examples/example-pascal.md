@@ -1,5 +1,5 @@
 ---
-title       : Example Slides for Theme Gödel
+title       : Example Slides for Theme Pascal
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
 keywords    : Marp, Slides, Themes.
@@ -39,7 +39,7 @@ theme       : pascal
 
 <div class="title"         > Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme </div>
 <div class="subtitle"      > On Formally Undecidable Propositions </div>
-<div class="author"        > Kurt Gödel </div>
+<div class="author"        > Blaise Pascal</div>
 <div class="date"          > Königsberg, 5–7 September, 1930 </div>
 <div class="organization"  > Second Conference on the Epistemology of the Exact Sciences    </div>
 
