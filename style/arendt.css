@@ -46,14 +46,14 @@
   --default-font-color: rgb(68, 52, 16);
   --default-font-color: rgb(88, 18, 22);
   --default-font-color: rgb(68, 19, 16);
-  
+
   --default-list-font-color: #e0ac00;
   --cool-list-color: rgb(255, 31, 1);
-  
+
   --bold-color: rgb(0, 85, 255);
-    
-  --default-header-font-color: rgb(22, 22, 22);  
-  --subtitle-color: rgb(12, 55, 75);  
+
+  --default-header-font-color: rgb(22, 22, 22);
+  --subtitle-color: rgb(12, 55, 75);
   --letter-spacing: -0.6px !important;
   --default-header-bold-font-color: rgb(228, 5, 5);
   --default-strong-font-color: rgb(201, 59, 34);
@@ -61,10 +61,10 @@
   --default-border-color: 2px solid rgb(211, 34, 11);
 
 
-  
+
   background-color: var(--default-background-color);
   color: var(--default-font-color);
-  
+
 }
 
 :root p {
@@ -76,7 +76,8 @@
   color: var(--default-font-color);
 }
 
-:root ul, ol {
+:root ul,
+ol {
 
   font-size: 30px;
   font-family: "BodyFont", sans-serif !important;
@@ -103,7 +104,7 @@ h6 {
 
 :root pre {
   color: rgb(3, 3, 3);
-  font-weight:800 ;
+  font-weight: 800;
   background-color: #ffffffa1;
 }
 
@@ -120,6 +121,7 @@ section strong {
   padding-right: 2px;
   font-weight: 600;
 }
+
 /* -------------------- TABLE -----------------------------*/
 
 section table {
@@ -140,7 +142,7 @@ section.cite {
   --strong-color: #4d75a5;
 }
 
-section.cite p{
+section.cite p {
 
   font-family: Cambria, Georgia, Times, 'Times New Roman', serif !important;
 
@@ -151,7 +153,7 @@ section.cite p{
 section.titlepage {
   color: var(--default-font-color);
   background-color: var(--default-background-color);
-  --subtitle-font-weight  : 300;
+  --subtitle-font-weight: 300;
 
 }
 
@@ -228,5 +230,4 @@ li {
   font-weight: 100;
 }
 
-section.columns li {
-}
+section.columns li {}

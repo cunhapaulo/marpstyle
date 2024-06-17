@@ -1,0 +1,105 @@
+/* @theme copernico */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 17.jun.2024
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/* 
+--------------------------------------------------------------
+    Font Importing (download)
+    Font Credit: htts://https://www.cdnfonts.com/
+-------------------------------------------------------------- 
+*/
+
+@import url('https://fonts.cdnfonts.com/css/fira-sans');
+
+
+
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+
+    font-family: 'Fira Sans Light';
+    font-weight: initial;
+    /* font-size: 24pt; */
+    font-kerning: auto !important;
+    background-color: rgb(184, 184, 184);
+    background-color: rgb(243, 241, 236);
+
+    --italic-background-color: rgba(251, 255, 0, 0.76);
+}
+
+section.titlepage {
+
+    background-color: rgb(211, 209, 209);
+    background-color: rgb(184, 184, 184);
+    background-color: rgb(119, 144, 199);
+    background-color: rgb(132, 152, 196);
+
+    color: rgb(196, 218, 252) !important;
+
+}
+
+section.titlepage .author,
+.date,
+.organization {
+    text-align: left !important;
+    font-weight: 800 !important;
+}
+
+section.titlepage h3,
+h4,
+h5,
+.author,
+.date,
+.organization {
+    font-weight: 800 !important;
+}
+
+section.titlepage h1,
+.title {
+    color: black !important;
+    border-bottom: 1px solid rgb(243, 243, 223) !important;
+}
+
+section.titlepage h2,
+.subtitle {
+
+    color: rgb(220, 222, 224) !important;
+}
+
+
+section strong {
+    color: rgb(255, 0, 0);
+}
+
+section.transition {
+    font-size: 22pt;
+
+}
+
+section.transition em {
+
+    /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+
+}
+
+section.transition strong {
+
+    /* text-shadow: 6px 6px 0 rgb(207, 143, 4);*/
+    color: rgb(255, 166, 1);
+    font-size: 90% !important;
+    font-style: italic;
+
+}
