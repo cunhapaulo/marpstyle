@@ -80,6 +80,12 @@ section strong {
   font-weight: 600;
 }
 
+
+section figcaption{
+  font-size: 80%;
+  padding-top: 16px;  
+}
+
 /* May append some string to page number     */
 /* Uses format "page-number / total pages" */
 

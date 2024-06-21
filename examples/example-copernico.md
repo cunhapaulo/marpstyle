@@ -1,5 +1,5 @@
 ---
-title: Example Slides for Theme Max Weber
+title: Example Slides for Theme Nicoau Copérnico
 author: Paulo Cunha
 description: This is an example of how to use my themes
 keywords: Marp, Slides, Themes, Marpstyle, Copernico
@@ -12,11 +12,11 @@ theme: copernico
 
 ![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Copernicus.jpg/200px-Copernicus.jpg)
 
-<div class="title"         > Meditationes de Prima Philosophia </div>
-<div class="subtitle"      > In qua Dei existentia et animæ immortalitas </div>
-<div class="author"        > Mikołaj Kopernik (Nicolau Copérnico) </div>
-<div class="date"          > Glasgow, 1641 </div>
-<div class="organization"  > Sacred Faculty of Theology in Paris </div>
+<div class="title"         > De revolutionibus orbium coelestium </div>
+<div class="subtitle"      > On the Revolutions of the Heavenly Spheres </div>
+<div class="author"        > Mikołaj Kopernik (Nicolaus Copernicus) </div>
+<div class="date"          > Nürnberg, 1543 </div>
+<div class="organization"  > Heiliges Römisches Reich </div>
 
 ---
 
@@ -24,11 +24,11 @@ theme: copernico
 
 <!-- _class: titlepage -->
 
-# Meditationes de Prima Philosophia 
-## In qua Dei existentia et animæ immortalitas demonstratur
-### Mikołaj Kopernik (Nicolau Copérnico)
-#### Glasgow, 1641
-##### Sacred Faculty of Theology in Paris 
+# De revolutionibus orbium coelestium 
+## On the Revolutions of the Heavenly Spheres
+### Mikołaj Kopernik (Nicolaus Copernicus)
+####  Nürnberg, 1543 
+##### Heiliges Römisches Reich 
 
 
 ---
@@ -73,7 +73,7 @@ Research has been conducted in order to evaluate the possibility of reaching mea
 - Model Cheking and theorem prooving are viable paths.
 
 - This is the first way: **outstanding assertion**!
-- Even greater impact comes from: _hilight text_!  
+- Even greater impact comes from: _hilight text!_
 
 
 > **\*Note**: This is a very long footnote line intended to test the layout of two.
@@ -178,7 +178,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
 <figcaption>
 &nbsp
 </figcaption>
@@ -186,7 +186,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div> 
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
 
 <figcaption>
 &nbsp
@@ -202,7 +202,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center" align="center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 <b>Figure 1</b>: Göthe, Suhrkamp (2011).
 </figcaption>
@@ -210,7 +210,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div>
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
 
 <figcaption>
 <b>Figure 2</b>: Sophokles, Suhrkamp (2015).
@@ -228,7 +228,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:400 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Oxford edition (1979).
@@ -269,7 +269,7 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
 <div>
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
+![h:400 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Springer edition (2023).

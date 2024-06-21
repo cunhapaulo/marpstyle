@@ -21,10 +21,8 @@
 -------------------------------------------------------------- 
 */
 
-@import url('https://fonts.cdnfonts.com/css/fira-sans');
-
-
-
+@import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20123,20126,20116,20119,20121,20124,20112,20114,20110');
+@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730,19733,19723,19726,19728,19731,19719,19721,19717');
 
 /***************** COMMON STRUCTURE **********************/
 
@@ -32,24 +30,94 @@
 
     font-family: 'Fira Sans Light';
     font-weight: initial;
-    /* font-size: 24pt; */
     font-kerning: auto !important;
-    background-color: rgb(184, 184, 184);
-    background-color: rgb(243, 241, 236);
 
-    --italic-background-color: rgba(251, 255, 0, 0.76);
+    /* 
+    background-color: rgb(243, 241, 236);
+    background-color: rgb(119, 144, 199);
+    background-color: rgb(110, 108, 108);
+    background-color: rgb(184, 184, 184);
+    background-color: rgb(154, 187, 237);
+    background-color: rgb(212, 212, 212); 
+    */
+    background-color: rgb(220, 220, 220);
+
+}
+
+
+section h1 {
+
+    font-family: 'Fira Sans';
+    font-weight: 500;
+    color: rgb(8, 25, 76);
+    letter-spacing: -1.25px;
+
+}
+
+section h2 {
+
+    font-family: 'Fira Sans';
+    font-weight: 500;
+    color: rgb(87, 115, 152);
+
+}
+
+section p {
+
+    font-family: 'Fira Sans Condensed';
+    font-weight: 400 !important;
+    color: rgb(46, 54, 76);
+    /* letter-spacing: 0.01pt; */
+
+}
+
+section em {
+    font-family: 'Fira Sans';
+    font-weight:400;
+    font-style: normal;
+    font-size: 105%;
+    letter-spacing: -0.8pt;
+
+    background-color: rgba(238, 255, 0, 0.671);
+    background-color: rgba(119, 144, 199, 0.349);
+    color: rgb(0, 0, 0);
+}
+
+section strong {
+    color:rgb(236, 80, 101) !important;
+    font-weight: 00 !important;
+}
+
+section figcaption{
+  color:black;
 }
 
 section.titlepage {
-
+/* 
     background-color: rgb(211, 209, 209);
-    background-color: rgb(184, 184, 184);
+    background-color: rgb(184, 184, 184); 
+*/
     background-color: rgb(119, 144, 199);
-    background-color: rgb(132, 152, 196);
-
     color: rgb(196, 218, 252) !important;
 
 }
+
+
+section.titlepage h1,
+.title {
+
+    font-family: 'Fira Sans';
+    font-weight: 600;
+    color: rgb(1, 1, 1);
+    border-bottom: 1px solid rgb(243, 243, 223) !important;
+}
+
+section.titlepage h2,
+.subtitle {
+
+    color: rgb(220, 222, 224) !important;
+}
+
 
 section.titlepage .author,
 .date,
@@ -67,21 +135,11 @@ h5,
     font-weight: 800 !important;
 }
 
-section.titlepage h1,
-.title {
-    color: black !important;
-    border-bottom: 1px solid rgb(243, 243, 223) !important;
-}
-
-section.titlepage h2,
-.subtitle {
-
-    color: rgb(220, 222, 224) !important;
-}
-
 
 section strong {
-    color: rgb(255, 0, 0);
+    color: rgb(255, 208, 0);
+    color: rgb(74, 5, 250);
+    font-weight: 500;
 }
 
 section.transition {

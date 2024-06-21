@@ -1,21 +1,22 @@
 # Important Notes for Development
 
 
-## Backgound color
+## Backgound Colors
 
 1. background-color: #f3f1ec; - used in Hume.
 
-## Font types
+## Fonts
 
-### Fira Mono 
-Monospaced font used in IDE´s.
+| Font            | Obs                           | Link                                                     |
+| :-------------- | :---------------------------- | :------------------------------------------------------- |
+| `Cascadia Mono` | Monospaced font used in IDE´s | [CDN Fonts](https://www.cdnfonts.com/cascadia-code.font) |
+| `Fira Mono`     | Monospaced font used in IDE´s | [CDN Fonts](https://www.cdnfonts.com/fira-mono.font)     |
+| `Fira Sans`     | Nice font                     | [CDN Fonts](https://www.cdnfonts.com/fira-sans.font)     |
+| `Open Sans`     |                               | [CDN Fonts](https://www.cdnfonts.com/open-sans.font)     |
+| `PT Sans`       | Used in Hume                  | [CDN Fonts](https://www.cdnfonts.com/pt-sans-2.font)     |
 
-### [Fira Sans]()
 
-
-### [PT Sans](https://www.cdnfonts.com/pt-sans-2.font):
-Used in Hume.
-
+## PT Sans
 @import:
 ```html
 <style>
@@ -31,7 +32,7 @@ font-family: 'PT Sans Caption', sans-serif;
 font-family: 'PT Sans Narrow', sans-serif;                                                
 ```
 
-### [Open Sans:](https://www.cdnfonts.com/open-sans.font)
+## Open Sans:
 
 @import:
 ```html
@@ -45,5 +46,5 @@ Usage:
 ```html
 font-family: 'Open Sans', sans-serif;
 font-family: 'Open Sans Light', sans-serif;
-font-family: 'Open Sans Condensed', sans-serif;                                                
+font-family: 'Open Sans Condensed', sans-serif;                                          
 ```
