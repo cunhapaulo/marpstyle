@@ -34,14 +34,17 @@
 
     /* 
     background-color: rgb(243, 241, 236);
-    background-color: rgb(119, 144, 199);
-    background-color: rgb(110, 108, 108);
-    background-color: rgb(184, 184, 184);
-    background-color: rgb(154, 187, 237);
+    background-color: rgb(204, 207, 208); 
     background-color: rgb(212, 212, 212); 
+    background-color: rgb(184, 184, 184);
+    background-color: rgb(110, 108, 108);
+    background-color: rgb(194, 204, 224); 
+    background-color: rgb(175, 191, 223); 
+    background-color: rgb(154, 187, 237);
+    background-color: rgb(119, 144, 199);
     */
+    
     background-color: rgb(220, 220, 220);
-
 }
 
 
@@ -62,6 +65,17 @@ section h2 {
 
 }
 
+section h3 {
+
+    font-family: 'Fira Sans';
+    font-weight: 400;
+    font-size: 130%;
+    /* color: rgb(87, 115, 152); */
+    letter-spacing: -1.25px;
+
+
+}
+
 section p {
 
     font-family: 'Fira Sans Condensed';
@@ -73,7 +87,7 @@ section p {
 
 section em {
     font-family: 'Fira Sans';
-    font-weight:400;
+    font-weight:500;
     font-style: normal;
     font-size: 105%;
     letter-spacing: -0.8pt;
@@ -84,8 +98,8 @@ section em {
 }
 
 section strong {
-    color:rgb(236, 80, 101) !important;
-    font-weight: 00 !important;
+    color:rgb(219, 92, 96) !important;
+    font-weight: 500 !important;
 }
 
 section figcaption{
@@ -123,7 +137,7 @@ section.titlepage .author,
 .date,
 .organization {
     text-align: left !important;
-    font-weight: 800 !important;
+    font-weight: 500 !important;
 }
 
 section.titlepage h3,
@@ -132,7 +146,8 @@ h5,
 .author,
 .date,
 .organization {
-    font-weight: 800 !important;
+    font-family: 'Fira Sans Condensed' ;
+    font-weight: 400 !important;
 }
 
 

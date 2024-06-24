@@ -68,7 +68,7 @@ Some text about what´s ahead...
 
 # Is Algebraic Graph Knowledge **Possible**?
 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.
+### Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.
 
 - Model Cheking and theorem prooving are viable paths.
 
@@ -158,7 +158,8 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 
 ---
 
-![bg opacity:0.28 blur:5px](https://perspectivabr.files.wordpress.com/2011/01/10005704-p.jpg)
+![bg opacity:0.25 blur:8px grayscale:1](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg/1280px-Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg)
+
 
 # LaTeX Equations
 
@@ -289,7 +290,7 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
 
 <!-- _class: cite -->
 
-![bg opacity:.3 blur:8.0px  ](../img/max-weber1.jpg)
+![bg opacity:.3 blur:8.0px  ](../img/copernicus2.gif)
 
 <div class="cite-author" data-text="Mona Batra">
 
@@ -299,7 +300,7 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
      
 ---
 <!-- _class: transition -->  
-![bg brightness:0.9 opacity:.2](../img/max-weber.webp)
+![bg brightness:0.9 opacity:.2](../img/copernicus2.gif)
 
 Transition Slide 1<br> _Aditional_ **Text**
 
@@ -307,25 +308,16 @@ Transition Slide 1<br> _Aditional_ **Text**
 
 <!-- _class: transition2 -->
 
-![bg opacity:.17 blur:2.0px](https://blog.insiderstore.com.br/wp-content/uploads/2021/02/descobertas-de-albert-einstein-destaque-2048x1536.webp)
+![bg opacity:.15 blur:2.0px grayscale:1 brightness:0.75](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg/1280px-Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg)
 
 Transition Slide 2<br> _Aditional_ **Text**
 
 ---
 
-<!-- _backgroundColor: lightgray -->
-
-![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg/1280px-Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg)
-
----
 
 <!-- _class: transition2 -->
 
-**THANK YOU!**
 
-![bg opacity:.85](https://i.ytimg.com/vi/GMfYG6RJ-jk/maxresdefault.jpg)
-
----
 
 <!-- _class: biblio -->
 
