@@ -169,7 +169,9 @@ $$\nabla^2 \textbf{E} = \mu \epsilon \frac{\partial^2 \textbf{E}}{\partial t^2}$
 $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <figcaption align="center">
+
 <b>Formulae</b>: Exemples of use of LaTeX formulas.
+
 </figcaption>
 
 ---
