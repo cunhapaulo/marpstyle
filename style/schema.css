@@ -97,6 +97,5 @@ section.titlepage {
 /* ------------------- CITE -----------------------------*/
 section.cite {
     --background-color: #fdf6e3;
-    ;
     --strong-color: rgb(182, 112, 27);
 }

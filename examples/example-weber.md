@@ -323,13 +323,6 @@ Transition Slide 2<br> _Aditional_ **Text**
 
 ---
 
-<!-- _class: transition2 -->
-
-**THANK YOU!**
-
-![bg opacity:.85](https://i.ytimg.com/vi/GMfYG6RJ-jk/maxresdefault.jpg)
-
----
 
 <!-- _class: biblio -->
 

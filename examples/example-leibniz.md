@@ -189,7 +189,8 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center">
 <div>         
  
-![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
+![h:450px](../img/kleinrock.jpg)
+![h:450px]()
    
 </div>
 <div>
@@ -206,7 +207,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center" align="center">
 <div>         
  
-![h:450px](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4715/9780471555681.jpg)
+![h:450px](../img/kleinrock.jpg)
 <figcaption>
 <b>Figure</b>: Kleinrock, Gail (1979).
 </figcaption>

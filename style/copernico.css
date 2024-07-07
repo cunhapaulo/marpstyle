@@ -45,6 +45,7 @@
     */
     
     background-color: rgb(220, 220, 220);
+    --cool-list-color: rgb(119, 144, 199)
 }
 
 
@@ -54,6 +55,8 @@ section h1 {
     font-weight: 500;
     color: rgb(8, 25, 76);
     letter-spacing: -1.25px;
+    border-bottom: 1px solid rgb(87, 117, 145) !important;
+
 
 }
 
