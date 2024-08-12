@@ -7,7 +7,7 @@
 	"settings": {
 		"markdown.marp.themes": [
 			"./style/arendt.css"
-			"./style/copernico.css"
+			"./style/copernicus.css"
 			"./style/descartes.css"
 			"./style/einstein.css"
 			"./style/freud.css"
