@@ -84,9 +84,9 @@ This slide deck was created for a presentarion about Artifical Inteligence (AI).
 
 # What´s necessary to install?
 
-Course you need `Marp` installed and operational. I created the available styles having the VSCode environment in mind, and only it. But it doesn´t mean they don´t work well with other environments, I only did not test it at all.
+0. First, it is clear that you need `Marp` installed and operational. I just created these styles having the VSCode environment in mind, and only it, but it doesn´t mean they don´t work well with other environments, but I haven´t teste them at all.
 
-1. My suggestion is that you create a separate folder for each presentation you intend to create. Inside this presentarion folder I do also recomend you to create another folder, which might be called `/style`, specifically destinated for the `CSS` style files you intend do use in your presentation.
+1. My suggestion is that you create a separate folder for each intended presentation of yours. Inside this folder I do also recomend you to create another folder, which might be called `/style`, specifically destinated for the `CSS` style files you intend do use in your presentation.
 
 2. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles` available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
 
