@@ -5,10 +5,10 @@ I sincerely hope you make good use of it and that it comes to be as useful to yo
 
 If you find it useful, all I ask is that you give the credits in you presentarions.
 
-### (updates - 31.mar.2024) 
+### (**UPDATES** - 31.mar.2024) 
 - **Max Weber**
   
-### (Forthcoming - soon!)
+### (**FORTHCOMING** - soon!)
 - Hume
 - Orwell
 - Pascal
