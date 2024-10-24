@@ -6,11 +6,14 @@ I sincerely hope you make good use of it and that it comes to be as useful to yo
 If you find it useful, all I ask is that you give the credits in you presentarions.
 
 ### (updates - 31.mar.2024) 
-- **Max Weber** 	
+- **Max Weber**
   
+### (Forthcoming - soon!)
+- Hume
+- Orwell
+- Pascal
 
-
-More styles will be released soon.  Stay tuned for more `marpstyle themes`! 
+These styles will soon be released!  Stay tuned for more `marpstyle themes`! 
 
 ## One Example of Marp slide creation with style!
 
