@@ -271,7 +271,7 @@ section.titlepage .title {
   font-weight: var(--title-font-weight);
   color: var(--title-color);
   border-bottom: 1px solid var(--border-color);
-  line-height: 1.25;
+  line-height: 1.2;
   padding-bottom: 15px;
 }
 
@@ -313,7 +313,7 @@ section.titlepage h5 {
   font-weight: 400;
   text-align: right;
   color: var(--titlepage-color);
-  line-height: 0;
+  line-height: 0.45;
   letter-spacing: var(--letter-spacing);
 }
 
