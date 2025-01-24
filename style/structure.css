@@ -117,18 +117,22 @@ section::after {
    
 */
 section table {
-  margin-right: auto;
-  margin-left: auto;
   margin-top: 40px;
-  width: auto;
+  
+  
+  /* width: auto;  (24.01.2025 paulo.cunha) */
   border: 0;
   font-size: 24px;
+  
+    margin-right: auto !important;
+    margin-left: auto !important; 
+  
 }
 
 section table th {
   background-color: var(--table-header-color);
   color: var(--table-header-font-color);
-  border: 0;
+  border: 1;
   border-top: var(--table-border-top) solid 2px;
 }
 
@@ -138,6 +142,7 @@ section table td {
 
 section table tr:nth-child(2) {
   background-color: #c4c6c6;
+  
 }
 
 section table tr:last-child {
@@ -153,6 +158,7 @@ tr:hover {
   background-color: var(--table-hover-background-color);
   font-weight: bold;
 }
+
 
 /* ------------------- BLOCK QUOTE -----------------------------*/
 /* 

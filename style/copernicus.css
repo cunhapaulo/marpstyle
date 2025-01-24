@@ -58,7 +58,9 @@ section h1 {
 
     font-family: 'Fira Sans';
     font-weight: 500;
-    color: rgb(8, 25, 76);
+    color: rgb(53, 78, 158);
+    color: rgb(1, 25, 99);
+
     letter-spacing: -1.25px;
     border-bottom: 1px solid rgb(87, 117, 145) !important;
 
@@ -70,7 +72,6 @@ section h2 {
     font-family: 'Fira Sans';
     font-weight: 500;
     color: rgb(87, 115, 152);
-    color: rgb(211, 29, 23);
     color: rgb(199, 13, 0);
 
 

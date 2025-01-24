@@ -10,7 +10,7 @@ theme: copernicus
 
 <!-- _class: titlepage -->
 
-![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Copernicus.jpg/200px-Copernicus.jpg)
+![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Copernicus.jpg/800px-Copernicus.jpg)
 
 <div class="title"         > De revolutionibus orbium coelestium </div>
 <div class="subtitle"      > On the Revolutions of the Heavenly Spheres </div>
@@ -146,14 +146,20 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 
 # Tables
 
+
+
 | Column A | Column B | Column C | Column D |
-| -------- | -------- | -------- | :------: |
+| :------: | -------: | -------- | :------: |
 | A1       | B1       | C1       |    D1    |
 | A2       | B2       | C2       |    D2    |
 | A3       | B3       | C3       |    D3    |
 
+
+
 <figcaption align="center">
+
 <b>Table</b>: Exemple of use of tables.
+
 </figcaption>
 
 ---
