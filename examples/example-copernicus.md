@@ -14,7 +14,7 @@ theme: copernicus
 
 <div class="title"         > De revolutionibus orbium coelestium </div>
 <div class="subtitle"      > On the Revolutions of the Heavenly Spheres </div>
-<div class="author"        > Mikołaj Kopernik (Nicolaus Copernicus) </div>
+<div class="author"        > Niklas Koppernigk (Nicolaus Copernicus) </div>
 <div class="date"          > Nürnberg, 1543 </div>
 <div class="organization"  > Heiliges Römisches Reich </div>
 
@@ -26,7 +26,7 @@ theme: copernicus
 
 # De revolutionibus orbium coelestium 
 ## On the Revolutions of the Heavenly Spheres
-### Mikołaj Kopernik (Nicolaus Copernicus)
+### Niklas Koppernigk (Nicolaus Copernicus)
 ####  Nürnberg, 1543 
 ##### Heiliges Römisches Reich 
 
