@@ -41,7 +41,7 @@ This slide deck was created for a presentarion about Artifical Inteligence (AI).
 ### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-### ![](img/marpstyle-brand-new.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543) 
+### ![](img/marpstyle-brand-new.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
   [![Style: Descartes](img/copernicus.png)](examples/example-copernicus.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
