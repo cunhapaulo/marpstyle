@@ -83,7 +83,8 @@ section strong {
 
 section figcaption{
   font-size: 80%;
-  padding-top: 16px;  
+  padding-top: 16px;
+  /* text-align: center; */
 }
 
 /* May append some string to page number     */

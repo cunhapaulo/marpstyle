@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 16.jun.2024
+    last update: 27.jan.2025
   ============================================       
 */
 
@@ -14,51 +14,57 @@
 @import "schema";
 @import "structure";
 
-/* Importing Font */
-/* Font Credit: htts://https://www.cdnfonts.com/ */
-/* @import url('https://fonts.cdnfonts.com/css/fira-sans'); */
-/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119'); */
-/* @import url('https://fonts.cdnfonts.com/css/pt-sans-2'); */
-@import url('https://fonts.cdnfonts.com/css/open-sans');
-
-
 /***************** COMMON STRUCTURE **********************/
 
 :root {
-  font-family: 'Open Sans', "PT Sans", 'Fira Sans', sans-serif;
+  font-family: "Bookerly", serif;
+  font-family: 'Fira Sans';
 
-  font-weight: initial;
-  --italic-background-color   : rgba(214, 25, 66, 0.144);
-  --italic-background-color   : rgba(8, 206, 255, 0.3);
-  --italic-background-color   : rgba(8, 140, 255, 0.236);    
-  background-color: #f3f1ec; 
+  font-weight: 400;
+  letter-spacing: -0.9px;
+  font-size: 22pt;
+  color: white;
+  color: black;
+  color:rgba(26, 43, 75, 0.814);
+
+  
+  --italic-background-color   : rgba(206, 252, 0, 0);    
+
+
+  background-color: #ede3de; 
+  background-color: #deccc4; 
+  background-color: #d9dee9; 
+  background-color: #b4bfdb; 
 }
 
 h1 {
-  color:rgb(53, 80, 112);
-  color:rgb(11, 37, 69);
-  letter-spacing: 0.25pt;
+  
+  font-family: 'Fira Sans';
+  font-weight: 500;
+  font-size: 30pt;
+
+  color: white;
+  color: rgb(1, 81, 172);
+  color: rgb(90, 109, 128);
+  color: rgb(52, 86, 119);
+  
   padding-bottom: 2mm;
   margin-bottom: 12mm;
 }
 
 p {
-  font-size: 26pt;
-  font-weight: 600;
-  color:rgba(44, 44, 53, 0.814)  
+  font-size: 120%;
+  font-weight: 500;
+  color:rgba(26, 43, 75, 0.814)  
+}
+
+section.titlepage .title, h1 {
+  border-bottom: 1px solid orangered;
 }
 
 
 section.cite {
-  --strong-color        : rgba(255, 5, 5, 0.795);
-}
-
-section.titlepage {
-  background-color: #f3f1ec; 
-}
-
-section.titlepage .title {
-  border-bottom: 1px solid orangered;
+  --strong-color        : rgba(255, 218, 5, 0.795);
 }
 
 section.titlepage .author,
@@ -68,25 +74,31 @@ section.titlepage .organization {
 }
 
 section strong {
-  color:rgb(141, 169, 196) ;
-  color:rgb(181, 101, 118) ;
-  color:rgb(229, 107, 111) ;
-  color:rgba(23, 86, 118) ;
-  color:rgb(0, 53, 199) ;
-  color:rgb(186, 50, 79) ;
-  color:rgb(179, 31, 63) ;
+  color:rgb(1, 116, 247) ;
+  color:rgb(247, 71, 1) ;
   padding-left: 1px;
   padding-right: 1px;
-  font-weight: 600;
+  font-weight: 400;
+}
+
+section code {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 500 !important;
+  background-color: rgba(206, 252, 0, 0.877); 
+  
+  color:rgb(10, 10, 10) !important;
 }
 
 section.transition em{
-  background-color: rgb(255, 166, 0) !important;
+  background-color: rgb(251, 255, 0) !important;
 }
 
 
 section.transition strong {
+  color: rgba(207, 235, 121, 0.964);
   color: rgba(230, 250, 6, 0.905);
+  color: rgba(194, 228, 5, 0.904);
   font-weight: 1000;
   text-shadow: 2px 2px 10px rgb(101, 45, 3);
 }
