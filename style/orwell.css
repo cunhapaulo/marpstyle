@@ -16,13 +16,15 @@
 
 /* Importing Font */
 /* Font Credit: htts://https://www.cdnfonts.com/ */
-@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+@import url('https://fonts.cdnfonts.com/css/adobe-caslon-pro');
 
 
 /* -------------------- ROOT -------------------------------*/
 :root {
   
-  font-family: 'Fira Sans Condensed', sans-serif;
+  /* font-family: 'Fira Sans Condensed', sans-serif; */
+  font-family: 'Adobe Caslon Pro', sans-serif;
   font-weight: initial;
   
   /* Default Colors */
