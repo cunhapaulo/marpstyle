@@ -3,29 +3,29 @@
 `marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
 I sincerely hope you make good use of it and that it comes to be as useful to you as it has been to me. 
 
-
-> If you find the styles useful, please register the credits in you presentarions!
+> If you find the styles useful, please include the credits in your presentations!
 
 ## ![](img/marpstyle-brand-new.svg) **New Feature**:  List Items Highlight (18.03.2024)
 
-Just implemented, on all styles, highlighting of list items as you hoover over it with mouse pointer. 
+I have just implemented the highlighting of list elements in all styles when you move the mouse pointer over them. 
 
-> Remember that this feature, as many others, works only when you export your presentation in HTML mode.
+> Please note that this function, like many others, only works if you export your presentation in HTML mode.
 
 ![alt text](image.png)
 
-Should you dislike the hilight or the default color, you can do either, disable it or change the color of the highlightbar as follows:
+> If you do not like the highlighting or the default color, you can either deactivate it or change the color of the highlighting bar as follows:
+
+
+### To disable list item highlight:
 
 Insert the following the code below in the begining of your presentation code:
-
-### To desable list item highlight:
 
 ```css
 
 <style>
 
 li:hover {
-  background-color: inherit;
+	background-color: inherit;
 }
 
 </style>
@@ -34,13 +34,14 @@ li:hover {
 
 ### To change the highlighting color to some other of your favorite color, insert this and choose you color:
 
+Insert the following the code below in the begining of your presentation code:
 
 ```css
 
 <style>
 
 li:hover {
-  background-color: rgb(46, 253, 6);
+  background-color: rgb(46, 253, 6); 
 }
 
 </style>
