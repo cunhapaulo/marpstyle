@@ -3,11 +3,14 @@
 `marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
 I sincerely hope you make good use of it and that it comes to be as useful to you as it has been to me. 
 
-If you find it useful, please register the credits in you presentarions.
 
-## New Feature:  List Items Highlight (18.03.2024)
+> If you find the styles useful, please register the credits in you presentarions!
 
-I´ve just implemented, on all styles, highlighting on list items as you hoover over with mouse pointer.
+## **New Feature**:  List Items Highlight (18.03.2024) ![](img/marpstyle-brand-new.svg)
+
+Just implemented, on all styles, highlighting on list items as you hoover over with mouse pointer. 
+
+> Remember that this feature, and many others, works only when you export your presentation in HTML mode.
 
 ![alt text](image.png)
 
@@ -29,7 +32,7 @@ li:hover {
 
 ```
 
-To change the highlight color to some other of your favorite color, insert this and choose you color:
+To change the highlighting color to some other of your favorite color, insert this and choose you color:
 
 
 ```css
