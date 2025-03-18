@@ -18,7 +18,7 @@ I have just implemented the highlighting of list elements in all styles when you
 
 ### To disable list item highlight:
 
-Insert the following the code in the begining of your presentation code:
+Insert the following code at the begining of your presentation code:
 
 ```css
 
@@ -34,7 +34,7 @@ li:hover {
 
 ### To change the highlighting color:
 
-Insert the following the code in the begining of your presentation code:
+Insert the following code at the begining of your presentation code:
 
 ```css
 
