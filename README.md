@@ -32,7 +32,7 @@ li:hover {
 
 ```
 
-### To change the highlighting color to some other of your favorite color, insert this and choose you color:
+### To change the highlighting color:
 
 Insert the following the code below in the begining of your presentation code:
 
