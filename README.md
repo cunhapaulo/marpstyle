@@ -3,7 +3,7 @@
 `marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
 I sincerely hope you make good use of it and that it comes to be as useful to you as it has been to me. 
 
-> If you find the styles useful, please include the credits in your presentations!
+### if you find the styles useful, please include the credits in your presentations!
 
 ## ![](img/marpstyle-brand-new.svg) **New Feature**:  List Items Highlight (18.03.2024)
 
