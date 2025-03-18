@@ -6,19 +6,19 @@ I sincerely hope you make good use of it and that it comes to be as useful to yo
 
 > If you find the styles useful, please register the credits in you presentarions!
 
-## **New Feature**:  List Items Highlight (18.03.2024) ![](img/marpstyle-brand-new.svg)
+## ![](img/marpstyle-brand-new.svg) **New Feature**:  List Items Highlight (18.03.2024)
 
-Just implemented, on all styles, highlighting on list items as you hoover over with mouse pointer. 
+Just implemented, on all styles, highlighting of list items as you hoover over it with mouse pointer. 
 
-> Remember that this feature, and many others, works only when you export your presentation in HTML mode.
+> Remember that this feature, as many others, works only when you export your presentation in HTML mode.
 
 ![alt text](image.png)
 
-Should you dislike the hilight or the default color, you can do either, disable it or change the color of the markcolor doing as follows:
+Should you dislike the hilight or the default color, you can do either, disable it or change the color of the highlightbar as follows:
 
 Insert the following the code below in the begining of your presentation code:
 
-To desable list items highlight:
+### To desable list item highlight:
 
 ```css
 
@@ -32,7 +32,7 @@ li:hover {
 
 ```
 
-To change the highlighting color to some other of your favorite color, insert this and choose you color:
+### To change the highlighting color to some other of your favorite color, insert this and choose you color:
 
 
 ```css
@@ -48,11 +48,7 @@ li:hover {
 ```
 ----
 
-
-### (**UPDATES** - 31.mar.2024) 
-- **Max Weber**
-  
-### (**FORTHCOMING** - soon!)
+## (**FORTHCOMING** - soon!)
 - Hume
 - Orwell
 - Pascal
