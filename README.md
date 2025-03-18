@@ -16,7 +16,8 @@ Should you dislike the hilight or the default color, you can do either, disable 
 Insert the following the code below in the begining of your presentation code:
 
 To desable list items highlight:
-```markdown
+
+```css
 
 <style>
 
@@ -31,7 +32,7 @@ li:hover {
 To change the highlight color to some other of your favorite color, insert this and choose you color:
 
 
-```markdown
+```css
 
 <style>
 
