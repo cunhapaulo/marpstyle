@@ -32,12 +32,10 @@ theme       : orwell
 
 </style>
 
-
-
 <!-- _class: titlepage -->
 ![bg left:33% brightness:0.9](../img/george-orwell.webp)
 
-<div class="title"         > Absolute, only the speed of light                   </div>
+<div class="title"         > Nineteen Eighty-Four </div>
 <div class="subtitle"      > General and Special Relativity in Physics           </div>
 <div class="author"        > George Orwell <small>(Eric Arthur Blair)</small>    </div>
 <div class="date"          > Bern, Schweiz, 1905                                 </div>
@@ -49,7 +47,7 @@ theme       : orwell
 
 <!-- _class: titlepage -->
 
-#     Absolute, only the speed of light
+#     Nineteen Eighty-Four
 ##    General and Special Relativity in Physics
 ###   George Orwell <small>(Eric Arthur Blair)</small>
 ####  Bern, Schweiz, 1905
@@ -64,14 +62,6 @@ theme       : orwell
 ![bg w:100%](../img/einstein-haus-sign.jpg)
 
 ---
-
-# Normal Slide
-
-Common texts
-
----
-
-![bg blur:8px grayscale:1 brightness:0.8](https://cdn.gamma.app/theme_images/gamma/gamma-15_bcdb1f14.jpg)
 
 # Normal Slide
 
@@ -115,70 +105,12 @@ Research has been conducted in order to evaluate the possibility of reaching mea
 
 When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
+- Greater impact comes from: _hilight text_!  
+- Even greater impact comes from: `hilight text`!  
    
 > ***Note**: This is a very long footnote line intended to test the layout of two. 
 > 
 ---         
-![bg blur:5px grayscale:1](https://photy.org/photos/blue-halftone-wide-photy.org.jpg)
-
-
-# Is Algebraic Graph Knowledge still **Possible**?
- 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
-     
-- Model Cheking and theorem prooving are viable paths. 
-
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-     
-<!-- ![bg blur:5px](https://photy.org/photos/blue-halftone-wide-photy.org.jpg) -->
-![bg brightness:0.8 blur:5px](../img/bg01.jpg)
-
-
-# Is Algebraic Graph Knowledge **Possible**?
- 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
-     
-- Model Cheking and theorem prooving are viable paths. 
-
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-     
-     
-
-<!-- _backgroundColor: "rgb(0,29,49)" -->
-<!-- _backgroundColor: "#222940" -->
-<!-- _backgroundColor: "#202537" -->
-<!-- _backgroundColor: "#28304E" -->
-<!-- _backgroundColor: "#294157" -->
-<!-- _backgroundColor: "#294074" -->
-<!-- _backgroundColor: "#2E3E4D" -->
-     
-# Is Algebraic Graph Knowledge **Possible**?
- 
-Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
-     
-- Model Cheking and theorem prooving are viable paths. 
-
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
-- Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-
 
 <div class="columns">            
 <div> 
@@ -360,7 +292,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 ## Kant, Leibniz & Newton
  
-That philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant; but a more precise determination of the structure of this linkage is required. 
+Philosophy and the sciences were closely linked in the age of Leibniz, Newton, and Kant. 
 
 This addresses the transformations of metaphysics as a discipline, the emergence of analytical mechanics, the diverging avenues of 18th-century Newtonianism, the body-mind problem, and philosophical principles of classification in the life sciences.
 

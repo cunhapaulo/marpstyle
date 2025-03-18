@@ -59,6 +59,21 @@ section li {
   color: val(--list-item-color);
 }
 
+section li:hover {
+  
+  /* margin-top: 1em; */
+  /* margin-bottom: 1em; */
+  /* font-size: 150% !important; */
+  /* font-weight: 600 !important; */
+  /* color: #000000 !important; */
+  /* border: 1px solid rgb(8, 8, 8); */
+  background-color: rgb(208, 253, 6);
+  border-end-start-radius: 10pt;
+  border-start-end-radius: 10pt;
+  border-end-end-radius: 10pt;
+  border-start-start-radius: 10pt;
+}
+
 /* Definition for emphasis */
 section em {
   color: var(--italic-color);
@@ -142,8 +157,7 @@ section table td {
 }
 
 section table tr:nth-child(2) {
-  background-color: #c4c6c6;
-  
+  background-color: #c4c6c6;  
 }
 
 section table tr:last-child {
@@ -155,9 +169,9 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-  color: var(--table-hover-color);
-  background-color: var(--table-hover-background-color);
-  font-weight: bold;
+  color: var(--table-hover-color) !important;
+  background-color: var(--table-hover-background-color) !important;
+  font-weight: bold !important;
 }
 
 

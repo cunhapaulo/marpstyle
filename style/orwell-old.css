@@ -1,10 +1,10 @@
-/* @theme hume */
+/* @theme orwell */
 
 /*
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 27.jan.2025
+    last update: 17.mar.2025
   ============================================       
 */
 
@@ -17,22 +17,17 @@
 /***************** COMMON STRUCTURE **********************/
 
 :root {
+
   font-family: 'Fira Sans';
+  font-family: "Bookerly", serif;
+
   font-weight: 400;
   letter-spacing: -0.9px;
   font-size: 22pt;
-  color: white;
-  color: black;
   color:rgba(26, 43, 75, 0.814);
-
   
   --italic-background-color   : rgba(206, 252, 0, 0);    
 
-  background-color: rgb(226, 228, 230); 
-  background-color: rgb(239, 239, 240); 
-  background-color: rgb(211, 214, 218); 
-  background-color: #b2ccff; 
-  background-color: #d1e0ff; 
   background-color: #dfe6f4; 
 }
 
@@ -90,13 +85,13 @@ section code {
 }
 
 section.transition em{
+  
   background-color: rgb(251, 255, 0) !important;
 }
 
 
 section.transition strong {
-  color: rgba(207, 235, 121, 0.964);
-  color: rgba(230, 250, 6, 0.905);
+
   color: rgba(194, 228, 5, 0.904);
   font-weight: 1000;
   text-shadow: 2px 2px 10px rgb(101, 45, 3);
