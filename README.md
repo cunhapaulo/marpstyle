@@ -66,20 +66,26 @@ These styles will soon be released!  Stay tuned for more `marpstyle themes`!
 
 Here I've selected some presentations built with MARP using my styles (`Marpstyle`).
 
-## 1. A presentation on the philosopher Harry Frankfurt:
+## Example 1. A presentation on the philosopher Harry Frankfurt:
 
-[![](img/frankfurt.png)](https://cunhapaulo.github.io/frankfurt)
+
+
+| [![](img/frankfurt.png)](https://cunhapaulo.github.io/frankfurt) |
+|---|
+Academic presentation on Harry Frankfurt.
+
 
 - [Link for the presentation](https://cunhapaulo.github.io/frankfurt)
 
 
-## 2. A presentation of AI from a philosophical perspective:
+## Example 2. A presentation on Harry Frankfurt.
 
 This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
-![](img/marpstyle-ready.svg) Academic presentation on philosophical aspects of Artificial Intelligence (AI):
 
 [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
+Academic presentation on philosophical aspects of Artificial Intelligence (AI).
+
 - [Link for the presentation](https://cunhapaulo.github.io/ai/)
 - [Source code used in this presentation](examples/presentation-ai/)
 
