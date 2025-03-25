@@ -83,7 +83,8 @@ Academic presentation on Harry Frankfurt.
 This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
 
-[![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/)
+| [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/) |
+|---|
 Academic presentation on philosophical aspects of Artificial Intelligence (AI).
 
 - [Link for the presentation](https://cunhapaulo.github.io/ai/)
