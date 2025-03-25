@@ -66,7 +66,7 @@ These styles will soon be released!  Stay tuned for more `marpstyle themes`!
 
 Here I've selected some presentations built with MARP using my styles (`Marpstyle`).
 
-## Example 1. A presentation on the philosopher Harry Frankfurt:
+### Example 1. A presentation on the philosopher Harry Frankfurt:
 
 
 
@@ -78,7 +78,7 @@ Academic presentation on Harry Frankfurt.
 - [Link for the presentation](https://cunhapaulo.github.io/frankfurt)
 
 
-## Example 2. A presentation on Harry Frankfurt.
+### Example 2. A presentation on Harry Frankfurt.
 
 This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
