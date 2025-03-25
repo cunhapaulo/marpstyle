@@ -3,11 +3,17 @@
 `marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
 I sincerely hope you make good use of it and that it comes to be as useful to you as it has been to me. 
 
+# What is Marp?
+
+- As you will find better explained in [Marp´s site at Github](https://github.com/marp-team/marp), Marpit /mɑːrpɪt/ is the skinny framework for creating slide deck from Markdown,  created by [Yuki Hattori](https://github.com/yhatt), to whom I am very thankful.
+
+- All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
+
 ### if you find the styles useful, please include the credits in your presentations!
 
-## ![](img/marpstyle-brand-new.svg) **New Feature**:  List Items Highlight (18.03.2024)
+# **New Feature**: List Items Highlight (18.03.2024) 
 
-I have just implemented the highlighting of list elements in all styles when you move the mouse pointer over them. 
+I´ve just implemented the highlighting of list elements in all styles when you move the mouse pointer over them. 
 
 > Please note that this function, like many others, only works if you export your presentation in HTML mode.
 
@@ -56,7 +62,18 @@ li:hover {
 
 These styles will soon be released!  Stay tuned for more `marpstyle themes`! 
 
-## One Example of Marp slide creation with style!
+# Examples of Marpstyle
+
+Here I've selected some presentations built with MARP using my styles (`Marpstyle`).
+
+## 1. A presentation on the philosopher Harry Frankfurt:
+
+[![](img/frankfurt.png)](https://cunhapaulo.github.io/frankfurt)
+
+- [Link for the presentation](https://cunhapaulo.github.io/frankfurt)
+
+
+## 2. A presentation of AI from a philosophical perspective:
 
 This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
 
@@ -66,13 +83,9 @@ This slide deck was created for a presentarion about Artifical Inteligence (AI).
 - [Link for the presentation](https://cunhapaulo.github.io/ai/)
 - [Source code used in this presentation](examples/presentation-ai/)
 
-## What is Marp?
+<p><br>
 
-- As you will find better explained in [Marp´s site at Github](https://github.com/marp-team/marp), Marpit /mɑːrpɪt/ is the skinny framework for creating slide deck from Markdown,  created by [Yuki Hattori](https://github.com/yhatt), to whom I am very thankful.
-
-- All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
-
-## Available Themes
+# Available Themes
 
  Here you´ll find examples of the available themes. Click on the picture to open a corresponding PDF example.
 
