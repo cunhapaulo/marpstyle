@@ -42,9 +42,6 @@
 
   /* --default-background-color: #d6d2c6;  */
   --default-background-color: #e4d5a6;
-
-  --default-font-color: rgb(68, 52, 16);
-  --default-font-color: rgb(88, 18, 22);
   --default-font-color: rgb(68, 19, 16);
 
   --default-list-font-color: #e0ac00;
@@ -135,7 +132,6 @@ section table th {
 /* -------------------- CITE -----------------------------*/
 
 section.cite {
-
 
   background-color: #cedbf3;
   background-color: #d8dee9;
