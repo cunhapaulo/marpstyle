@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 01.mar.2024
+    last update: 27.mar.2024
   ============================================       
 */
 
@@ -57,7 +57,7 @@
 
   /* List Item <li> */
   --li-font-size: 22pt;
-  --li-hover-color: rgba(249, 253, 6, 0.29);
+  --li-hover-background-color: rgba(249, 253, 6, 0.29);
 
 
   /* Cool-List */
@@ -82,8 +82,8 @@
   --code-font-family: inherit;
   --code-font-size: inherit;
   --code-font-weight: 600;
-  --code-padding-left: 6px;
-  --code-padding-right: 6px;
+  --code-padding-left: 16px;
+  --code-padding-right: 16px;
 
   /* Strong */
   --strong-padding-left: 2px;
@@ -169,7 +169,7 @@ li {
 }
 
 li:hover {
-  background-color: var(--li-hover-color);
+  background-color: var(--li-hover-background-color);
   color: black !important;
 }
 
@@ -194,9 +194,15 @@ section code {
   background-color: rgba(206, 252, 0, 0.877);
   color: rgb(10, 10, 10) !important;
 
-  padding-left: var(--code-padding-left);
-  padding-right: var(--code-padding-right);
+  padding-left: var(--code-padding-left) !important;
+  padding-right: var(--code-padding-right) !important;
+
+  border-end-start-radius:    30pt;
+  border-start-end-radius:    30pt;
+  border-end-end-radius:      30pt;
+  border-start-start-radius:  30pt;
 }
+
 
 /* ----------------------- CITE -------------------------------*/
 
