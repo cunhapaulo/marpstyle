@@ -35,11 +35,11 @@ theme       : orwell
 <!-- _class: titlepage -->
 ![bg left:33% brightness:0.9](../img/george-orwell.webp)
 
-<div class="title"         > Nineteen Eighty-Four </div>
-<div class="subtitle"      > General and Special Relativity in Physics           </div>
+<div class="title"         > Nineteen Eighty-Four           </div>
+<div class="subtitle"      > Big Brother is watching you!   </div>
 <div class="author"        > George Orwell <small>(Eric Arthur Blair)</small>    </div>
-<div class="date"          > Bern, Schweiz, 1905                                 </div>
-<div class="organization"  > Eidgenössisches Amt für Geistiges Eigentum          </div>
+<div class="date"          > London, UK, 1949                                 </div>
+<div class="organization"  > Secker and Warburg          </div>
 
 
 ---
@@ -48,20 +48,17 @@ theme       : orwell
 <!-- _class: titlepage -->
 
 #     Nineteen Eighty-Four
-##    General and Special Relativity in Physics
+##    Big Brother is watching you!
 ###   George Orwell <small>(Eric Arthur Blair)</small>
-####  Bern, Schweiz, 1905
-##### Eidgenössisches Amt für Geistiges Eigentum
+####  London, UK, 1949
+##### Secker and Warburg
 
 ---
 
-![bg](../img/einstein-haus-bern.jpg)
+![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ShiplakeBlairHome01.JPG/330px-ShiplakeBlairHome01.JPG)
 
 ---
 
-![bg w:100%](../img/einstein-haus-sign.jpg)
-
----
 
 # Normal Slide
 
@@ -189,7 +186,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 </figcaption>
 
 ---
-![bg opacity:0.2 blur:5px](https://i0.wp.com/jornal.usp.br/wp-content/uploads/20170323_00_olhar-cientifico.jpg?resize=768%2C403&ssl=1)
+![bg opacity:0.2 blur:5px](../img/orwell3.jpeg)
 
 # LaTeX Equations
 
@@ -209,7 +206,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
+![h:410px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
 <figcaption>
 &nbsp
 </figcaption>
@@ -217,7 +214,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div> 
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
+![h:410px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 &nbsp
 </figcaption>
@@ -232,7 +229,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center" align="center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
+![h:410px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 <b>Figure 1</b>: Göthe, Suhrkamp (2011).
 </figcaption>
@@ -240,7 +237,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div>
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
+![h:410px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 <b>Figure 2</b>: Sophokles, Suhrkamp (2015).
 </figcaption>
@@ -257,10 +254,10 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:410 drop-shadow:4px,5px,15px,#010101](../img/1984cover.jpg)
 
 <figcaption align="center">
-<b>Figure</b>: Oxford edition (1979).
+<b>Figure</b>: Secker and Warburg edition (1949).
 </figcaption>
 
 
@@ -269,15 +266,12 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div>
 <div>
 
-## Hegel's Phenomenology  
+## **1984**: 75th Anniversary
  
-The book was originally entitled "Phänomenologie des Geistes" by its author, G.W.F. Hegel.
+Written 75 years ago, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever...
+&nbsp;
 
-* Published in 1807, marked a significant development in German idealism after Kant.
-
-* In this book Hegel develops his concepts of dialectic.
-
-[Price at Amazon](https://www.amazon.com/gp/product/0198245971/ref=ox_sc_act_image_2?smid=A1ZZFT5FULY4LN&psc=1): $ 17.83
+[Price at Amazon](https://a.co/d/6cKM5Hf): $ 17.25 (Hardcover)
 
 </div>
 </div>
@@ -304,7 +298,7 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 <div>
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
+![h:410 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Springer edition (2023).
@@ -322,27 +316,17 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 --- 
-  
-<!-- _class: cite -->
-![bg opacity:.3 blur:8.0px  ](https://www.altoastral.com.br/media/uploads/legacy/2016/07/Albert_Einstein-Wikimedia_Commons.jpg)
 
- 
-<div class="cite-author" data-text="Mona Batra">
-
-   "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
-
-</div>
-     
----
 <!-- _class: transition -->  
-![bg brightness:0.9 opacity:.2](../img/albert-einstein.jpg)
+![bg brightness:0.9 opacity:.2](../img/george-orwell2.webp)
 
 
  Transition Slide 1<br> _Aditional_ **Text**
     
 ---         
 <!-- _class: transition2 -->  
-![bg opacity:.17 blur:2.0px](https://blog.insiderstore.com.br/wp-content/uploads/2021/02/descobertas-de-albert-einstein-destaque-2048x1536.webp)
+![bg brightness:0.9 opacity:.2](../img/george-orwell2.webp)
+
 
 
  Transition Slide 2<br> _Aditional_ **Text**
@@ -350,9 +334,9 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 ---   
 <!-- _class: transition2 -->  
 
-THANK YOU!
+`THANK YOU!`
 
-![bg opacity:.85](https://i.ytimg.com/vi/GMfYG6RJ-jk/maxresdefault.jpg)
+![bg opacity:.85](../img/orwell-son.jpg)
 
 ---
 

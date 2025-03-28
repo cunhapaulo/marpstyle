@@ -57,7 +57,6 @@ li:hover {
 
 ## (**FORTHCOMING** - soon!)
 - Hume
-- Orwell
 - Pascal
 
 These styles will soon be released!  Stay tuned for more `marpstyle themes`! 
@@ -102,7 +101,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI).
 ### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-### ![](img/marpstyle-brand-new.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
+### ![](img/marpstyle-ready.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
   [![Style: Descartes](img/copernicus.png)](examples/example-copernicus.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
@@ -131,6 +130,9 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI).
 
 ### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
+
+### ![](img/marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
+[![Style: Orwell](img/orwell.png)](examples/example-orwell.pdf)
 
 ### ![](img/marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)

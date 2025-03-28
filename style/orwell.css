@@ -19,7 +19,7 @@
 /* Font Credit: htts://https://www.cdnfonts.com/ */
 /*-----------------------------------------------*/
 /* @import url('https://fonts.cdnfonts.com/css/libre-bodoni-2'); */
-/* @import url('https://fonts.cdnfonts.com/css/faustina-2'); */
+@import url('https://fonts.cdnfonts.com/css/faustina-2');
 /* @import url('https://fonts.cdnfonts.com/css/joan-2'); */
 @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
 @import url('https://fonts.cdnfonts.com/css/noto-serif-thai');
@@ -88,6 +88,18 @@
   --li-font-size: 22pt;
   --li-hover-font-color: rgb(255, 255, 255);
   --li-hover-background-color: rgba(10, 10, 10, 0.089);
+
+  
+  /* Transition  */
+  --transition-em-background-color: #264b97c5;
+  --transition-background-color: #7389c4;
+  
+  /* Transition2  */
+  --transition2-em-background-color: #d63d00e3;
+  --transition2-background-color: #ee7614;
+  /* --transition2-em-background-color: #a3343494;
+  --transition2-background-color: #df8379; */
+
 }
 
 :root {
@@ -203,39 +215,68 @@ section code {
 }
 
 
-/* ----------------------- CITE -------------------------------*/
-
-section.cite {
-  --strong-color: rgba(255, 5, 5, 0.795);
-}
-
 /* -------------------- TRANSITION -------------------------------*/
 
-section.transition em {
+section.transition {
+  background-color: var(--transition-background-color) !important;
 
-  /* color: rgb(10, 100, 235); */
-  background-color: rgba(255, 5, 5, 0.295);
+}
+
+section.transition em{
+
+  color: unset !important;
+  background-color: var(--transition-em-background-color);
+  font-family: unset;
+  font-weight: unset;
+  font-style: italic;
+
+  padding-left: var(--code-padding-left) !important;
+  padding-right: var(--code-padding-right) !important;
+
+  border-end-start-radius:    var(--code-border-radius);
+  border-start-end-radius:    var(--code-border-radius);
+  border-end-end-radius:      var(--code-border-radius);
+  border-start-start-radius:  var(--code-border-radius);
 
 }
 
 section.transition strong {
 
-  color: rgb(255, 5, 5);
+  color: unset !important;
 
 }
 
-section.transition {
-
-  background-color: rgb(255, 145, 0);
-
-}
 
 /* -------------------- TRANSITION2 -------------------------------*/
 
+section.transition2 {
+  background-color: var(--transition2-background-color) !important;
+
+}
+
 section.transition2 strong {
 
-  color: rgb(10, 100, 235);
-  color: rgb(161, 240, 3);
+  color: unset !important;
+
+}
+
+section.transition2  em {
+
+  background-color: var(--transition2-em-background-color) !important;
+  
+  color: unset !important;
+  background-color: unset;
+  font-family: unset;
+  font-weight: unset;
+  font-style: italic;
+
+  padding-left: var(--code-padding-left) !important;
+  padding-right: var(--code-padding-right) !important;
+
+  border-end-start-radius:    var(--code-border-radius);
+  border-start-end-radius:    var(--code-border-radius);
+  border-end-end-radius:      var(--code-border-radius);
+  border-start-start-radius:  var(--code-border-radius);
 
 }
 
@@ -243,11 +284,12 @@ section.transition2 strong {
 
 section.biblio {
 
-  font-family: "Bookerly", serif !important;
+  font-family: var(--default-font-family) !important;
+  --border-color: #424b52;
+  --biblio-background-color: #b8c2f9;
+
   --text-color: #000000;
-  --biblio-background-color: #dde0e3;
-  --border-color: #1573ff;
-  --bold-color: #1749b4;
+  --bold-color: #4760ff;
 }
 
 /* -------------------- COLUMNS -------------------------------*/
@@ -259,4 +301,25 @@ section.columns li {
   font-family: var(--default-font-family);
   font-size: 28px !important;
   font-weight: 400;
+}
+
+/* ----------------------- CITE -------------------------------*/
+
+section.cite {
+
+  background-color: #9aade2;
+}
+
+section.cite p{
+  color: rgb(34, 34, 48) !important;
+  font-family: 'Faustina';
+  font-weight: 600;
+  font-size: 34pt !important;
+
+}
+
+section.cite strong{
+
+  color: rgb(248, 248, 247) !important;
+  
 }
