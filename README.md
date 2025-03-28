@@ -263,6 +263,10 @@ In the first editions of Marpstyle, it was necessary to download and install som
   <!-- - Montserrat: https://fonts.google.com/specimen/Montserrat?query=Mont -->
   - Lora: https://fonts.google.com/specimen/Lora?query=Lora
   - Fira Sans Light: https://fonts.google.com/specimen/Fira+Sans?query=fira
+ 
+- ## Orwell Theme:
+
+  - Bookerly [https://online-fonts.com/fonts/bookerly](https://online-fonts.com/fonts/bookerly)
 
 - ## General
   
