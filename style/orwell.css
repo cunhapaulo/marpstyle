@@ -4,7 +4,7 @@
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 27.mar.2024
+    last update: 28.mar.2024
   ============================================       
 */
 
@@ -16,79 +16,76 @@
 
 /* Importing Font */
 /* Font Credit: htts://https://www.cdnfonts.com/ */
-/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
-@import url('https://fonts.cdnfonts.com/css/adobe-caslon-pro');
-
+/* @import url('https://fonts.cdnfonts.com/css/libre-bodoni-2'); */
+/* @import url('https://fonts.cdnfonts.com/css/faustina-2'); */
+/* @import url('https://fonts.cdnfonts.com/css/joan-2'); */
+@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
+@import url('https://fonts.cdnfonts.com/css/noto-serif-thai');
 
 /* -------------------- ROOT -------------------------------*/
 
 :root {
 
-  /* Default Font */
-  /* --default-font-family: 'Fira Sans Condensed', sans-serif; */
-  /* --default-font-family: 'Adobe Caslon Pro', sans-serif; */
-  /* --default-font-family:  Georgia, Times, 'Times New Roman', serif; */
-  --default-font-family: 'Bookerly', sans-serif;
+  /* Default items */
+  /* --default-font-family: 'Bookerly', 'Noto Serif Thai', 'Joan', 'Faustina', 'Libre Bodoni', sans-serif; */
+  --default-font-family: 'Bookerly', 'Noto Serif Thai', sans-serif;
   --default-font-weight: initial;
   --default-font-size: 22pt !important;
-  --default-letter-spacing: -0.4px;
-
-  /* Default Colors */
   --default-font-color: #303155;
-
-  --default-background-color: rgb(209, 222, 235);
-  --default-background-color: white;
+  --default-letter-spacing: -0.4px;
   --default-background-color: #fdf8ed ;
-
-  /*  Title Page */
-  --titlepage-title-font-family: inherit;
-  --titlepage-title-font-size: 32pt;
-  --titlepage-title-padding-bottom: 6pt;
-
-  --titlepage-subtitle-font-family: 'Fira Sans Condensed';
-
-  /* Italic */
-  --italic-color: #ffffff;
-  --italic-background-color: #ee0909;
-
-  /* Bold  */
-  --bold-color: rgb(255, 8x, 0);
-  --bold-color: #e70000;
-
-  /* List Item <li> */
-  --li-font-size: 22pt;
-  --li-hover-background-color: rgba(249, 253, 6, 0.29);
-
-
-  /* Cool-List */
-  --cool-list-color: rgb(233, 26, 11);
-
+  
   /* Paragraph */
   --p-color: rgba(4, 20, 41, 0.814);
   --p-font-size: 112%;
   --p-font-weight: 500;
   --p-line-height: 112%;
 
-  /* H1 */
-  --h1-color: #32446b;
-  --h1-font-family: 'Fira Sans condensed';
-  --h1-font-size: 36pt;
-  --h1-font-weight: 500;
-  --h1-padding-bottom: 2mm;
-  --h1-margin-bottom: 10mm;
-  --h1-border-bottom: 1px solid orangered;
-
-  /* Code */
-  --code-font-family: inherit;
-  --code-font-size: inherit;
-  --code-font-weight: 600;
-  --code-padding-left: 16px;
-  --code-padding-right: 16px;
+  /*  Title Page */
+  --titlepage-title-font-family: inherit;
+  --titlepage-subtitle-font-family: 'Fira Sans Condensed';
+  --titlepage-title-font-size: 32pt;
+  --titlepage-title-padding-bottom: 6pt;
 
   /* Strong */
   --strong-padding-left: 2px;
   --strong-padding-right: 2px;
   --strong-font-weight: 600;
+  
+  /* Bold  */
+  --bold-color: rgb(255, 8x, 0);
+  --bold-color: #e70000;
+
+  /* Italic */
+  --italic-color: #ffffff;
+  --italic-background-color: #ee0909;
+
+  /* Cool-List */
+  --cool-list-color: rgb(233, 26, 11);
+
+  /* H1 */
+  --h1-color: #32446b;
+  --h1-font-family: 'Fira Sans condensed';
+  --h1-font-size: 36pt;
+  --h1-font-weight: 900;
+  --h1-padding-bottom: 2mm;
+  --h1-margin-bottom: 10mm;
+  --h1-border-bottom: 1px solid orangered;
+
+  /* Code */
+  --code-background-color: rgba(206, 252, 0, 0.877);
+  --code-font-family: inherit;
+  --code-font-color: rgb(10, 10, 10);
+  --code-font-size: inherit;
+  --code-font-weight: 600;
+  --code-padding-left: 16px;
+  --code-padding-right: 16px;
+  --code-border-radius: 13pt;
+
+    /* List Item <li> */
+  --li-font-size: 22pt;
+  --li-hover-font-color: rgb(255, 255, 255);
+  --li-hover-background-color: rgba(10, 10, 10, 0.089);
 }
 
 :root {
@@ -165,12 +162,12 @@ p {
 /* ----------------- LIST ITEM ------------------------*/
 
 li {
-  font-size: var(--li-font-size);
+  font-size: var(--li-font-size) !important;
 }
 
 li:hover {
   background-color: var(--li-hover-background-color);
-  color: black !important;
+  color: var(--li-hover-font-color);
 }
 
 
@@ -191,16 +188,16 @@ section code {
   font-size: var(--code-font-size);
   font-weight: var(--code-font-weight) !important;
 
-  background-color: rgba(206, 252, 0, 0.877);
-  color: rgb(10, 10, 10) !important;
+  background-color: var(--code-background-color);
+  color: var(--code-font-color) !important;
 
   padding-left: var(--code-padding-left) !important;
   padding-right: var(--code-padding-right) !important;
 
-  border-end-start-radius:    30pt;
-  border-start-end-radius:    30pt;
-  border-end-end-radius:      30pt;
-  border-start-start-radius:  30pt;
+  border-end-start-radius:    var(--code-border-radius);
+  border-start-end-radius:    var(--code-border-radius);
+  border-end-end-radius:      var(--code-border-radius);
+  border-start-start-radius:  var(--code-border-radius);
 }
 
 
@@ -258,8 +255,6 @@ section.columns ol,
 section.columns li {
   color: var(--default-font-color);
   font-family: var(--default-font-family);
-  font-size: 30px;
+  font-size: 28px !important;
   font-weight: 400;
 }
-
-section.columns li {}
