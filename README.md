@@ -26,7 +26,7 @@ I´ve just implemented the highlighting of list elements in all styles when you 
 
 Insert the following code at the begining of your presentation code:
 
-```css
+```html
 
 <style>
 
@@ -42,7 +42,7 @@ li:hover {
 
 Insert the following code at the begining of your presentation code:
 
-```css
+```html
 
 <style>
 
