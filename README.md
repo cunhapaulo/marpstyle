@@ -88,7 +88,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 ### ![](img/marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-### ![](img/Marpstyle-updated.svg)  In honor of Immanuel Kant (1724–1804)
+### ![](img/marpstyle-updated.svg)  In honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
 ### ![](img/marpstyle-ready.svg)  In honor of Hegel (1770–1831)
@@ -109,22 +109,22 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 ### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
-### ![](img/Marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
+### ![](img/marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
 [![Style: Orwell](img/orwell.png)](examples/example-orwell.pdf)
 
 ### ![](img/marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
-### ![](img/Marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
+### ![](img/marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
 [![Style: Arendt](img/arendt.png)](examples/example-arendt.pdf)
 
 ### ![](img/marpstyle-ready.svg) In honor of Alan Turing (1912-1954) 
 [![Style: Turing](img/turing.png)](examples/example-turing.pdf)
 
-###  ![](img/Marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
+###  ![](img/marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
   [![Style: King](img/king.png)](examples/example-king.pdf)
 
-### ![](img/Marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
+### ![](img/marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
   [![Style: Jobs](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
