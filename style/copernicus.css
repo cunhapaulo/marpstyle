@@ -32,24 +32,7 @@
     font-family: 'Fira Sans Light';
     font-weight: initial;
     font-kerning: auto !important;
-
-    /* 
-    background-color: rgb(243, 241, 236);
-    background-color: rgb(204, 207, 208); 
-    background-color: rgb(212, 212, 212); 
-    background-color: rgb(184, 184, 184);
-    background-color: rgb(110, 108, 108);
-    background-color: rgb(194, 204, 224); 
-    background-color: rgb(175, 191, 223); 
-    background-color: rgb(154, 187, 237);
-    background-color: rgb(119, 144, 199);
-    background-color: rgb(220, 220, 220);
-    background-color: rgb(173, 197, 228);
-    background-color: rgb(175, 191, 223); 
-    */
-    background-color: rgb(191, 201, 223); 
-    
-
+    background-color: rgb(187, 199, 231); 
     --cool-list-color: rgb(119, 144, 199)
 }
 
