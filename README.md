@@ -55,7 +55,7 @@ li:hover {
 ```
 ----
 
-## (**FORTHCOMING** - soon!)
+## (**FORTHCOMING** styles here on Marpstyle - soon!)
 - Hume
 - Pascal
 
