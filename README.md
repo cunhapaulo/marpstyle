@@ -1,39 +1,37 @@
-# `Marpstyle`: styles for the MARP package
+# `Marpstyle`: styles for the Marp package
 
-`marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
+`Marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
 I sincerely hope you make good use of it and that it comes to be as useful to you as it has been to me. 
 
-# What is Marp?
+## What is Marp?
 
-- As you will find better explained in [Marp´s site at Github](https://github.com/marp-team/marp), Marpit /mɑːrpɪt/ is the skinny framework for creating slide deck from Markdown,  created by [Yuki Hattori](https://github.com/yhatt), to whom I am very thankful.
+- As you will find better explained in [Marp´s site at Github](https://github.com/Marp-team/Marp), Marpit /mɑːrpɪt/ is the skinny framework for creating slide deck from Markdown,  created by [Yuki Hattori](https://github.com/yhatt), to whom I am very thankful.
 
-- All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
+- All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://Marpit.Marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=Marp-team.Marp-vscode).
 
-### if you find my styles and Marp useful, please include the credits in your presentations!
+> Please, REMEMBER! <br>
+>  If you find my styles and Marp's ecosystem useful, we kindly ask you to include the credits in your presentations!
 
-# **New Feature**: List Items Highlight (18.03.2024) 
+## **New Feature**: List Items Highlight (18.03.2024) 
 
 I´ve just implemented the highlighting of list elements in all styles when you move the mouse pointer over them. 
 
-> Please note that this function, like many others, only works if you export your presentation in HTML mode.
-
 ![alt text](image.png)
 
-> If you do not like the highlighting or the default color, you can either deactivate it or change the color of the highlighting bar as follows:
+> Please note that this function, like many others, only works if you export your presentation in HTML mode.
 
+If you don't like the highlight feature or the default color used, you can disable it or change the color of the highlight bar as follows:
 
 ### To disable list item highlight:
 
-Insert the following code at the begining of your presentation code:
+
+Insert the following code at the beginning of your presentation code:
 
 ```html
-
 <style>
-
-li:hover {
-	background-color: inherit;
-}
-
+	li:hover {
+		background-color: inherit;
+	}
 </style>
 
 ```
@@ -43,110 +41,90 @@ li:hover {
 Insert the following code at the begining of your presentation code:
 
 ```html
-
 <style>
-
-li:hover {
-  background-color: rgb(46, 253, 6); 
-}
-
+	li:hover {
+  		background-color: rgb(46, 253, 6); 
+	}
 </style>
-
 ```
-----
 
-## (**FORTHCOMING** styles here on Marpstyle - soon!)
-- Hume
-- Pascal
 
-These styles will soon be released!  Stay tuned for more `marpstyle themes`! 
+##  Good Examples of Slidedecks in Marpstyle
 
-# Examples of Marpstyle
-
-Here I've selected some presentations built with MARP using my styles (`Marpstyle`).
+Here I've selected some presentations built with Marp using my styles (`Marpstyle`).
 
 ### Example 1. A presentation on the philosopher Harry Frankfurt:
 
 
 
 | [![](img/frankfurt.png)](https://cunhapaulo.github.io/frankfurt) |
-|---|
-Academic presentation on Harry Frankfurt.
-
-
-- [Link for the presentation](https://cunhapaulo.github.io/frankfurt)
+| ---------------------------------------------------------------- |
+Academic presentation on Harry Frankfurt - [Link for the presentation](https://cunhapaulo.github.io/frankfurt).
 
 
 ### Example 2. A presentation on Harry Frankfurt.
 
-This slide deck was created for a presentarion about Artifical Inteligence (AI). It show some of the capabilities of MARP as well my CSS styles. I hope you like it.
-
-
 | [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/) |
-|---|
-Academic presentation on philosophical aspects of Artificial Intelligence (AI).
+| --------------------------------------------------------------------------------- |
+Academic presentation on philosophical aspects of Artificial Intelligence (AI) - [Link for the presentation](https://cunhapaulo.github.io/ai/) - [Source code used in this presentation](examples/presentation-ai/)
 
-- [Link for the presentation](https://cunhapaulo.github.io/ai/)
-- [Source code used in this presentation](examples/presentation-ai/)
 
-<p><br>
-
-# Available Themes
+# Available Marpstyle Themes
 
  Here you´ll find examples of the available themes. Click on the picture to open a corresponding PDF example.
 
-### ![](img/marpstyle-ready.svg) In honor of Σωκράτης - Socrates (469–399 B.C.E.)
+### ![](img/Marpstyle-ready.svg) In honor of Σωκράτης - Socrates (469–399 B.C.E.)
   [![Style: Socrates](img/socrates.png)](examples/example-socrates.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
+### ![](img/Marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
+### ![](img/Marpstyle-ready.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
   [![Style: Descartes](img/copernicus.png)](examples/example-copernicus.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
+### ![](img/Marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
   [![Style: Descartes](img/descartes.png)](examples/example-descartes.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
+### ![](img/Marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
-### ![](img/marpstyle-updated.svg)  In honor of Immanuel Kant (1724–1804)
+### ![](img/Marpstyle-updated.svg)  In honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of Hegel (1770–1831)
+### ![](img/Marpstyle-ready.svg)  In honor of Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Sigmund Freud (1856-1939)
+### ![](img/Marpstyle-ready.svg) In honor of Sigmund Freud (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
+### ![](img/Marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Max Weber (1864–1920) 
+### ![](img/Marpstyle-ready.svg) In honor of Max Weber (1864–1920) 
   [![Style: Weber](img/weber.png)](examples/example-weber.pdf)
 
-### ![](img/marpstyle-ready.svg)  In honor of Albert Einstein (1879–1955) 
+### ![](img/Marpstyle-ready.svg)  In honor of Albert Einstein (1879–1955) 
   [![Style: Einstein](img/einstein.png)](examples/example-einstein.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
+### ![](img/Marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
-### ![](img/marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
+### ![](img/Marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
 [![Style: Orwell](img/orwell.png)](examples/example-orwell.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
+### ![](img/Marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
-### ![](img/marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
+### ![](img/Marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
 [![Style: Arendt](img/arendt.png)](examples/example-arendt.pdf)
 
-### ![](img/marpstyle-ready.svg) In honor of Alan Turing (1912-1954) 
+### ![](img/Marpstyle-ready.svg) In honor of Alan Turing (1912-1954) 
 [![Style: Turing](img/turing.png)](examples/example-turing.pdf)
 
-###  ![](img/marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
+###  ![](img/Marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
   [![Style: King](img/king.png)](examples/example-king.pdf)
 
-### ![](img/marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
+### ![](img/Marpstyle-updated.svg) In honor of Steven Jobs (1955–2011) 
   [![Style: Jobs](img/jobs.png)](examples/example-jobs.pdf)
 
 <br>
@@ -159,7 +137,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI).
 
 2. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles` available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
 
-3. If you use `MARP` for VSCode, remember to include the path to the theme files (`CSS` files) in your `workspace.code-workspace` in order to make them available to your slide deck.
+3. If you use `Marp` for VSCode, remember to include the path to the theme files (`CSS` files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 
 ## It might look similar to:
 
@@ -173,7 +151,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI).
 		}
 	],
 	"settings": {
-		"markdown.marp.themes": [
+		"markdown.Marp.themes": [
 			"./style/arendt.css",
 			"./style/descartes.css",
 			"./style/einstein.css",
@@ -211,7 +189,7 @@ You might as well use my themes directly from github using the url, just like de
 		}
 	],
 	"settings": {
-		"markdown.marp.themes": [
+		"markdown.Marp.themes": [
 			"https://cunhapaulo.github.io/style/arendt.css",
 			"https://cunhapaulo.github.io/style/descartes.css",
 			"https://cunhapaulo.github.io/style/einstein.css",
