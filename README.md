@@ -9,7 +9,7 @@ I sincerely hope you make good use of it and that it comes to be as useful to yo
 
 - All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
 
-### if you find the styles useful, please include the credits in your presentations!
+### if you find my styles and Marp useful, please include the credits in your presentations!
 
 # **New Feature**: List Items Highlight (18.03.2024) 
 
@@ -26,7 +26,7 @@ I´ve just implemented the highlighting of list elements in all styles when you 
 
 Insert the following code at the begining of your presentation code:
 
-```css
+```html
 
 <style>
 
@@ -42,7 +42,7 @@ li:hover {
 
 Insert the following code at the begining of your presentation code:
 
-```css
+```html
 
 <style>
 
@@ -55,7 +55,7 @@ li:hover {
 ```
 ----
 
-## (**FORTHCOMING** - soon!)
+## (**FORTHCOMING** styles here on Marpstyle - soon!)
 - Hume
 - Pascal
 
@@ -263,6 +263,10 @@ In the first editions of Marpstyle, it was necessary to download and install som
   <!-- - Montserrat: https://fonts.google.com/specimen/Montserrat?query=Mont -->
   - Lora: https://fonts.google.com/specimen/Lora?query=Lora
   - Fira Sans Light: https://fonts.google.com/specimen/Fira+Sans?query=fira
+ 
+- ## Orwell Theme:
+
+  - Bookerly [https://online-fonts.com/fonts/bookerly](https://online-fonts.com/fonts/bookerly)
 
 - ## General
   
