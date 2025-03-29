@@ -9,7 +9,7 @@ I sincerely hope you make good use of it and that it comes to be as useful to yo
 
 - All the themes here presented are destinated to be used with the [Marpit: Markdown slide deck framework](https://marpit.marp.app/markdown). In order to install Marp in your VS Code, take a look at [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
 
-### if you find the styles useful, please include the credits in your presentations!
+### if you find my styles and Marp useful, please include the credits in your presentations!
 
 # **New Feature**: List Items Highlight (18.03.2024) 
 
