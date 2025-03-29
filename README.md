@@ -131,7 +131,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 
 # What´s necessary to install?
 
-0. First of all, you must have [`Marp`] (https://Marpit.Marp.app/markdown) installed and operational on your system. I created these styles with the VSCode environment in mind, and only it, but that doesn't mean they won't work well in other environments, only that I haven't tested them yet.
+0. First of all, you must have [`Marp`](https://Marpit.Marp.app/markdown) installed and operational on your system. I created these styles with the VSCode environment in mind, and only it, but that doesn't mean they won't work well in other environments, only that I haven't tested them yet.
 
 1. My suggestion is that you create a separate folder for each intended presentation of yours. Inside this folder I do also recomend you to create another folder, which might be called `/style`, specifically destinated for the `CSS` style files you intend do use in your presentation.
 
