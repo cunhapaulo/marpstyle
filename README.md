@@ -131,15 +131,17 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 
 # What´s necessary to install?
 
-0. Firstly, you do need `Marp` installed and operational. I just created these styles having the VSCode environment in mind, and only it, but it doesn´t mean they don´t work well with other environments, but I haven´t teste them at all.
+0. First of all, you must have [`Marp`] (https://Marpit.Marp.app/markdown) installed and operational on your system. I created these styles with the VSCode environment in mind, and only it, but that doesn't mean they won't work well in other environments, only that I haven't tested them yet.
 
 1. My suggestion is that you create a separate folder for each intended presentation of yours. Inside this folder I do also recomend you to create another folder, which might be called `/style`, specifically destinated for the `CSS` style files you intend do use in your presentation.
 
-2. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles` available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
+2. If you use `Marp` for VSCode, remember to include the path to the theme files (`CSS` files) in your `workspace.code-workspace` in order to make them available to your slide deck.
 
-3. If you use `Marp` for VSCode, remember to include the path to the theme files (`CSS` files) in your `workspace.code-workspace` in order to make them available to your slide deck.
+3. A prerequisite for using some extra fonts is that you have them installed on your computer. That said, some of the `styles` available here require special fonts not available by default in most OS installations. I intend to make some modifications so that these fonts are automatically downloaded from internet, but until this modification ins implemented, you will find below a section containing informations about the special fonts use in some of my styles and a possible locations where from you can download them (for free).
 
-## It might look similar to:
+
+
+	It might look similar to this:
 
 <br>
 
@@ -177,9 +179,10 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 	}
 }
 ```
+Example of `workspace.code-workspace` content.
 
-## Styles directly from the internet
-You might as well use my themes directly from github using the url, just like depicted below:
+## Styles downloaded directly from the internet
+You might as well use my themes directly from github using the url below:
 
 ```json
 {
@@ -216,46 +219,47 @@ You might as well use my themes directly from github using the url, just like de
 	}
 }
 ```
+Example of `workspace.code-workspace` content.
 
 <br>
 
-# Typefaces (TTF Fonts)
+## Typefaces (TTF Fonts)
 
 In the first editions of Marpstyle, it was necessary to download and install some of the fonts used. Now this is no longer necessary, as they are automatically downloaded from a website. Even so, I've kept here the reference and the sites from which these fonts can be downloaded and installed locally. See below:
 
-- ## Socrates Theme:
+- ### Socrates Theme:
   
   - Noto Sans: https://fonts.google.com/noto/specimen/Noto+Sans
 
-- ## Plato Theme:
+- ### Plato Theme:
   
   - Fira Sans Light: https://fonts.google.com/specimen/Fira+Sans?query=fira
   - Fira Sans Light: https://github.com/bBoxType/FiraSans
 
-- ## Leibniz Theme:
+- ### Leibniz Theme:
   
   - Georgia or Serif: 
 
-- ## Husserl Theme:
+- ### Husserl Theme:
 
   <!-- - Montserrat: https://fonts.google.com/specimen/Montserrat?query=Mont -->
   - Lora: https://fonts.google.com/specimen/Lora?query=Lora
   - Fira Sans Light: https://fonts.google.com/specimen/Fira+Sans?query=fira
  
-- ## Orwell Theme:
+- ### Orwell Theme:
 
   - Bookerly [https://online-fonts.com/fonts/bookerly](https://online-fonts.com/fonts/bookerly)
 
-- ## General
+- ### General
   
   - Metropolis: https://github.com/njugunagathere/Metropolis
   - Open Sans: https://fonts.google.com/specimen/Open+Sans?query=Open+Sans
 
 ## Observation about fonts:
-> Recently I decided to make use of downloading fonts from internet instead of forcing the user to install TTF fonts in their systems. Should it break in the future, due to the stop of the site proving the sources, be advised to resort to the old method instead.
+Recently I decided to make use of downloading fonts from internet instead of forcing the user to install TTF fonts in their systems. Should it break in the future, due to the stop of the site proving the sources, be advised to resort to the old method instead.
 
 
-# Credits
+## Credits
 
 - **Plato** theme was inspired by [Metropolis Beamer Theme](https://github.com/matze/mtheme) for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
 - Used some parts of [Juan Vera del Campo](https://github.com/Juanvvc) CSS styles. Gracias!
