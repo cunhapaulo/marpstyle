@@ -30,6 +30,7 @@
 
   /* Default items */
   /* --default-font-family: 'Bookerly', 'Noto Serif Thai', 'Joan', 'Faustina', 'Libre Bodoni', sans-serif; */
+  --default-font-family: 'Noto Serif Thai', sans-serif;
   --default-font-family: 'Bookerly', 'Noto Serif Thai', sans-serif;
   --default-font-weight: initial;
   --default-font-size: 22pt !important;
