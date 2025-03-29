@@ -73,52 +73,52 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 
  Here you´ll find examples of the available themes. Click on the picture to open a corresponding PDF example.
 
-### ![](img/Marpstyle-ready.svg) In honor of Σωκράτης - Socrates (469–399 B.C.E.)
+### ![](img/marpstyle-ready.svg) In honor of Σωκράτης - Socrates (469–399 B.C.E.)
   [![Style: Socrates](img/socrates.png)](examples/example-socrates.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
+### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
+### ![](img/marpstyle-ready.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)
   [![Style: Descartes](img/copernicus.png)](examples/example-copernicus.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
+### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
   [![Style: Descartes](img/descartes.png)](examples/example-descartes.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
+### ![](img/marpstyle-ready.svg)  In honor of Leibniz (1646–1716) 
   [![Style: Leibniz](img/leibniz.png)](examples/example-leibniz.pdf)
 
 ### ![](img/Marpstyle-updated.svg)  In honor of Immanuel Kant (1724–1804)
   [![Style: Kant](img/kant.png)](examples/example-kant.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of Hegel (1770–1831)
+### ![](img/marpstyle-ready.svg)  In honor of Hegel (1770–1831)
   [![Style: Hegel](img/hegel.png)](examples/example-hegel.pdf)
 
-### ![](img/Marpstyle-ready.svg) In honor of Sigmund Freud (1856-1939)
+### ![](img/marpstyle-ready.svg) In honor of Sigmund Freud (1856-1939)
   [![Style: Freud](img/freud.png)](examples/example-freud.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
+### ![](img/marpstyle-ready.svg)  In honor of Edmund Husserl (1859–1938) 
   [![Style: Husserl](img/husserl.png)](examples/example-husserl.pdf)
 
-### ![](img/Marpstyle-ready.svg) In honor of Max Weber (1864–1920) 
+### ![](img/marpstyle-ready.svg) In honor of Max Weber (1864–1920) 
   [![Style: Weber](img/weber.png)](examples/example-weber.pdf)
 
-### ![](img/Marpstyle-ready.svg)  In honor of Albert Einstein (1879–1955) 
+### ![](img/marpstyle-ready.svg)  In honor of Albert Einstein (1879–1955) 
   [![Style: Einstein](img/einstein.png)](examples/example-einstein.pdf)
 
-### ![](img/Marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
+### ![](img/marpstyle-ready.svg) In honor of Martin Heidegger (1889–1976) 
   [![Style: Heidegger](img/heidegger.png)](examples/example-heidegger.pdf)
 
 ### ![](img/Marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
 [![Style: Orwell](img/orwell.png)](examples/example-orwell.pdf)
 
-### ![](img/Marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
+### ![](img/marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
 ### ![](img/Marpstyle-updated.svg) In honor of Hannah Arendt (1906-1975) 
 [![Style: Arendt](img/arendt.png)](examples/example-arendt.pdf)
 
-### ![](img/Marpstyle-ready.svg) In honor of Alan Turing (1912-1954) 
+### ![](img/marpstyle-ready.svg) In honor of Alan Turing (1912-1954) 
 [![Style: Turing](img/turing.png)](examples/example-turing.pdf)
 
 ###  ![](img/Marpstyle-updated.svg) In honor of Martin Luther King (1929-1968)
