@@ -29,9 +29,7 @@ Insert the following code at the beginning of your presentation code:
 
 ```html
 <style>
-	li:hover {
-		background-color: inherit;
-	}
+    li:hover { background-color: inherit; }
 </style>
 
 ```
@@ -42,9 +40,7 @@ Insert the following code at the begining of your presentation code:
 
 ```html
 <style>
-	li:hover {
-  		background-color: rgb(46, 253, 6); 
-	}
+	li:hover { background-color: rgb(46, 253, 6); }
 </style>
 ```
 
