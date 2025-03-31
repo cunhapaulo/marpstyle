@@ -161,6 +161,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 			"./style/godel.css",
 			"./style/hegel.css",
 			"./style/heidegger.css",
+			"./style/hume.css",
 			"./style/husserl.css",
 			"./style/jobs.css",
 			"./style/kant.css",

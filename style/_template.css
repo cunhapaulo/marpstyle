@@ -1,0 +1,325 @@
+/* @theme orwell */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 28.mar.2024
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/*-----------------------------------------------*/
+/* Importing Font                                */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+/*-----------------------------------------------*/
+/* @import url('https://fonts.cdnfonts.com/css/libre-bodoni-2'); */
+@import url('https://fonts.cdnfonts.com/css/faustina-2');
+/* @import url('https://fonts.cdnfonts.com/css/joan-2'); */
+@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
+@import url('https://fonts.cdnfonts.com/css/noto-serif-thai');
+
+/* -------------------- ROOT -------------------------------*/
+
+:root {
+
+  /* Default items */
+  /* --default-font-family: 'Bookerly', 'Noto Serif Thai', 'Joan', 'Faustina', 'Libre Bodoni', sans-serif; */
+  --default-font-family: 'Bookerly', 'Noto Serif Thai', sans-serif;
+  --default-font-weight: initial;
+  --default-font-size: 22pt !important;
+  --default-font-color: #303155;
+  --default-letter-spacing: -0.4px;
+  --default-background-color: #fdf8ed ;
+  
+  /* Paragraph */
+  --p-color: rgba(4, 20, 41, 0.814);
+  --p-font-size: 112%;
+  --p-font-weight: 500;
+  --p-line-height: 112%;
+
+  /*  Title Page */
+  --titlepage-title-font-family: inherit;
+  --titlepage-subtitle-font-family: 'Fira Sans Condensed';
+  --titlepage-title-font-size: 32pt;
+  --titlepage-title-padding-bottom: 6pt;
+
+  /* Strong */
+  --strong-padding-left: 2px;
+  --strong-padding-right: 2px;
+  --strong-font-weight: 600;
+  
+  /* Bold  */
+  --bold-color: rgb(255, 8x, 0);
+  --bold-color: #e70000;
+
+  /* Italic */
+  --italic-color: #ffffff;
+  --italic-background-color: #ee0909;
+
+  /* Cool-List */
+  --cool-list-color: rgb(233, 26, 11);
+
+  /* H1 */
+  --h1-color: #32446b;
+  --h1-font-family: 'Fira Sans condensed';
+  --h1-font-size: 36pt;
+  --h1-font-weight: 900;
+  --h1-padding-bottom: 2mm;
+  --h1-margin-bottom: 10mm;
+  --h1-border-bottom: 1px solid orangered;
+
+  /* Code */
+  --code-background-color: rgba(206, 252, 0, 0.877);
+  --code-font-family: inherit;
+  --code-font-color: rgb(10, 10, 10);
+  --code-font-size: inherit;
+  --code-font-weight: 600;
+  --code-padding-left: 16px;
+  --code-padding-right: 16px;
+  --code-border-radius: 13pt;
+
+    /* List Item <li> */
+  --li-font-size: 22pt;
+  --li-hover-font-color: rgb(255, 255, 255);
+  --li-hover-background-color: rgba(10, 10, 10, 0.089);
+
+  
+  /* Transition  */
+  --transition-em-background-color: #264b97c5;
+  --transition-background-color: #7389c4;
+  
+  /* Transition2  */
+  --transition2-em-background-color: #d63d00e3;
+  --transition2-background-color: #ee7614;
+  /* --transition2-em-background-color: #a3343494;
+  --transition2-background-color: #df8379; */
+
+}
+
+:root {
+
+  font-family: var(--default-font-family);
+  font-weight: var(--default-font-weight);
+  font-size: var(--default-font-size);
+  background-color: var(--default-background-color);
+  color: var(--default-font-color);
+  font-kerning: auto !important;
+  letter-spacing: var(--default-letter-spacing);
+
+}
+
+/* ----------------------- TITLE PAGE -------------------------------*/
+
+section.titlepage .title {
+  font-family: var(--titlepage-title-font-family);
+  font-size: var(--titlepage-title-font-size);
+  border-bottom: var(--h1-border-bottom);
+  padding-bottom: var(--titlepage-title-padding-bottom);
+
+}
+
+section.titlepage .subtitle {
+  font-family: var(--titlepage-subtitle-font-family);
+
+}
+
+section.titlepage h1 {
+  font-family: var(--titlepage-title-font-family) !important;
+  font-size: var(--titlepage-title-font-size) !important;
+  padding-bottom: var(--titlepage-title-padding-bottom) !important;
+
+}
+
+section.titlepage h2 {
+  line-height: 0pt !important;
+  font-family: var(--titlepage-subtitle-font-family);
+  padding-bottom: 150pt !important;
+
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
+
+/* -------------------- H1 -------------------------------*/
+
+h1 {
+
+  font-family: var(--h1-font-family);
+  font-weight: var(--h1-font-weight);
+  font-size: var(--h1-font-size);
+  color: var(--h1-color);
+
+  padding-bottom: var(--h1-padding-bottom);
+  margin-bottom: var(--h1-margin-bottom);
+  border-bottom: var(--h1-border-bottom);
+
+}
+
+/* ------------------- PARAGRAPH ------------------------*/
+
+p {
+  font-size: var(--p-font-size);
+  font-weight: var(--p-font-weight);
+  color: var(--p-color);
+  line-height: var(--p-line-height) !important;
+}
+
+/* ----------------- LIST ITEM ------------------------*/
+
+li {
+  font-size: var(--li-font-size) !important;
+}
+
+li:hover {
+  background-color: var(--li-hover-background-color);
+  color: var(--li-hover-font-color);
+}
+
+
+/* --------------------- STRONG -------------------------*/
+
+strong {
+  color: var(--bold-color) !important;
+  padding-left: var(--strong-padding-left);
+  padding-right: var(--strong-padding-right);
+  font-weight: var(--strong-font-weight);
+}
+
+/* ----------------------- CODE -------------------------------*/
+
+section code {
+
+  font-family: var(--code-font-family);
+  font-size: var(--code-font-size);
+  font-weight: var(--code-font-weight) !important;
+
+  background-color: var(--code-background-color);
+  color: var(--code-font-color) !important;
+
+  padding-left: var(--code-padding-left) !important;
+  padding-right: var(--code-padding-right) !important;
+
+  border-end-start-radius:    var(--code-border-radius);
+  border-start-end-radius:    var(--code-border-radius);
+  border-end-end-radius:      var(--code-border-radius);
+  border-start-start-radius:  var(--code-border-radius);
+}
+
+
+/* -------------------- TRANSITION -------------------------------*/
+
+section.transition {
+  background-color: var(--transition-background-color) !important;
+
+}
+
+section.transition em{
+
+  color: unset !important;
+  background-color: var(--transition-em-background-color);
+  font-family: unset;
+  font-weight: unset;
+  font-style: italic;
+
+  padding-left: var(--code-padding-left) !important;
+  padding-right: var(--code-padding-right) !important;
+
+  border-end-start-radius:    var(--code-border-radius);
+  border-start-end-radius:    var(--code-border-radius);
+  border-end-end-radius:      var(--code-border-radius);
+  border-start-start-radius:  var(--code-border-radius);
+
+}
+
+section.transition strong {
+
+  color: unset !important;
+
+}
+
+
+/* -------------------- TRANSITION2 -------------------------------*/
+
+section.transition2 {
+  background-color: var(--transition2-background-color) !important;
+
+}
+
+section.transition2 strong {
+
+  color: unset !important;
+
+}
+
+section.transition2  em {
+
+  background-color: var(--transition2-em-background-color) !important;
+  
+  color: unset !important;
+  background-color: unset;
+  font-family: unset;
+  font-weight: unset;
+  font-style: italic;
+
+  padding-left: var(--code-padding-left) !important;
+  padding-right: var(--code-padding-right) !important;
+
+  border-end-start-radius:    var(--code-border-radius);
+  border-start-end-radius:    var(--code-border-radius);
+  border-end-end-radius:      var(--code-border-radius);
+  border-start-start-radius:  var(--code-border-radius);
+
+}
+
+/* -------------------- BIBLIO -------------------------------*/
+
+section.biblio {
+
+  font-family: var(--default-font-family) !important;
+  --border-color: #424b52;
+  --biblio-background-color: #b8c2f9;
+
+  --text-color: #000000;
+  --bold-color: #4760ff;
+}
+
+/* -------------------- COLUMNS -------------------------------*/
+
+section.columns ul,
+section.columns ol,
+section.columns li {
+  color: var(--default-font-color);
+  font-family: var(--default-font-family);
+  font-size: 28px !important;
+  font-weight: 400;
+}
+
+/* ----------------------- CITE -------------------------------*/
+
+section.cite {
+
+  background-color: #9aade2;
+}
+
+section.cite p{
+  color: rgb(34, 34, 48) !important;
+  font-family: 'Faustina';
+  font-weight: 600;
+  font-size: 34pt !important;
+
+}
+
+section.cite strong{
+
+  color: rgb(248, 248, 247) !important;
+  
+}
