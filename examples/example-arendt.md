@@ -202,7 +202,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
 <figcaption>
 &nbsp
 </figcaption>
@@ -210,7 +210,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div> 
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 &nbsp
 </figcaption>
@@ -225,7 +225,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center" align="center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 <b>Figure 1</b>: Göthe, Suhrkamp (2011).
 </figcaption>
@@ -233,7 +233,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div>
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 <b>Figure 2</b>: Sophokles, Suhrkamp (2015).
 </figcaption>
@@ -250,7 +250,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Oxford edition (1979).
@@ -296,7 +296,7 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 <div>
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Springer edition (2023).

@@ -1,10 +1,11 @@
-/* @theme orwell */
+/* @theme arendt */
 
 /*
   ============================================
     Created by Paulo Cunha
     version: 1.0
-    last update: 28.mar.2024
+    last update: 24.jul.2023
+    last update: 24.jul.2023
   ============================================       
 */
 
@@ -16,245 +17,213 @@
 
 /* Importing Font */
 /* Font Credit: htts://https://www.cdnfonts.com/ */
-/* @import url('https://fonts.cdnfonts.com/css/libre-bodoni-2'); */
-/* @import url('https://fonts.cdnfonts.com/css/faustina-2'); */
-/* @import url('https://fonts.cdnfonts.com/css/joan-2'); */
-@import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730');
-@import url('https://fonts.cdnfonts.com/css/noto-serif-thai');
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20121'); */
+@import url('https://fonts.cdnfonts.com/css/fira-sans');
+
+@font-face {
+  font-family: HeaderFont;
+  src: url("https://fonts.cdnfonts.com/css/fira-sans");
+}
+
+@font-face {
+  font-family: BodyFont;
+  src: url("https://fonts.cdnfonts.com/css/fira-sans?styles=20119");
+}
 
 /* -------------------- ROOT -------------------------------*/
 
 :root {
 
-  /* Default items */
-  /* --default-font-family: 'Bookerly', 'Noto Serif Thai', 'Joan', 'Faustina', 'Libre Bodoni', sans-serif; */
-  --default-font-family: 'Bookerly', 'Noto Serif Thai', sans-serif;
-  --default-font-weight: initial;
-  --default-font-size: 22pt !important;
-  --default-font-color: #303155;
-  --default-letter-spacing: -0.4px;
-  --default-background-color: #fdf8ed ;
-  
-  /* Paragraph */
-  --p-color: rgba(4, 20, 41, 0.814);
-  --p-font-size: 112%;
-  --p-font-weight: 500;
-  --p-line-height: 112%;
+  font-family: BodyFont, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: initial;
 
-  /*  Title Page */
-  --titlepage-title-font-family: inherit;
-  --titlepage-subtitle-font-family: 'Fira Sans Condensed';
-  --titlepage-title-font-size: 32pt;
-  --titlepage-title-padding-bottom: 6pt;
+  /* --default-background-color: #d6d2c6;  */
+  --default-background-color: #e4d5a6;
+  --default-font-color: rgb(68, 19, 16);
 
-  /* Strong */
-  --strong-padding-left: 2px;
-  --strong-padding-right: 2px;
-  --strong-font-weight: 600;
-  
-  /* Bold  */
-  --bold-color: rgb(255, 8x, 0);
-  --bold-color: #e70000;
+  --default-list-font-color: #e0ac00;
+  --cool-list-color: rgb(255, 31, 1);
 
-  /* Italic */
-  --italic-color: #ffffff;
-  --italic-background-color: #ee0909;
+  --bold-color: rgb(0, 85, 255);
 
-  /* Cool-List */
-  --cool-list-color: rgb(233, 26, 11);
+  --default-header-font-color: rgb(22, 22, 22);
+  --subtitle-color: rgb(12, 55, 75);
+  --letter-spacing: -0.6px !important;
+  --default-header-bold-font-color: rgb(228, 5, 5);
+  --default-strong-font-color: rgb(201, 59, 34);
+  --italic-background-color: orangered;
+  --default-border-color: 2px solid rgb(211, 34, 11);
 
-  /* H1 */
-  --h1-color: #32446b;
-  --h1-font-family: 'Fira Sans condensed';
-  --h1-font-size: 36pt;
-  --h1-font-weight: 900;
-  --h1-padding-bottom: 2mm;
-  --h1-margin-bottom: 10mm;
-  --h1-border-bottom: 1px solid orangered;
 
-  /* Code */
-  --code-background-color: rgba(206, 252, 0, 0.877);
-  --code-font-family: inherit;
-  --code-font-color: rgb(10, 10, 10);
-  --code-font-size: inherit;
-  --code-font-weight: 600;
-  --code-padding-left: 16px;
-  --code-padding-right: 16px;
-  --code-border-radius: 13pt;
 
-    /* List Item <li> */
-  --li-font-size: 22pt;
-  --li-hover-font-color: rgb(255, 255, 255);
-  --li-hover-background-color: rgba(10, 10, 10, 0.089);
-}
-
-:root {
-
-  font-family: var(--default-font-family);
-  font-weight: var(--default-font-weight);
-  font-size: var(--default-font-size);
   background-color: var(--default-background-color);
   color: var(--default-font-color);
-  font-kerning: auto !important;
-  letter-spacing: var(--default-letter-spacing);
 
 }
 
-/* ----------------------- TITLE PAGE -------------------------------*/
+:root p {
+
+  font-size: 36px;
+  font-family: "BodyFont", sans-serif !important;
+  letter-spacing: -0.5px;
+
+  color: var(--default-font-color);
+}
+
+:root ul,
+ol {
+
+  font-size: 30px;
+  font-family: "BodyFont", sans-serif !important;
+  letter-spacing: -0.2px;
+  font-weight: 600 !important;
+
+}
+
+:root h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* font-family: BodyFont, serif; */
+  color: var(--default-header-font-color);
+}
+
+:root h1 {
+  border-bottom: var(--default-border-color);
+}
+
+/* -------------------- PRE -------------------------------*/
+
+:root pre {
+  color: rgb(3, 3, 3);
+  font-weight: 800;
+  background-color: #ffffffa1;
+}
+
+/* -------------------- STRONG -----------------------------*/
+
+:root h1 strong {
+  color: var(--default-header-bold-font-color);
+}
+
+section strong {
+  color: var(--default-strong-font-color);
+
+  padding-left: 2px;
+  padding-right: 2px;
+  font-weight: 600;
+}
+
+/* -------------------- TABLE -----------------------------*/
+
+section table {
+  color: #3b4252;
+}
+
+section table th {
+  background-color: #4d768a;
+}
+
+/* -------------------- CITE -----------------------------*/
+
+section.cite {
+
+  background-color: #cedbf3;
+  background-color: #d8dee9;
+  --strong-color: #4d75a5;
+}
+
+section.cite p {
+
+  font-family: Cambria, Georgia, Times, 'Times New Roman', serif !important;
+
+}
+
+/* -------------------- TITLEPAGE --------------------------*/
+
+section.titlepage {
+  color: var(--default-font-color);
+  background-color: var(--default-background-color);
+  --subtitle-font-weight: 300;
+
+}
 
 section.titlepage .title {
-  font-family: var(--titlepage-title-font-family);
-  font-size: var(--titlepage-title-font-size);
-  border-bottom: var(--h1-border-bottom);
-  padding-bottom: var(--titlepage-title-padding-bottom);
-
-}
-
-section.titlepage .subtitle {
-  font-family: var(--titlepage-subtitle-font-family);
-
+  border-bottom: var(--default-border-color);
+  color: var(--default-font-color);
 }
 
 section.titlepage h1 {
-  font-family: var(--titlepage-title-font-family) !important;
-  font-size: var(--titlepage-title-font-size) !important;
-  padding-bottom: var(--titlepage-title-padding-bottom) !important;
-
-}
-
-section.titlepage h2 {
-  line-height: 0pt !important;
-  font-family: var(--titlepage-subtitle-font-family);
-  padding-bottom: 150pt !important;
-
+  border-bottom: var(--default-border-color) !important;
+  color: var(--default-font-color);
 }
 
 section.titlepage .author,
 section.titlepage .date,
 section.titlepage .organization {
   text-align: left;
+  color: var(--default-font-color) !important;
 }
 
-/* -------------------- H1 -------------------------------*/
-
-h1 {
-
-  font-family: var(--h1-font-family);
-  font-weight: var(--h1-font-weight);
-  font-size: var(--h1-font-size);
-  color: var(--h1-color);
-
-  padding-bottom: var(--h1-padding-bottom);
-  margin-bottom: var(--h1-margin-bottom);
-  border-bottom: var(--h1-border-bottom);
-
-}
-
-/* ------------------- PARAGRAPH ------------------------*/
-
-p {
-  font-size: var(--p-font-size);
-  font-weight: var(--p-font-weight);
-  color: var(--p-color);
-  line-height: var(--p-line-height) !important;
-}
-
-/* ----------------- LIST ITEM ------------------------*/
-
-li {
-  font-size: var(--li-font-size) !important;
-}
-
-li:hover {
-  background-color: var(--li-hover-background-color);
-  color: var(--li-hover-font-color);
-}
-
-
-/* --------------------- STRONG -------------------------*/
-
-strong {
-  color: var(--bold-color) !important;
-  padding-left: var(--strong-padding-left);
-  padding-right: var(--strong-padding-right);
-  font-weight: var(--strong-font-weight);
-}
-
-/* ----------------------- CODE -------------------------------*/
-
-section code {
-
-  font-family: var(--code-font-family);
-  font-size: var(--code-font-size);
-  font-weight: var(--code-font-weight) !important;
-
-  background-color: var(--code-background-color);
-  color: var(--code-font-color) !important;
-
-  padding-left: var(--code-padding-left) !important;
-  padding-right: var(--code-padding-right) !important;
-
-  border-end-start-radius:    var(--code-border-radius);
-  border-start-end-radius:    var(--code-border-radius);
-  border-end-end-radius:      var(--code-border-radius);
-  border-start-start-radius:  var(--code-border-radius);
-}
-
-
-/* ----------------------- CITE -------------------------------*/
-
-section.cite {
-  --strong-color: rgba(255, 5, 5, 0.795);
+section.titlepage h1,
+h2,
+h3,
+h4,
+h5 {
+  color: var(--default-font-color) !important;
 }
 
 /* -------------------- TRANSITION -------------------------------*/
 
 section.transition em {
-
   /* color: rgb(10, 100, 235); */
   background-color: rgba(255, 5, 5, 0.295);
-
 }
 
 section.transition strong {
-
   color: rgb(255, 5, 5);
-
 }
 
 section.transition {
-
   background-color: rgb(255, 145, 0);
-
+  background-color: orange;
 }
 
 /* -------------------- TRANSITION2 -------------------------------*/
 
 section.transition2 strong {
-
   color: rgb(10, 100, 235);
   color: rgb(161, 240, 3);
-
 }
 
 /* -------------------- BIBLIO -------------------------------*/
 
-section.biblio {
+section.biblio p {
+  font-family: "FrutigerNextW04-Regular", sans-serif;
+}
 
-  font-family: "Bookerly", serif !important;
-  --text-color: #000000;
-  --biblio-background-color: #dde0e3;
-  --border-color: #1573ff;
-  --bold-color: #1749b4;
+section.biblio {
+  /* font-family: BodyFont;  */
+
+  --text-color: rgb(253, 252, 252);
+  --biblio-background-color: rgb(22, 28, 43);
+  --border-color: darkorange;
+  --bold-color: orange;
 }
 
 /* -------------------- COLUMNS -------------------------------*/
 
 section.columns ul,
-section.columns ol,
-section.columns li {
+ol,
+li {
   color: var(--default-font-color);
-  font-family: var(--default-font-family);
-  font-size: 28px !important;
-  font-weight: 400;
+  font-family: "Fira Sans", sans-serif !important;
+  font-weight: 100;
 }
+
+section.columns li {}

@@ -36,6 +36,13 @@ theme: weber
 
 ---
 
+<!-- _backgroundColor: lightgray -->
+
+![bg h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
+![bg h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
+
+---
+
 # Opening Description of a Chapter
 
 Some text about what´s ahead...
@@ -181,7 +188,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41XR+s0PceL._SX320_BO1,204,203,200_.jpg)
 <figcaption>
 &nbsp
 </figcaption>
@@ -189,7 +196,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div> 
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41KNIVtP5bS._SX323_BO1,204,203,200_.jpg)
 
 <figcaption>
 &nbsp
@@ -205,7 +212,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div class="columns-center" align="center">
 <div>         
  
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41zozSkvsaS._SX323_BO1,204,203,200_.jpg)
 <figcaption>
 <b>Figure 1</b>: Göthe, Suhrkamp (2011).
 </figcaption>
@@ -213,7 +220,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 </div>
 <div>
 
-![h:450px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
+![h:400px drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/410QfTR2e8S._SX323_BO1,204,203,200_.jpg)
 
 <figcaption>
 <b>Figure 2</b>: Sophokles, Suhrkamp (2015).
@@ -231,7 +238,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
+![h:400 drop-shadow:4px,5px,15px,#010101](https://images-na.ssl-images-amazon.com/images/I/51sIPBiMS7L._SX325_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Oxford edition (1979).
@@ -272,7 +279,7 @@ Philosophy and the sciences were closely linked in the age of Leibniz, Newton, a
 <div>
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
+![h:400 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Springer edition (2023).
@@ -316,12 +323,6 @@ Transition Slide 2<br> _Aditional_ **Text**
 
 ---
 
-<!-- _backgroundColor: lightgray -->
-
-![bg h:70% drop-shadow:0,5px,20px,rgba(0,0,0,.4)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg/602px-Die_protestantische_Ethik_und_der_%27Geist%27_des_Kapitalismus_original_cover.jpg)
-![bg h:100%](https://upload.wikimedia.org/wikipedia/commons/5/52/Juri-Gagarin-Ring_10.jpg)
-
----
 
 
 <!-- _class: biblio -->
