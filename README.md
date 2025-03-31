@@ -75,9 +75,8 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 ### ![](img/marpstyle-ready.svg)  In honor of Πλάτων - Platon (429?–347 B.C.E.)
   [![Style: Plato](img/plato.png)](examples/example-plato.pdf)
 
-| ![](img/marpstyle-updated.svg)                                                                                          |
+| ![](img/marpstyle-updated.svg) <br> In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)                                                         |
 | :---------------------------------------------------------------------------------------------------------------------- |
-| In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543)                                                         |
 | [![Style: Descartes](img/copernicus.png)](examples/example-copernicus.pdf)                                              |
 | [PDF](examples/example-copernicus.pdf) - [HTML](https://cunhapaulo.github.io/marpstyleexamples/example-copernicus.html) |
 
@@ -111,6 +110,10 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 ### ![](img/marpstyle-brand-new.svg) In honor of George Orwell (1903-1950) 
 [![Style: Orwell](img/orwell.png)](examples/example-orwell.pdf)
 
+<!-- | ![](img/marpstyle-brand-new.svg) <br> In honor of George Orwell (1903-1950) |
+| :---------------------------------------------------------------------------------------------------------------------- |
+| [![Style: Orwell](img/orwell.png)](examples/example-copernicus.pdf)                                              |
+| [PDF](examples/example-orwell.pdf) - [HTML](https://cunhapaulo.github.io/marpstyleexamples/example-orwell.html) | -->
 ### ![](img/marpstyle-ready.svg) In honor of Kurt Gödel (1906-1978) 
 [![Style: Gödel](img/godel.png)](examples/example-godel.pdf)
 
