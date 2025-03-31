@@ -78,7 +78,7 @@ Academic presentation on philosophical aspects of Artificial Intelligence (AI) -
 | ![](img/marpstyle-updated.svg)  In honor of Niklas Koppernigk - Nicolaus Copernicus (1473–1543) |
 | --------------------------------------------------------------------------------------------------- |
 |  [![Style: Descartes](img/copernicus.png)](examples/example-copernicus.pdf) |
-| [PDF](examples/example-copernicus.pdf) - [HTML](examples/example-copernicus.html)
+| [PDF](examples/example-copernicus.pdf) - [HTML](https://cunhapaulo.github.io/marpstyleexamples/example-copernicus.html) |
 
 ### ![](img/marpstyle-ready.svg)  In honor of René Descartes (1596–1650) 
   [![Style: Descartes](img/descartes.png)](examples/example-descartes.pdf)
