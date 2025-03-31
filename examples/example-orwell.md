@@ -9,29 +9,6 @@ theme       : orwell
 
 --- 
    
-<style>   
-
-   .cite-author {     
-      text-align        : right; 
-   }
-   .cite-author:after {
-      color             : orangered;
-      font-size         : 145%;
-      /* font-style        : italic; */
-      font-weight       : bold;
-      font-family: 'Fira Sans Condensed', sans-serif; 
-      padding-right     : 130px;
-   }
-   .cite-author[data-text]:after {
-      content           : " - "attr(data-text) " - ";      
-   }
-
-   .cite-author p {
-      padding-bottom : 40px
-   }
-
-</style>
-
 <!-- _class: titlepage -->
 ![bg left:33% brightness:0.9](../img/george-orwell.webp)
 
@@ -94,7 +71,7 @@ Common texts
 ---
 
 
-# Is Algebraic Graph Knowledge **Possible**?
+# Is Algebraic Graph Knowledge **Feasible**?
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
@@ -332,6 +309,15 @@ This addresses the transformations of metaphysics as a discipline, the emergence
  Transition Slide 2<br> _Aditional_ **Text**
     
 ---   
+
+<!-- _class: transition2 -->  
+
+![bg opacity:80%](../img/big-brother.jpg)
+
+Never forget... <br>
+Big Brother is always  <br> *watching* you!
+
+---
 <!-- _class: transition2 -->  
 
 `THANK YOU!`
@@ -374,4 +360,13 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 7. HEIDEGGER, Martin. **Sein und Zeit**. 11. ed. Tübingen: Max Niemeyer Verlag, 1967. 
 8. GADAMER, Hans-Georg. **Wahrheit und Methode**. Berlin: Akademie Verlag, 2007. v. 30.
 </div>
+
+---
+
+<!-- https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/return-88.png -->
+<center>
+
+##  [![h:200](../img/return.png) <br> Return to the begining](#1)
+
+</center>
  

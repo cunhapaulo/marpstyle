@@ -272,3 +272,12 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 8. GADAMER, Hans-Georg. **Wahrheit und Methode**. Berlin: Akademie Verlag, 2007. v. 30.
 </div>
  
+---
+
+<!-- https://icons.veryicon.com/png/o/miscellaneous/basic-monochrome-icon/return-88.png -->
+<center>
+
+##  [![h:200](../img/return.png) <br> Return to the begining](#1)
+
+</center>
+ 
