@@ -231,7 +231,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 
 <center>
 
-![h:410 drop-shadow:4px,5px,15px,#010101](../img/1984cover.jpg)
+![h:410 drop-shadow:4px,5px,15px,#010101](https://upload.wikimedia.org/wikipedia/pt/7/74/1984cover.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Secker and Warburg edition (1949).
