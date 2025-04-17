@@ -267,3 +267,7 @@ Recently I decided to make use of downloading fonts from internet instead of for
 - **Plato** theme was inspired by [Metropolis Beamer Theme](https://github.com/matze/mtheme) for LaTeX by [Mathias Vogelgesang](https://github.com/matze/mtheme). Vielen Dank!!
 - Used some parts of [Juan Vera del Campo](https://github.com/Juanvvc) CSS styles. Gracias!
 - Special thanks go to the creators of [CDN Fonts](https://www.cdnfonts.com/) website, wherefrom those fantastic fonts are downloaded!
+
+## Licensing
+
+Copyright © 2020-2025 [Paulo Cunha](https://github.com/cunhapaulo)
