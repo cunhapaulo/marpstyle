@@ -115,19 +115,11 @@ section::after {
     attr(data-marpit-pagination-total) ' ';
 }
 
-.center {
-  text-align: center;
-}
-
-.right {
-  text-align: right;
-}
-
 .small {
   font-size: 24px;
 }
 
-/* ------------------- TABLE -----------------------------*/
+/**------------------- TABLE -----------------------------*/
 
 /* 
    Tables are always centered.
@@ -178,7 +170,7 @@ tr:hover {
 }
 
 
-/* ------------------- BLOCK QUOTE -----------------------------*/
+/**------------------- BLOCK QUOTE -----------------------------*/
 /* 
   Block quote: used for footnote
   substitution. Use as the last  
@@ -203,7 +195,7 @@ section blockquote strong {
   letter-spacing: -0.5px !important;
 }
 
-/* ------------------- COLUMNS -----------------------------*/
+/**------------------- COLUMNS -----------------------------*/
 /* 
   Adds two-columns class 
 */
@@ -230,7 +222,7 @@ ul {
   color: var();
 }
 
-/* ------------------- COLUMNS CENTER ---------------------*/
+/**------------------- COLUMNS CENTER ---------------------*/
 /* 
 /* 
   Adds two-columns with centered contens class 
@@ -244,7 +236,7 @@ ul {
   align-items: center;
 }
 
-/* ------------------- THREE-COLUMNS -----------------------------*/
+/**------------------- THREE-COLUMNS -----------------------------*/
 /* 
   Adds three-columns class 
 */
@@ -255,7 +247,7 @@ ul {
   /* justify-content: center !important; */
 }
 
-/* ------------------- THREE-COLUMNS-CENTER ---------------------*/
+/**------------------- THREE-COLUMNS-CENTER ---------------------*/
 /* 
   Adds three-columns with centered contens class 
 */
@@ -268,7 +260,7 @@ ul {
   align-items: center;
 }
 
-/* ------------------- TITLEPAGE -----------------------------*/
+/**------------------- TITLEPAGE -----------------------------*/
 /* 
     Title Page Class: first slide in a deck.
     
@@ -382,7 +374,7 @@ section.titlepage:after {
   display: none;
 }
 
-/* ------------------- TRANSITION -----------------------------*/
+/**------------------- TRANSITION -----------------------------*/
 /* 
     transition class: first slide in a section. Use h1 as header.
     Use: 
@@ -417,7 +409,7 @@ section.transition:after {
   display: none;
 }
 
-/* ------------------- TRANSITION2 -----------------------------*/
+/**------------------- TRANSITION2 -----------------------------*/
 /* 
     transition2 class: first slide in a section. Use h1 as header.
     Use: 
@@ -457,7 +449,7 @@ section.transition2:after {
 }
 
 
-/* ------------------- TRANSITION3 -----------------------------*/
+/**------------------- TRANSITION3 -----------------------------*/
 /* 
     transition2 class: first slide in a section. Use h1 as header.
     Use: 
@@ -500,7 +492,7 @@ section.transition3:after {
   display: none;
 }
 
-/* ------------------- CITE -----------------------------*/
+/**------------------- CITE -----------------------------*/
 /* 
     cite class: slide containg a citation 
     
@@ -542,7 +534,7 @@ section.cite:after {
   display: none;
 }
 
-/* ------------------- BIBLIO -----------------------------*/
+/**------------------- BIBLIO -----------------------------*/
 /* 
     slides containg bibliography
     Use: 
@@ -593,7 +585,7 @@ section.biblio:after {
   display: none;
 }
 
-/* ------------------- COOL-LIST -----------------------------*/
+/**------------------- COOL-LIST -----------------------------**/
 /* 
 
   Credits: https://catalin.red/css3-ordered-list-styles/
@@ -800,4 +792,53 @@ section.cool-list2 ol ul {
 
 section.cool-list2 ol ol em {
   background: #efefef;
+}
+
+/**------------------- POSITIONING - new 08.04.2025 -----------------------------*/
+
+.topleft {
+
+  position: absolute;
+  top: 38px;
+  left: 26px;
+
+}
+
+.topright {
+  position: absolute;
+  top: 38px;
+  right: 26px;
+
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 38px;
+  left: 26px;
+
+}
+
+.bottomright {
+  position: absolute;
+  bottom: 38px;
+  right: 26px;
+}
+
+.centered {
+  position: absolute;
+
+  left: 0px;
+  right: 0pt;
+  
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
 }
