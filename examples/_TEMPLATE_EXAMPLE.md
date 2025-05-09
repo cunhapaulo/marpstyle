@@ -1,8 +1,8 @@
 ---
-title       : Example Slides for Theme Orwell
+title       : Template Example Slides
 author      : Paulo Cunha
-description : This is an example of how to use my themes
-keywords    : Marp, Slides, Themes, Marpstyle, Einstein, Bern
+description : This template is to be used as baseline for new themes.
+keywords    : Marp, Slides, Themes, Marpstyle
 marp        : true
 paginate    : true
 theme       : orwell
@@ -108,8 +108,22 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 
 </div>
 </div>
+
  
 ---
+
+# Figures
+
+<figcaption>
+
+![h:420](../img/statechart.png)
+
+<b>Figure 1</b>: Statechart machine.
+
+</figcaption>
+
+---
+
 
 # Tables  
 
@@ -202,7 +216,7 @@ This addresses the transformations of metaphysics as a discipline, the emergence
 <div>
 <center>
 
-![h:450 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
+![h:400 drop-shadow:4px,5px,15px,#010101](https://m.media-amazon.com/images/I/41S8kjZ0hoL._SX330_BO1,204,203,200_.jpg)
 
 <figcaption align="center">
 <b>Figure</b>: Springer edition (2023).

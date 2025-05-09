@@ -143,10 +143,19 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 </div>
  
 ---
+# Figures
+
+<figcaption>
+
+![h:420](../img/statechart.png)
+
+<b>Figure 1</b>: Statechart machine.
+
+</figcaption>
+
+---
 
 # Tables
-
-
 
 | Column A | Column B | Column C | Column D |
 | :------: | -------: | -------- | :------: |
