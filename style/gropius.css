@@ -18,14 +18,17 @@
 /*! Importing Font                                */
 /*! Font Credit: htts://https://www.cdnfonts.com/ */
 /*-----------------------------------------------*/
-/*! @import url('https://fonts.cdnfonts.com/css/libre-bodoni-2'); */
-/*! @import url('https://fonts.cdnfonts.com/css/joan-2'); */
-/*! @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+/* @import url('https://fonts.cdnfonts.com/css/libre-bodoni-2'); */
+/* @import url('https://fonts.cdnfonts.com/css/joan-2'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans-condensed?styles=19730'); */
+/* @import url('https://fonts.cdnfonts.com/css/montserrat'); */
+/* @import url('https://fonts.cdnfonts.com/css/futura-std-4'); */
+/* @import url('https://fonts.cdnfonts.com/css/open-sans'); */
+/* @import url('https://fonts.cdnfonts.com/css/noto-serif-thai'); */
 @import url('https://fonts.cdnfonts.com/css/faustina-2');
-@import url('https://fonts.cdnfonts.com/css/futura-std-4');
-@import url('https://fonts.cdnfonts.com/css/open-sans');
 @import url('https://fonts.cdnfonts.com/css/droid-sans-2');
-@import url('https://fonts.cdnfonts.com/css/noto-serif-thai');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 /*! -------------------- ROOT -------------------------------*/
 
@@ -34,12 +37,17 @@
   /*! Default items */
   /* --default-font-family: 'Futura Std', 'Faustina', 'Berlin Type Office', 'Calisto MT', 'Bookerly', 'Noto Serif Thai', sans-serif; */
   /* --default-font-family: 'Faustina', sans-serif; */
-  --default-font-family: 'Bookerly', 'Noto Serif Thai', sans-serif;
+  --default-font-family: 'Inria Sans', 'Bookerly', 'Noto Serif Thai', sans-serif;
   --default-font-weight: initial;
   --default-font-size: 22pt !important;
   --default-font-color: rgb(48, 49, 85);
-  --default-letter-spacing: -0.5px;
-  --default-background-color: rgb(233, 240, 255) ;
+  --default-letter-spacing: -0.8px;
+  /* 
+  --default-background-color: #A4C2F4; 
+  --default-background-color: #C9DAF8; 
+  --default-background-color: #ffb600; 
+  */
+  --default-background-color: #b8c2f9; 
   
   /*! Paragraph */
   --p-color: rgba(4, 20, 41, 0.814);
@@ -70,23 +78,27 @@
   
   /*! Bold  */
   --bold-color: rgb(255, 8x, 0);
-  --bold-color: rgb(231, 0, 0);
+  --bold-color: rgb(2, 96, 236);
 
   /*! Italic */
-  --italic-color: rgb(255, 255, 255);
-  --italic-background-color: rgb(238, 9, 9);
+  --italic-color: rgb(17, 16, 16);
+  --italic-background-color: rgb(238, 234, 9);
 
   /*! Cool-List */
   --cool-list-color: rgb(233, 26, 11);
 
   /*! H1 */
-  --h1-color: rgb(41, 82, 172);
-  --h1-font-family: 'Open Sans Condensed';
+  /* --h1-color: rgb(9, 38, 80); */
+  --h1-color: rgb(255, 255, 255);
+  --h1-font-family: 'Montserrat';
   --h1-font-size: 36pt;
   --h1-font-weight: 600;
+  --h1-letter-spacing: -1.76px;
+  --h1-text-shadow: -10px 2px 45px #0c3157b4;
+
   --h1-padding-bottom: 2mm;
   --h1-margin-bottom: 10mm;
-  /*! --h1-border-bottom: 1px solid orangered; */
+  /* --h1-border-bottom: 1px solid orangered; */
 
   /*! Code */
   --code-background-color: rgba(206, 252, 0, 0.726);
@@ -199,7 +211,8 @@ h1 {
   padding-bottom: var(--h1-padding-bottom);
   margin-bottom: var(--h1-margin-bottom);
   border-bottom: var(--h1-border-bottom);
-
+  letter-spacing: var(--h1-letter-spacing);
+  text-shadow: var(--h1-text-shadow);
 }
 
 /*! ------------------- PARAGRAPH ------------------------*/

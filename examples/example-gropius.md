@@ -76,20 +76,14 @@ theme       : gropius
 
 <div class="center">
 
-
-
 Bauhaus movement
-
 New Movement
-
 Bauhaus movement
 
 ![w:200](https://shop.bauhaus-movement.com/media/3084/catalog/state-bauhaus-in-weimar-1919-1923.png?size=600)
 
 New Movement
-
 Bauhaus movement
-
 New Movement
 
 </div>
@@ -106,7 +100,7 @@ When the neet to  make strong assertions becomes inevitable:
 - This is the first way: **outstanding assertion**!   
 - Greater impact comes from: _hilight text_!  
 - Even greater impact comes from: `hilight text`!  
-   
+<br>   
 > ***Note**: This is a very long footnote line intended to test the layout of two. 
 > 
 ---         

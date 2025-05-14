@@ -60,14 +60,14 @@ section li {
 }
 
 section li:hover {
-  
+
   /* margin-top: 1em; */
   /* margin-bottom: 1em; */
   /* font-size: 150% !important; */
   /* font-weight: 600 !important; */
   /* color: #000000 !important; */
   /* border: 1px solid rgb(8, 8, 8); */
-  
+
   background-color: rgb(250, 233, 2);
   color: black !important;
   background-color: rgb(208, 253, 6);
@@ -99,7 +99,7 @@ section strong {
 }
 
 
-section figcaption{
+section figcaption {
   font-size: 80%;
   padding-top: 10px;
   text-align: center;
@@ -129,15 +129,15 @@ section::after {
 */
 section table {
   margin-top: 40px;
-  
-  
+
+
   /* width: auto;  (24.01.2025 paulo.cunha) */
   border: 0;
   font-size: 24px;
-  
-    margin-right: auto !important;
-    margin-left: auto !important; 
-  
+
+  margin-right: auto !important;
+  margin-left: auto !important;
+
 }
 
 section table th {
@@ -152,7 +152,7 @@ section table td {
 }
 
 section table tr:nth-child(2) {
-  background-color: #c4c6c6;  
+  background-color: #c4c6c6;
 }
 
 section table tr:last-child {
@@ -829,7 +829,7 @@ section.cool-list2 ol ol em {
 
   left: 0px;
   right: 0pt;
-  
+
   top: 50%;
   width: 100%;
   text-align: center;
