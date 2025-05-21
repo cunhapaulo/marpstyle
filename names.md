@@ -2,7 +2,7 @@
 
 1. Socrates (470 a.C.-399 a.C.)
 2. Plato (429 a. C.-437 a.C.)
-3.  Nicolau Copernico (1473 - 1543) 
+3. Nicolau Copernico (1473 - 1543) 
 4. Descartes, Rene (1596-1650)
 5. Leibniz, Gottfried Wilhelm (1646-1716)
 6. Kant, Immanuel (1724-1804)
@@ -24,6 +24,7 @@
 1. David Hume (1711 - 1776) 
 2. Pascal, Blaise (1623-1662) 
 3. Galileu Galilei (1564 - 1642)
+4. Walter Gropius (1883 - 1969)
 
 # Prospective Names
 
@@ -39,14 +40,13 @@
 10. John Locke (1632 - 1704)
 11. Ernst Cassirer (1874 - 1945)
 12. Allan Kardec (1804 - 1869)
-13. Walter Gropius (1883 - 1969)
-14. Adam Smith (1723 - 1790)
-15. Johann Gottlieb Fichte (1762 - 1814)
-16. Werner Heisenberg (1901 - 1976)
-17. David Hilbert (1862 - 1943)
-18. Neumann, John von (1903 - 1957)
-19. Gauss, Carl Friedrich
-20. Theodor Adorno (1903 - 1969)
+13. Adam Smith (1723 - 1790)
+14. Johann Gottlieb Fichte (1762 - 1814)
+15. Werner Heisenberg (1901 - 1976)
+16. David Hilbert (1862 - 1943)
+17. Neumann, John von (1903 - 1957)
+18. Gauss, Carl Friedrich
+19. Theodor Adorno (1903 - 1969)
 
 Essas informações fornecem um panorama das datas de nascimento e morte dessas personalidades notáveis. Se precisar de mais informações ou tiver outras perguntas, estou à disposição.
 
