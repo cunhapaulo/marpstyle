@@ -1,0 +1,100 @@
+/* @theme hume */
+
+/*
+  ============================================
+    Created by Paulo Cunha
+    version: 1.0
+    last update: 16.jun.2024
+  ============================================       
+*/
+
+/* Importing COLOR SCHEMA */
+
+@import "default";
+@import "schema";
+@import "structure";
+
+/* Importing Font */
+/* Font Credit: htts://https://www.cdnfonts.com/ */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans'); */
+/* @import url('https://fonts.cdnfonts.com/css/fira-sans?styles=20119'); */
+/* @import url('https://fonts.cdnfonts.com/css/pt-sans-2'); */
+@import url('https://fonts.cdnfonts.com/css/open-sans');
+
+
+/***************** COMMON STRUCTURE **********************/
+
+:root {
+  font-family: 'Open Sans', "PT Sans", 'Fira Sans', sans-serif;
+
+  font-weight: initial;
+  --italic-background-color   : rgba(214, 25, 66, 0.144);
+  --italic-background-color   : rgba(8, 206, 255, 0.3);
+  --italic-background-color   : rgba(8, 140, 255, 0.236);    
+  background-color: #f3f1ec; 
+}
+
+h1 {
+  color:rgb(53, 80, 112);
+  color:rgb(11, 37, 69);
+  letter-spacing: 0.25pt;
+  padding-bottom: 2mm;
+  margin-bottom: 12mm;
+}
+
+p {
+  font-size: 26pt;
+  font-weight: 600;
+  color:rgba(44, 44, 53, 0.814)  
+}
+
+
+section.cite {
+  --strong-color        : rgba(255, 5, 5, 0.795);
+}
+
+section.titlepage {
+  background-color: #f3f1ec; 
+}
+
+section.titlepage .title {
+  border-bottom: 1px solid orangered;
+}
+
+section.titlepage .author,
+section.titlepage .date,
+section.titlepage .organization {
+  text-align: left;
+}
+
+section strong {
+  color:rgb(141, 169, 196) ;
+  color:rgb(181, 101, 118) ;
+  color:rgb(229, 107, 111) ;
+  color:rgba(23, 86, 118) ;
+  color:rgb(0, 53, 199) ;
+  color:rgb(186, 50, 79) ;
+  color:rgb(179, 31, 63) ;
+  padding-left: 1px;
+  padding-right: 1px;
+  font-weight: 600;
+}
+
+section.transition em{
+  background-color: rgb(255, 166, 0) !important;
+}
+
+
+section.transition strong {
+  color: rgba(230, 250, 6, 0.905);
+  font-weight: 1000;
+  text-shadow: 2px 2px 10px rgb(101, 45, 3);
+}
+
+
+section.transition2 strong {
+
+  color: rgb(10, 100, 235);
+  color: rgb(161, 240, 3);
+
+}

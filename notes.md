@@ -2,6 +2,7 @@
 
 - [ ] Create a new style based on **Descartes** using Bookerly font or adapt Orwell style to use colors of the style below:
   - Analyse style stored in (2023.10.29 - CEAK)
+- [ ] Taking advantage of the color red and background color in Hume 2. 
 
 
 # Bereits benutzte Namen (Already used Names)
