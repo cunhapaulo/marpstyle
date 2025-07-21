@@ -5,6 +5,7 @@
     Created by Paulo Cunha
     version: 1.75
     
+    update: 2025.jul.21
     update: 06.mai.2024
     update: 23.jun.2023 
     update: 12.mai.2022
@@ -523,7 +524,7 @@ section.cite p {
 }
 
 section.cite strong {
-  color: whitesmoke;
+  color: var(--strong-color);
 }
 
 /* Omits page number in Title Page Slide */
