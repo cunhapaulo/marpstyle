@@ -270,7 +270,7 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 
 --- 
   
-<!-- _class: cite -->
+<!-- _class: cite2 -->
  
 <div class="cite-author" data-text="Mona Batra">
 

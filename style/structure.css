@@ -504,7 +504,7 @@ section.transition3:after {
 
 */
 section.cite {
-  background-color: var(--background-color);
+  background-color: #9aade2;
 }
 
 section.cite p {
@@ -523,13 +523,55 @@ section.cite p {
 }
 
 section.cite strong {
-  color: var(--strong-color);
+  color: whitesmoke;
 }
 
 /* Omits page number in Title Page Slide */
 section.cite footer,
 section.cite header,
 section.cite:after {
+  /* hide header, footer and pagination */
+  display: none;
+}
+/**------------------- CITE2 -----------------------------*/
+/* 
+    cite class: slide containg a citation 
+    
+    Use: 
+    
+    <!-- _class: cite --> 
+
+    Text
+
+*/
+section.cite2 {
+  background-color: white !important;
+}
+
+section.cite2 p {
+  color: rgb(34, 34, 48) !important;
+  background-color: rgb(255, 255, 255);
+  letter-spacing: 0.1pt;
+  font-size: 155%;
+  text-align: center;
+  line-height: 1.2em;
+  font-family:  , Cambria, Cochin, Times, serif;
+  /*  font-style: oblique; */
+  padding-top: auto;
+  padding-bottom: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+section.cite2 strong {
+  font-style: italic;
+  color: #6462f1 !important;
+}
+
+/* Omits page number in Title Page Slide */
+section.cite2 footer,
+section.cite2 header,
+section.cite2:after {
   /* hide header, footer and pagination */
   display: none;
 }
