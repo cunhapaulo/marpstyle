@@ -1,4 +1,5 @@
 ---
+
 title       : Example Slides for Theme Pascal
 author      : Paulo Cunha
 description : This is an example of how to use my themes.
@@ -6,6 +7,7 @@ keywords    : Marp, Slides, Themes.
 marp        : true
 paginate    : true
 theme       : pascal
+
 --- 
    
    

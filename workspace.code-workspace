@@ -9,29 +9,29 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./style/arendt.css"
-			"./style/copernicus.css"
-			"./style/descartes.css"
-			"./style/einstein.css"
-			"./style/freud.css"
-			"./style/godel.css"
-			"./style/gropius.css"
-			"./style/hegel.css"
-			"./style/heidegger.css"
-			"./style/hume.css"
-			"./style/husserl.css"
-			"./style/jobs.css"
-			"./style/kant.css"
-			"./style/king.css"
-			"./style/leibniz.css"
-			"./style/orwell.css"
-			"./style/pascal.css"
-			"./style/plato.css"
-			"./style/schema.css"
-			"./style/socrates.css"
-			"./style/structure.css"
-			"./style/structure2.css"
-			"./style/turing.css"
+			"./style/arendt.css",
+			"./style/copernicus.css",
+			"./style/descartes.css",
+			"./style/einstein.css",
+			"./style/freud.css",
+			"./style/godel.css",
+			"./style/gropius.css",
+			"./style/hegel.css",
+			"./style/heidegger.css",
+			"./style/hume.css",
+			"./style/husserl.css",
+			"./style/jobs.css",
+			"./style/kant.css",
+			"./style/king.css",
+			"./style/leibniz.css",
+			"./style/orwell.css",
+			"./style/pascal.css",
+			"./style/plato.css",
+			"./style/schema.css",
+			"./style/socrates.css",
+			"./style/structure.css",
+			"./style/structure2.css",
+			"./style/turing.css",
 			"./style/weber.css"
 		]
 	}
