@@ -12,7 +12,7 @@ I sincerely hope you make good use of it and that it comes to be as useful to yo
 > Please, REMEMBER! <br>
 >  If you find my styles and Marp's ecosystem useful, we kindly ask you to include the credits in your presentations!
 
-## **New Feature**: List Items Highlight (18.03.2024) 
+## **New Feature**: List Items Highlight (18.03.2025) 
 
 I´ve just implemented the highlighting of list elements in all styles when you move the mouse pointer over them. 
 
