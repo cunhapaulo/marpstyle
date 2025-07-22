@@ -59,7 +59,7 @@ section li {
   margin-bottom: 0.25em;
   line-height: 1.2em;
   font-size: 105%;
-  color: val(--list-item-color);
+  color: var(--list-item-color);
 }
 
 section li:hover {
