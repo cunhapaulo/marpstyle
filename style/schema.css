@@ -41,10 +41,8 @@
     --table-border-top: rgb(97, 96, 96);
     --table-border-bottom: rgba(97, 97, 96, 0.315);
     --table-nth-child-color: #eef1f3;
-    /* --table-hover-background-color: rgb(245, 253, 230); */
-    --table-hover-background-color: rgb(252, 11, 11);
-    /* --table-hover-color: black; */
-    --table-hover-color: white;
+    --table-hover-color: black;
+    --table-hover-background-color: rgb(252, 216, 11);
 
 }
 

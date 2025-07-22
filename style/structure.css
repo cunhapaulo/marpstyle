@@ -536,6 +536,7 @@ section.cite:after {
   /* hide header, footer and pagination */
   display: none;
 }
+
 /**------------------- CITE2 -----------------------------*/
 /* 
     cite class: slide containg a citation 
@@ -558,7 +559,7 @@ section.cite2 p {
   font-size: 145%;
   text-align: center;
   line-height: 1.2em;
-  font-family:  , Cambria, Cochin, Times, serif;
+  font-family: , Cambria, Cochin, Times, serif;
   /*  font-style: oblique; */
   padding-top: auto;
   padding-bottom: auto;
