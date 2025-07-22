@@ -158,7 +158,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
 # Tables
 
 | Column A | Column B | Column C | Column D |
-| :------: | -------: | -------- | :------: |
+| :------: | :------: | -------- | :------: |
 | A1       | B1       | C1       |    D1    |
 | A2       | B2       | C2       |    D2    |
 | A3       | B3       | C3       |    D3    |
