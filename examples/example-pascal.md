@@ -269,16 +269,13 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 --- 
-  
-<!-- _class: cite2 -->
  
-<div class="cite-author" data-text="Mona Batra">
+<!-- _class: cite2 -->        
 
-   "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
+"There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
-</div>
-     
----
+--- 
+
 <!-- _class: transition -->  
 
  Transition Slide 1<br> _Aditional_ **Text**

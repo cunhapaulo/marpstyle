@@ -35,7 +35,9 @@
   --default-font-size: 22pt !important;
   --default-font-color: #303155;
   --default-letter-spacing: -0.4px;
-  --default-background-color: #fdf8ed ;
+  --default-background-color: #f7f0e8 ;
+  --default-background-color: rgb(245, 239, 230) ;
+  --default-background-color: #f5f5f5;
   
   /* Paragraph */
   --p-color: rgba(4, 20, 41, 0.814);
@@ -66,7 +68,7 @@
   --cool-list-color: rgb(233, 26, 11);
 
   /* H1 */
-  --h1-color: #32446b;
+  --h1-color: #25478f;
   --h1-font-family: 'Fira Sans condensed';
   --h1-font-size: 36pt;
   --h1-font-weight: 900;
@@ -91,12 +93,12 @@
 
   
   /* Transition  */
+  --transition-background-color: #6f81b3;
   --transition-em-background-color: #264b97c5;
-  --transition-background-color: #7389c4;
   
   /* Transition2  */
-  --transition2-em-background-color: #d63d00e3;
-  --transition2-background-color: #ee7614;
+  --transition2-background-color: #6a6d6e;
+  --transition2-em-background-color: #0368ffcb;
   /* --transition2-em-background-color: #a3343494;
   --transition2-background-color: #df8379; */
 

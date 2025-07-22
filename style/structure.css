@@ -32,6 +32,7 @@
         <!-- _class: cool-list2       -->
         <!-- _class: table            -->
         <!-- _class: transition       -->
+        <!-- _class: transition2       -->
         <!-- _class: titlepage        -->
 
   Credits: https://catalin.red/css3-ordered-list-styles/
@@ -554,7 +555,7 @@ section.cite2 p {
   color: rgb(34, 34, 48) !important;
   background-color: rgb(255, 255, 255);
   letter-spacing: 0.1pt;
-  font-size: 155%;
+  font-size: 145%;
   text-align: center;
   line-height: 1.2em;
   font-family:  , Cambria, Cochin, Times, serif;
