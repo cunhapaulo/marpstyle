@@ -8,6 +8,7 @@
 		}		
 	],
 	"settings": {
+		"markdown.marp.html": true,
 		"markdown.marp.themes": [
 			"./style/arendt.css",
 			"./style/copernicus.css",
