@@ -58,7 +58,7 @@ Here I've selected some presentations built with Marp using my styles (`Marpstyl
 Academic presentation on Harry Frankfurt - [Link for the presentation](https://cunhapaulo.github.io/frankfurt).
 
 
-### Example 2. A presentation on Harry Frankfurt.
+### Example 2. A presentation on AI.
 
 | [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/) |
 | --------------------------------------------------------------------------------- |
