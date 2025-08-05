@@ -309,7 +309,7 @@ section.columns li {
 
 section.cite {
 
-  background-color: #9aade2;
+  background-color: #9aade2 !important;
 }
 
 section.cite p{
@@ -322,6 +322,6 @@ section.cite p{
 
 section.cite strong{
 
-  color: rgb(248, 248, 247) !important;
+  color: #f8f8f7 !important;
   
 }
