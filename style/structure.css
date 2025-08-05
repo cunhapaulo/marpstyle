@@ -559,7 +559,7 @@ section.cite2 p {
   font-size: 145%;
   text-align: center;
   line-height: 1.2em;
-  font-family: , Cambria, Cochin, Times, serif;
+  font-family: bookerly ,Cochin,Cambria, Times, serif !important;
   /*  font-style: oblique; */
   padding-top: auto;
   padding-bottom: auto;
