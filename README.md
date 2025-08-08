@@ -1,4 +1,4 @@
-# Try the new [[MarpX](https://github.com/cunhapaulo/MarpX/tree/main)] theme form Marp! 
+# Try the new [[MarpX](https://github.com/cunhapaulo/MarpX/tree/main)] theme!!! 
 ### It is almost like Marpstyle 2.0 on steroids!
 ---
 
