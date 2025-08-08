@@ -1,3 +1,4 @@
+![](./img/new2.png) 
 # Try the new [MarpX](https://github.com/cunhapaulo/MarpX/tree/main) theme!!! 
 ### It is almost like Marpstyle 2.0 on steroids! - [Click here to go to MarpX](https://github.com/cunhapaulo/MarpX/tree/main)
 ---
