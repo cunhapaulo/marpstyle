@@ -1,3 +1,7 @@
+# Try the new [MarpX](https://github.com/cunhapaulo/MarpX/tree/main) theme!!! 
+### It is almost like Marpstyle 2.0 on steroids! - [Click here to go to MarpX](https://github.com/cunhapaulo/MarpX/tree/main)
+---
+
 # `Marpstyle`: styles for the Marp package
 
 `Marpstyle` was created with beauty and simplicity as its main concerns, while taking functionality into account. Back in 2021, when the first plato.css theme was ready, I decided to share it freely here on Github.
