@@ -1,13 +1,13 @@
 ---
-title       : Example Slides for Themes Descartes
-author      : Paulo Cunha
-description : This is an example of how to use my themes.
-keywords    : Marp, Slides, Themes.
-marp        : true
-paginate    : true
-theme       : descartes
---- 
-   
+title: Example Slides for Themes Descartes
+author: Paulo Cunha
+description: This is an example of how to use my themes.
+keywords: Marp, Slides, Themes.
+marp: true
+paginate: true
+theme: descartes
+---
+
 <style>   
 
    .cite-author {     
@@ -31,7 +31,6 @@ theme       : descartes
 
 </style>
 
-
 <!-- _class: titlepage -->
 
 ![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/SA_22659-Ren%C3%A9_Descartes_%281595-1650%29.jpg/733px-SA_22659-Ren%C3%A9_Descartes_%281595-1650%29.jpg)
@@ -42,15 +41,19 @@ theme       : descartes
 <div class="date"          > Paris, 1641                                      </div>
 <div class="organization"  > Sacred Faculty of Theology in Paris    </div>
 
-
 ---
+
 <!-- _class: titlepage -->
 
-# Meditationes de Prima Philosophia 
+# Meditationes de Prima Philosophia
+
 ## In qua Dei existentia et animæ immortalitas demonstratur
+
 ### René Descartes
+
 #### Paris, 1641
-##### Sacred Faculty of Theology in Paris 
+
+##### Sacred Faculty of Theology in Paris
 
 ---
 
@@ -58,24 +61,26 @@ theme       : descartes
 
 ![bg left:70% h:80% saturate:2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Meditationes_de_prima_philosophia_1641.jpg/800px-Meditationes_de_prima_philosophia_1641.jpg)
 ![bg h:490 sepia:0.2](https://upload.wikimedia.org/wikipedia/commons/4/46/Portrait_of_Ren%C3%A9_Descartes%2C_bust%2C_three-quarter_facing_left_in_an_oval_border%2C_%28white_background_removed%29.png)
+
 #### Original title page for the first Latin edition (**1641**) of the "Meditationes de prima philosophia" by René Descartes.
+
 > Bibliothèque Nationale de France - Bibliothèque nationale de France. Created: 1 January 1641
 
 ---
-             
+
 # Lists
- 
+
 <div class="columns">
 <div>
       
 <!-- _class: cool-list -->
 
-1. *Paris*
-2. *Marseille*
-3. *Tolouse*
-4. *Lyon*
-5. *Nice*
-   
+1. _Paris_
+2. _Marseille_
+3. _Tolouse_
+4. _Lyon_
+5. _Nice_
+
 </div>  
 <div>    
         
@@ -83,7 +88,7 @@ theme       : descartes
 2. *Montpellier* 
 3. *Strasbourg* 
 4. *Bordeaux*
-5. *Lille* 
+5. *Lille*
 
 </div> 
 </div>           
@@ -94,16 +99,18 @@ theme       : descartes
  
 Research has been conducted in order to evaluate the possibility of reaching meaningful knowledge from Algebraic Graph transformations.   
      
-- Model Cheking and theorem prooving are viable paths. 
+- Model Cheking and theorem prooving are viable paths.
 
-When the neet to  make strong assertions becomes inevitable:
-- This is the first way: **outstanding assertion**!   
+When the neet to make strong assertions becomes inevitable:
+
+- This is the first way: **outstanding assertion**!
 - Even greater impact comes from: _hilight text_!  
-   
-> ***Note**: This is a very long footnote line intended to test the layout of two. 
-> 
----         
-     
+
+
+> **\*Note**: This is a very long footnote line intended to test the layout of two.
+
+---
+
 <div class="columns">            
 <div> 
  
@@ -120,14 +127,14 @@ When the neet to  make strong assertions becomes inevitable:
  
 - This is a fragment o normal text written here in order to exemplify the use of several featrues in CSS.
 
-  - This is one **feature**
-  - This is another subjetc.
- 
+- This is one **feature**
+- This is another subjetc.
+
 </div>
 </div>
 
 ---
- 
+
 # Lists
 
 <div class="columns">
@@ -141,9 +148,9 @@ When the neet to  make strong assertions becomes inevitable:
 4. End of list
 
 </div> 
-<div> 
+<div>
 
-```haskell 
+```haskell
 
 primes = filterPrime [2..]
   where filterPrime (p:xs) =
@@ -156,9 +163,10 @@ seqLength Nil = 0
 seqLength (Cons _ xs) = 1 + seqLength xs
 
 seqAppend Nil ys = ys
-seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)    
-     
+seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
+
 ```
+
 <figcaption align="center">
 <b>Code</b>: Haskell code fragment.
 </figcaption>
@@ -168,7 +176,7 @@ seqAppend (Cons x xs) ys = Cons x (seqAppend xs ys)
  
 ---
 
-# Tables  
+# Tables
 
 | Column A | Column B | Column C | Column D |
 | -------- | -------- | -------- | :------: |
@@ -193,7 +201,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <b>Formulae</b>: Exemples of use of LaTeX formulas.
 </figcaption>
 
---- 
+---
 
 # Images in Two Columns
 
@@ -226,6 +234,7 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <div>
 
 ![h:450px](https://m.media-amazon.com/images/P/B008BBM9B8.01._SCLZZZZZZZ_SX500_.jpg)
+
 <figcaption>
 <b>Figure</b>: Springer Verlag (1979).
 </figcaption>
@@ -248,19 +257,18 @@ $$c=\sqrt{\frac{1}{\mu \epsilon}}$$
 <b>Figure</b>: Oxford edition (1979).
 </figcaption>
 
-
 </center>
 
 </div>
 <div>
 
-## Hegel's Phenomenology  
- 
+## Hegel's Phenomenology
+
 The book was originally entitled "Phänomenologie des Geistes" by its author, G.W.F. Hegel.
 
-* Published in 1807, marked a significant development in German idealism after Kant.
+- Published in 1807, marked a significant development in German idealism after Kant.
 
-* In this book Hegel develops his concepts of dialectic.
+- In this book Hegel develops his concepts of dialectic.
 
 [Price at Amazon](https://www.amazon.com/gp/product/0198245971/ref=ox_sc_act_image_2?smid=A1ZZFT5FULY4LN&psc=1): $ 17.83
 
@@ -269,64 +277,65 @@ The book was originally entitled "Phänomenologie des Geistes" by its author, G.
      
 --- 
  
-<!-- _class: cite -->        
+<!-- _class: cite -->
 
 "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
---- 
-  
+---
+
 <!-- _class: cite -->
- 
+
 <div class="cite-author" data-text="Mona Batra">
 
-   "There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
+"There is an **increasing** demand of current information systems to incorporate the use of a higher degree of formalism in the development process. **Formal Methods** consist of a set of tools and techniques based on mathematical model and formal logic that are used to **specify and verify** requirements and designs for hardware and software systems."
 
 </div>
      
 ---
-<!-- _class: transition -->  
+<!-- _class: transition -->
 
- Transition Slide 1
-    
----         
-<!-- _class: transition2 -->  
+Transition Slide 1
 
- Transition Slide 2
-    
----           
-  
-<!-- _class: biblio -->  
+---
 
-![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
- 
-# References       
+<!-- _class: transition2 -->
 
-1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
+Transition Slide 2
 
-1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
-2. ARISTOTELES. **Nikomachische Ethik**. Berlin: Akademie Verlag, 2010. (Klassiker Auslegen).v. 2
-3. KANT, Immanuel. **Kritik der Praktischen Vernunft**. Berlin: Akademie Verlag, 2002. (Klassiker Auslegen).v. 26 
-4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
+---
 
---- 
-  
 <!-- _class: biblio -->
 
-# References 
+![bg left:33% opacity:20% blur:8px](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+
+# References
+
+1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004.
+
+1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004.
+1. ARISTOTELES. **Nikomachische Ethik**. Berlin: Akademie Verlag, 2010. (Klassiker Auslegen).v. 2
+1. KANT, Immanuel. **Kritik der Praktischen Vernunft**. Berlin: Akademie Verlag, 2002. (Klassiker Auslegen).v. 26
+1. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
+
+---
+
+<!-- _class: biblio -->
+
+# References
+
 <div class="columns">
 <div>
 
-1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004. 
+1. PLATO. **Plato Republic**. Tradução: C. D. C. Reeve. Indianapolis, IN, USA: Hackett Publishing Company, 2004.
 2. ARISTOTELES. **Nikomachische Ethik**. Berlin: Akademie Verlag, 2010. (Klassiker Auslegen).v. 2
-3. KANT, Immanuel. **Kritik der Praktischen Vernunft**. Berlin: Akademie Verlag, 2002. (Klassiker Auslegen).v. 26 
+3. KANT, Immanuel. **Kritik der Praktischen Vernunft**. Berlin: Akademie Verlag, 2002. (Klassiker Auslegen).v. 26
 4. HEGEL, Georg Friederich Wilhelm. **Hegel´s Phenomenology of Spirit**. Tradução: A. V. Miller. New York: Oxford University Press, 2004.
 
 </div>
 <div>
 
-5. HUSSERL, Edmund. **The Crisis of European Sciences and Transcendental Phenomenology**. Evanston, USA: Northwestern University Press, 1970. 
+5. HUSSERL, Edmund. **The Crisis of European Sciences and Transcendental Phenomenology**. Evanston, USA: Northwestern University Press, 1970.
 6. CASSIRER, Ernst. **The Myth of the State**. New Haven, USA: Yale University Press, 1946.
-7. HEIDEGGER, Martin. **Sein und Zeit**. 11. ed. Tübingen: Max Niemeyer Verlag, 1967. 
+7. HEIDEGGER, Martin. **Sein und Zeit**. 11. ed. Tübingen: Max Niemeyer Verlag, 1967.
 8. GADAMER, Hans-Georg. **Wahrheit und Methode**. Berlin: Akademie Verlag, 2007. v. 30.
 </div>
- 

@@ -32,8 +32,8 @@
     font-family: 'Fira Sans Light';
     font-weight: initial;
     font-kerning: auto !important;
-    background-color: rgb(187, 199, 231); 
-    --cool-list-color: rgb(119, 144, 199)
+    background-color: #bbc7e7; 
+    --cool-list-color: #7790c7;
 }
 
 
@@ -112,7 +112,7 @@ section.titlepage {
     background-color: rgb(184, 184, 184); 
     background-color: rgb(132, 151, 176);
 */
-    background-color: rgb(119, 144, 199);
+    background-color: #7790c7;
     color: rgb(196, 218, 252) !important;
 
 }
@@ -135,7 +135,7 @@ section.titlepage h1,
 section.titlepage h2,
 .subtitle {
 
-    color: rgb(220, 222, 224) !important;
+    color: #dcdee0 !important;
 }
 
 
