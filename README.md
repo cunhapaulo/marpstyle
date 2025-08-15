@@ -59,14 +59,14 @@ Here I've selected some presentations built with Marp using my styles (`Marpstyl
 
 
 
-| [![](img/frankfurt.png)](https://cunhapaulo.github.io/frankfurt) |
+| [![](img/frankfurt.png)](https://cunhapaulo.github.io/pages/frankfurt) |
 | ---------------------------------------------------------------- |
-Academic presentation on Harry Frankfurt - [Link for the presentation](https://cunhapaulo.github.io/frankfurt).
+Academic presentation on Harry Frankfurt - [Link for the presentation](https://cunhapaulo.github.io/pages/frankfurt).
 
 
 ### Example 2. A presentation on AI.
 
-| [![](https://cunhapaulo.github.io/ai/main.png)](https://cunhapaulo.github.io/ai/) |
+| [![](https://cunhapaulo.github.io/pages/ai/main.png)](https://cunhapaulo.github.io/pages/ai/) |
 | --------------------------------------------------------------------------------- |
 Academic presentation on philosophical aspects of Artificial Intelligence (AI) - [Link for the presentation](https://cunhapaulo.github.io/ai/) - [Source code used in this presentation](examples/presentation-ai/)
 
