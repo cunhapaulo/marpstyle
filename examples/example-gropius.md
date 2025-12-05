@@ -51,7 +51,6 @@ theme       : gropius
        
 ![bg h:500 ](https://artefactae.wordpress.com/wp-content/uploads/2019/03/fp_bauhaus_backcover_1812171106_id_1233400.jpg)
 
-
 ---
 
 ![bg](https://www.smow.com/blog/wp-content/uploads/2016/11/Bauhaus-Dessau-Bomb-1945.jpg)

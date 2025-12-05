@@ -49,14 +49,14 @@
   /* --default-background-color: rgb(39, 42, 53); */
   --default-background-color: rgba(131, 133, 139, 0.24);
   --default-background-color: rgb(62, 63, 70);
-  --default-background-color: rgb(62, 63, 66);
+  --default-background-color: #3e3f42;
 
-  --default-font-color: rgb(237, 242, 245);
+  --default-font-color: #edf2f5;
 
   --default-header-font-color: rgb(136, 141, 141);
   --default-header-font-color: rgb(130, 162, 179);
   --default-header-font-color: #6183A8;
-  --default-header-font-color: rgb(139, 177, 197);
+  --default-header-font-color: #8bb1c5;
 
   --default-header-bold-font-color: rgb(250, 118, 70);
 
@@ -132,7 +132,6 @@ section table th {
 
 section.cite {
   background-color: #d8dee9;
-  --strong-color: #c53442;
   --strong-color: #4d75a5;
 }
 
