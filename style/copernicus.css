@@ -41,9 +41,7 @@ section h1 {
 
     font-family: 'Fira Sans';
     font-weight: 500;
-    color: rgb(53, 78, 158);
-    color: rgb(1, 25, 99);
-
+    color: #011963;
     letter-spacing: -1.25px;
     border-bottom: 1px solid rgb(87, 117, 145) !important;
 
@@ -91,10 +89,10 @@ section em {
     background-color: rgba(7, 216, 253, 0.671);
     background-color: rgba(238, 255, 0, 0.671);
     background-color: rgba(148, 181, 252, 0.76);
-    background-color: rgba(119, 144, 199, 0.349);
+    background-color: #7790c759;
     color:rgb(168, 70, 73);
     color: rgb(241, 241, 245);
-    color: rgb(26, 57, 82);
+    color: #1a3952;
 }
 
 section strong {

@@ -10,7 +10,7 @@ theme: copernicus
 
 <!-- _class: titlepage -->
 
-![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Copernicus.jpg/800px-Copernicus.jpg)
+![bg left:33% saturate:1.5](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Copernicus.jpg/500px-Copernicus.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20101214082603)
 
 <div class="title"         > De revolutionibus orbium coelestium </div>
 <div class="subtitle"      > On the Revolutions of the Heavenly Spheres </div>
